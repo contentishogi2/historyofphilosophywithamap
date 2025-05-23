@@ -1,6 +1,6 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Existence" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1745600178127"><hook NAME="MapStyle" zoom="0.75">
+<node TEXT="Existence" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1745905853507"><hook NAME="MapStyle" zoom="0.9">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" allow_compact_layout="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
@@ -113,7 +113,7 @@
 <node TEXT="57" OBJECT="java.lang.Long|57" ID="ID_1229415500" CREATED="1743066551925" MODIFIED="1743615173980">
 <node TEXT="Eclipse of Thales" ID="ID_1232777466" CREATED="1743066721301" MODIFIED="1743615173980">
 <arrowlink DESTINATION="ID_1690504049"/>
-<arrowlink DESTINATION="ID_1604494370" STARTINCLINATION="112.2 pt;-70.2 pt;" ENDINCLINATION="2326.20006 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1604494370" STARTINCLINATION="112.2 pt;0 pt;" ENDINCLINATION="2326.20006 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_1857200026"/>
 </node>
 </node>
@@ -534,55 +534,67 @@
 <node TEXT="-1000" OBJECT="java.lang.Long|-1000" ID="ID_158557741" CREATED="1743016973586" MODIFIED="1743615173905"/>
 <node TEXT="-900" OBJECT="java.lang.Long|-900" ID="ID_775614115" CREATED="1743016991397" MODIFIED="1743615173905"/>
 <node TEXT="-800" OBJECT="java.lang.Long|-800" ID="ID_1036483948" CREATED="1743016995105" MODIFIED="1743615173905"/>
-<node TEXT="-700" OBJECT="java.lang.Long|-700" ID="ID_109724340" CREATED="1743016996774" MODIFIED="1744742328361">
+<node TEXT="-700" OBJECT="java.lang.Long|-700" ID="ID_109724340" CREATED="1743016996774" MODIFIED="1746123311020">
 <arrowlink DESTINATION="ID_790158132"/>
 <arrowlink DESTINATION="ID_429653433"/>
+<arrowlink DESTINATION="ID_1958971105"/>
 </node>
-<node TEXT="-600" OBJECT="java.lang.Long|-600" ID="ID_1111411781" CREATED="1743016998710" MODIFIED="1744742328361">
+<node TEXT="-600" OBJECT="java.lang.Long|-600" ID="ID_1111411781" CREATED="1743016998710" MODIFIED="1746123311020">
 <arrowlink DESTINATION="ID_790158132"/>
 <arrowlink DESTINATION="ID_429653433"/>
+<arrowlink DESTINATION="ID_1958971105"/>
 <node TEXT="-584" OBJECT="java.lang.Long|-584" ID="ID_1690504049" CREATED="1743066564331" MODIFIED="1743615173905"/>
 </node>
 </node>
 <node TEXT="Clasical Antiquity (Middle Iron age)" ID="ID_39074033" CREATED="1743016847872" MODIFIED="1743615173905">
-<node TEXT="-500" OBJECT="java.lang.Long|-500" ID="ID_1593836071" CREATED="1743016862839" MODIFIED="1744978255552">
+<node TEXT="-500" OBJECT="java.lang.Long|-500" ID="ID_1593836071" CREATED="1743016862839" MODIFIED="1746123311020">
 <arrowlink DESTINATION="ID_844605855"/>
 <arrowlink DESTINATION="ID_1512956737"/>
 <arrowlink DESTINATION="ID_1978295915"/>
 <arrowlink DESTINATION="ID_114248040"/>
 <arrowlink DESTINATION="ID_1627623993"/>
+<arrowlink DESTINATION="ID_1958971105"/>
 </node>
 <node TEXT="-400" OBJECT="java.lang.Long|-400" ID="ID_592993093" CREATED="1743017002299" MODIFIED="1744127044742">
 <arrowlink DESTINATION="ID_1807816116"/>
+<arrowlink DESTINATION="ID_898321604"/>
 <arrowlink DESTINATION="ID_1512956737"/>
 <arrowlink DESTINATION="ID_114248040"/>
 <arrowlink DESTINATION="ID_1978295915"/>
 </node>
 <node TEXT="-300" OBJECT="java.lang.Long|-300" ID="ID_712289673" CREATED="1743017004390" MODIFIED="1744110341739">
 <arrowlink DESTINATION="ID_990776459"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="-200" OBJECT="java.lang.Long|-200" ID="ID_1270043236" CREATED="1743017009600" MODIFIED="1744110241592">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="-100" OBJECT="java.lang.Long|-100" ID="ID_914283505" CREATED="1743017011528" MODIFIED="1744110241592">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="0" OBJECT="java.lang.Long|0" ID="ID_598642248" CREATED="1743017013538" MODIFIED="1744110241592">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="100" OBJECT="java.lang.Long|100" ID="ID_56079247" CREATED="1743017014771" MODIFIED="1744110241592">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="200" OBJECT="java.lang.Long|200" ID="ID_1139509349" CREATED="1743017018545" MODIFIED="1744110241575">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 </node>
 <node TEXT="Late Antiquity (Late Iron age)" ID="ID_1682399297" CREATED="1743016871799" MODIFIED="1743615173905">
 <node TEXT="300" OBJECT="java.lang.Long|300" ID="ID_302728221" CREATED="1743016884287" MODIFIED="1744110241590">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 <node TEXT="400" OBJECT="java.lang.Long|400" ID="ID_177421620" CREATED="1743017037386" MODIFIED="1744110241590">
 <arrowlink DESTINATION="ID_1619858906"/>
+<arrowlink DESTINATION="ID_898321604"/>
 </node>
 </node>
 </node>
@@ -793,7 +805,9 @@
 <node TEXT="1960" ID="ID_1524136830" CREATED="1743017619108" MODIFIED="1743017619108"/>
 <node TEXT="1961" ID="ID_1196883935" CREATED="1743017619108" MODIFIED="1743017619108"/>
 <node TEXT="1962" ID="ID_1006525123" CREATED="1743017619108" MODIFIED="1743017619108"/>
-<node TEXT="1963" ID="ID_1277385181" CREATED="1743017619108" MODIFIED="1743017619108"/>
+<node TEXT="1963" ID="ID_1277385181" CREATED="1743017619108" MODIFIED="1743017619108">
+<arrowlink DESTINATION="ID_1910608798"/>
+</node>
 <node TEXT="1964" ID="ID_377498779" CREATED="1743017619108" MODIFIED="1743017619108"/>
 <node TEXT="1965" ID="ID_1449070961" CREATED="1743017619108" MODIFIED="1743017619108"/>
 <node TEXT="1966" ID="ID_721146592" CREATED="1743017619108" MODIFIED="1743017619108"/>
@@ -879,9 +893,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Area" LOCALIZED_STYLE_REF="default" POSITION="bottom_or_right" ID="ID_126355639" CREATED="1742993673106" MODIFIED="1745600274903" HGAP_QUANTITY="558.20001 pt" VSHIFT_QUANTITY="-1696.80004 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
+<node TEXT="Area" LOCALIZED_STYLE_REF="default" POSITION="bottom_or_right" ID="ID_126355639" CREATED="1742993673106" MODIFIED="1745905853491" HGAP_QUANTITY="140.6 pt" VSHIFT_QUANTITY="-1735.20004 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
 <edge COLOR="#00007c"/>
-<node TEXT="Asia" LOCALIZED_STYLE_REF="default" ID="ID_838703701" CREATED="1742993808108" MODIFIED="1743615173905" HGAP_QUANTITY="-29.2 pt" VSHIFT_QUANTITY="70.8 pt">
+<node TEXT="Asia" LOCALIZED_STYLE_REF="default" ID="ID_838703701" CREATED="1742993808108" MODIFIED="1745905846153" HGAP_QUANTITY="38 pt" VSHIFT_QUANTITY="70.8 pt">
 <node TEXT="Eastern Asia" FOLDED="true" ID="ID_1431849956" CREATED="1742993737509" MODIFIED="1743615173905">
 <node TEXT="Japan" FOLDED="true" ID="ID_1418467200" CREATED="1742993737509" MODIFIED="1742993737509">
 <node TEXT="Hokkaidou" ID="ID_807145466" CREATED="1742993737509" MODIFIED="1742993737509"/>
@@ -1127,6 +1141,11 @@
 </node>
 <node TEXT="Andhra (Telangana)" ID="ID_1275071539" CREATED="1743228842769" MODIFIED="1743228886430"/>
 <node TEXT="Kuntala" ID="ID_1790964736" CREATED="1743228860218" MODIFIED="1743228893610"/>
+<node TEXT="Sri Lanka" ID="ID_1889086908" CREATED="1745934291125" MODIFIED="1745934612335">
+<node TEXT="Colombo" ID="ID_792582454" CREATED="1745934599634" MODIFIED="1745934618329">
+<arrowlink DESTINATION="ID_1910608798"/>
+</node>
+</node>
 </node>
 <node TEXT="Western Asia" ID="ID_1463342523" CREATED="1742993818622" MODIFIED="1744299488561">
 <node TEXT="Turkey" ID="ID_695174330" CREATED="1742996673349" MODIFIED="1744299478603">
@@ -1375,10 +1394,17 @@
 <node TEXT="Dacia" ID="ID_1117597478" CREATED="1743231127474" MODIFIED="1743615173921"/>
 <node TEXT="Pannonia" ID="ID_125110527" CREATED="1743231129533" MODIFIED="1743615173921"/>
 </node>
-<node TEXT="Western Europe" FOLDED="true" ID="ID_1501562003" CREATED="1742993839103" MODIFIED="1743615173921">
+<node TEXT="Western Europe" ID="ID_1501562003" CREATED="1742993839103" MODIFIED="1745934587350">
 <node TEXT="Holy Roman Empire" ID="ID_1662986770" CREATED="1743085218370" MODIFIED="1743085227033"/>
-<node TEXT="Brittania" ID="ID_996210465" CREATED="1743231172943" MODIFIED="1743231180867"/>
-<node TEXT="Gallia" ID="ID_215134429" CREATED="1743231181130" MODIFIED="1743231185179"/>
+<node TEXT="United Kingdom" ID="ID_446699370" CREATED="1745934549066" MODIFIED="1745934553705">
+<node TEXT="Brittania" ID="ID_996210465" CREATED="1743231172943" MODIFIED="1743231180867">
+<node TEXT="England" ID="ID_856847930" CREATED="1745934558683" MODIFIED="1745934562037">
+<node TEXT="Cambridge" ID="ID_1379091158" CREATED="1745934574502" MODIFIED="1745934577875"/>
+<node TEXT="Oxford" ID="ID_1104337514" CREATED="1745934578455" MODIFIED="1745934580374"/>
+</node>
+</node>
+</node>
+<node TEXT="Gallia" ID="ID_215134429" CREATED="1743231181130" MODIFIED="1745934587350" VSHIFT_QUANTITY="-20.4 pt"/>
 <node TEXT="Aquitania" ID="ID_401434427" CREATED="1743231185494" MODIFIED="1743231189365"/>
 <node TEXT="Hispania" ID="ID_604131664" CREATED="1743231189867" MODIFIED="1743231280030">
 <node TEXT="Terraconensis" ID="ID_904562696" CREATED="1743231280058" MODIFIED="1743231283618"/>
@@ -1619,6 +1645,10 @@
 <node TEXT="Gaargi Vaachaknavi" POSITION="top_or_left" ID="ID_790158132" CREATED="1744370707780" MODIFIED="1744370713747"/>
 <node TEXT="Gautama Buddha" POSITION="top_or_left" ID="ID_1913358991" CREATED="1744126931900" MODIFIED="1744126939707">
 <arrowlink DESTINATION="ID_1593836071"/>
+<arrowlink DESTINATION="ID_1353892923"/>
+<arrowlink DESTINATION="ID_230318761"/>
+<arrowlink DESTINATION="ID_1459038232"/>
+<arrowlink DESTINATION="ID_36477705"/>
 <arrowlink DESTINATION="ID_1709408662"/>
 <arrowlink DESTINATION="ID_975009841"/>
 <arrowlink DESTINATION="ID_805292710"/>
@@ -1678,7 +1708,11 @@
 <arrowlink DESTINATION="ID_1831236763"/>
 <arrowlink DESTINATION="ID_747514359"/>
 </node>
-<node TEXT="Katyayana" POSITION="top_or_left" ID="ID_990776459" CREATED="1744110328792" MODIFIED="1744110331498"/>
+<node TEXT="Kaatyaayana" POSITION="top_or_left" ID="ID_990776459" CREATED="1744110328792" MODIFIED="1746123459348"/>
+<node TEXT="K. N. Jayatilleke" POSITION="top_or_left" ID="ID_1910608798" CREATED="1745934189353" MODIFIED="1745934194261">
+<arrowlink DESTINATION="ID_172781876"/>
+<arrowlink DESTINATION="ID_577552578"/>
+</node>
 <node TEXT="Leucippus" POSITION="top_or_left" ID="ID_1387803182" CREATED="1743591548182" MODIFIED="1743615173921">
 <arrowlink DESTINATION="ID_1593836071"/>
 <arrowlink DESTINATION="ID_299354384"/>
@@ -1699,7 +1733,7 @@
 </node>
 <node TEXT="Menander 1/Milinda" POSITION="top_or_left" ID="ID_233242680" CREATED="1744300015816" MODIFIED="1744300565571">
 <arrowlink DESTINATION="ID_1270043236" STARTINCLINATION="841.80002 pt;93.6 pt;" ENDINCLINATION="782.40002 pt;0 pt;"/>
-<arrowlink DESTINATION="ID_774080258" MIDDLE_LABEL="Adopted" STARTINCLINATION="229.80001 pt;-0.6 pt;" ENDINCLINATION="99.6 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_774080258" MIDDLE_LABEL="Adopted" STARTINCLINATION="229.80001 pt;0 pt;" ENDINCLINATION="99.6 pt;0 pt;"/>
 </node>
 <node TEXT="Melissus of Samos" POSITION="top_or_left" ID="ID_1103001876" CREATED="1743571591539" MODIFIED="1743615173921">
 <arrowlink DESTINATION="ID_1990738257" STARTINCLINATION="320.40001 pt;31.2 pt;" ENDINCLINATION="479.40001 pt;31.2 pt;"/>
@@ -1724,7 +1758,7 @@
 <arrowlink DESTINATION="ID_1111411781"/>
 </node>
 <node TEXT="Paanini" POSITION="top_or_left" ID="ID_1120333560" CREATED="1744110144838" MODIFIED="1745158818602">
-<arrowlink DESTINATION="ID_592993093" STARTINCLINATION="1044.60002 pt;-276.60001 pt;" ENDINCLINATION="898.20002 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_592993093" STARTINCLINATION="1044.60002 pt;-178.8 pt;" ENDINCLINATION="898.20002 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_735947912"/>
 <arrowlink DESTINATION="ID_611243053"/>
 <arrowlink DESTINATION="ID_1256375792"/>
@@ -1851,7 +1885,7 @@
 <arrowlink DESTINATION="ID_1897855366"/>
 <arrowlink DESTINATION="ID_512921473" MIDDLE_LABEL="Teacher?"/>
 </node>
-<node TEXT="Solon" POSITION="top_or_left" ID="ID_366810909" CREATED="1743069496401" MODIFIED="1744030399639">
+<node TEXT="Solon" POSITION="top_or_left" ID="ID_366810909" CREATED="1743069496401" MODIFIED="1746099801208">
 <arrowlink DESTINATION="ID_109724340"/>
 <arrowlink DASH="3 3" DESTINATION="ID_1988324601"/>
 <arrowlink DESTINATION="ID_1196794134"/>
@@ -1927,6 +1961,7 @@
 <arrowlink DESTINATION="ID_109724340"/>
 <arrowlink DESTINATION="ID_429653433" MIDDLE_LABEL="Spouse"/>
 </node>
+<node TEXT="Yaaska" POSITION="top_or_left" ID="ID_1958971105" CREATED="1746123282606" MODIFIED="1746123285078"/>
 <node TEXT="Zeno of Elea" POSITION="top_or_left" ID="ID_59810417" CREATED="1743571486373" MODIFIED="1743615173921">
 <arrowlink DESTINATION="ID_1092402112"/>
 <arrowlink DESTINATION="ID_1990738257"/>
@@ -1981,7 +2016,7 @@
 <node TEXT="Concepts" ID="ID_484022065" CREATED="1743080409753" MODIFIED="1745594190414" HGAP_QUANTITY="12.8 pt" VSHIFT_QUANTITY="-0 pt">
 <node TEXT="Ontology" ID="ID_608204263" CREATED="1743080412304" MODIFIED="1743616236922" HGAP_QUANTITY="-40 pt" VSHIFT_QUANTITY="52.8 pt">
 <node TEXT="Arche/Principle" ID="ID_880226247" CREATED="1743080602952" MODIFIED="1745594184164" HGAP_QUANTITY="70.4 pt" VSHIFT_QUANTITY="-171 pt">
-<node TEXT="Water" ID="ID_203872261" CREATED="1743080605001" MODIFIED="1745484148203" HGAP_QUANTITY="18.2 pt" VSHIFT_QUANTITY="-447.00001 pt">
+<node TEXT="Water" ID="ID_203872261" CREATED="1743080605001" MODIFIED="1747847479793" HGAP_QUANTITY="42.8 pt" VSHIFT_QUANTITY="-562.20001 pt">
 <arrowlink DESTINATION="ID_1604494370"/>
 <arrowlink DESTINATION="ID_1488526903"/>
 <arrowlink DESTINATION="ID_1882037020"/>
@@ -2018,7 +2053,7 @@
 <arrowlink DESTINATION="ID_403227078"/>
 </node>
 <node TEXT="Air is why intelligent beings live by breathing, like animals but unlike plants (he obviously didn&apos;t know Kreb&apos;s cycle). Dying is literally running out of breath" ID="ID_1770751778" CREATED="1743884839132" MODIFIED="1744373992383">
-<arrowlink DESTINATION="ID_441341578" STARTINCLINATION="3979.80009 pt;-127.8 pt;" ENDINCLINATION="4003.8001 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_441341578" STARTINCLINATION="3979.80009 pt;-30 pt;" ENDINCLINATION="4003.8001 pt;0 pt;"/>
 <node TEXT="Breath is most fundamental aspect/essence of the body" ID="ID_664783596" CREATED="1744565542202" MODIFIED="1744565556836"/>
 <node TEXT="Breath/Praana is Wind/Air freed from Death" ID="ID_1433862093" CREATED="1744372846194" MODIFIED="1744375290905">
 <arrowlink DESTINATION="ID_753028535" STARTINCLINATION="93 pt;25.2 pt;" ENDINCLINATION="99.6 pt;0 pt;"/>
@@ -2026,7 +2061,7 @@
 <arrowlink DESTINATION="ID_1981985281"/>
 </node>
 <node TEXT="Breath/Praana is foundation of Speech" ID="ID_687188073" CREATED="1744373135306" MODIFIED="1744565307642">
-<arrowlink DESTINATION="ID_753028535" STARTINCLINATION="519.60001 pt;160.2 pt;" ENDINCLINATION="-276.00001 pt;135 pt;"/>
+<arrowlink DESTINATION="ID_753028535" STARTINCLINATION="519.60001 pt;160.2 pt;" ENDINCLINATION="-178.2 pt;135 pt;"/>
 <arrowlink DESTINATION="ID_1981985281"/>
 <arrowlink DESTINATION="ID_469491538"/>
 <arrowlink DESTINATION="ID_935390389"/>
@@ -2037,14 +2072,18 @@
 <node TEXT="Mathematical" ID="ID_188702663" CREATED="1743250955822" MODIFIED="1743615173921">
 <node TEXT="Substitution" ID="ID_541728092" CREATED="1744374605814" MODIFIED="1745483949840" VSHIFT_QUANTITY="-9 pt">
 <arrowlink DESTINATION="ID_495379812"/>
+<arrowlink DESTINATION="ID_1127439313"/>
 <node TEXT="Parts of humans/animals (like the horses being sacrificed) correspond to parts of the universe, or brahmin priest is whole being/brahman itself(?)" ID="ID_886921433" CREATED="1744289246019" MODIFIED="1744725214223">
 <arrowlink DESTINATION="ID_1725492722" STARTINCLINATION="3478.20008 pt;297.60001 pt;" ENDINCLINATION="3462.00008 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_817529561"/>
 </node>
 <node TEXT="Variables: You can substitute a range of possible cases (in say linguistic expressions) with single abbreviations" ID="ID_735947912" CREATED="1745483831702" MODIFIED="1745483928230">
 <arrowlink DESTINATION="ID_650133185"/>
 <node TEXT="The basis for generalization should be loka(usage)" ID="ID_723298848" CREATED="1745522531755" MODIFIED="1745522541829"/>
 <node TEXT="Only shishtha people/loka ofc (basing generalization on nivaasa(location) and aachaara(conduct.. correct thought, not just social class or level of education))" ID="ID_1380742457" CREATED="1745522745197" MODIFIED="1745528136009">
-<node TEXT="They are well learned, brahmins in Aaryavarta, who have only limited grains (?), have not seized a cause/kaarana(what?), have excelled in some field of knowledge" ID="ID_923717846" CREATED="1745522824260" MODIFIED="1745523000694">
+<node TEXT="They are well learned, brahmins in Aaryavarta, who have only limited grains (?), have not seized a cause/kaarana(what?), have excelled in some field of knowledge" ID="ID_923717846" CREATED="1745522824260" MODIFIED="1747763740747">
+<arrowlink DESTINATION="ID_817529561"/>
+<arrowlink DESTINATION="ID_29617174"/>
 <arrowlink DESTINATION="ID_62394898"/>
 <arrowlink DESTINATION="ID_89681880"/>
 <arrowlink DESTINATION="ID_1638851606"/>
@@ -2052,7 +2091,8 @@
 </node>
 </node>
 <node TEXT="There&apos;s a correspondence (one can substitute other) between bodily parts and functions with primary elements and celestial bodies" ID="ID_824247509" CREATED="1744374895969" MODIFIED="1745484135585" HGAP_QUANTITY="384.8 pt" VSHIFT_QUANTITY="-550.20001 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
-<node TEXT="Speech=Fire, Sight=Sun, Breath=Wind, Mind=Moon, Hearing=Heaven(Sky?), Body=Earth, Self=Space, Hair=Plants, Blood/Semen=Water" POSITION="top_or_left" ID="ID_272633652" CREATED="1744371896860" MODIFIED="1744742911411" HGAP_QUANTITY="27.2 pt" VSHIFT_QUANTITY="270.60001 pt">
+<arrowlink DESTINATION="ID_141049404"/>
+<node TEXT="Speech=Fire, Sight=Sun, Breath=Wind, Mind=Moon, Hearing=Heaven(Sky?), Body=Earth, Self=Space, Hair=Plants, Blood/Semen=Water" POSITION="top_or_left" ID="ID_272633652" CREATED="1744371896860" MODIFIED="1745781053008" HGAP_QUANTITY="27.2 pt" VSHIFT_QUANTITY="270.60001 pt">
 <arrowlink DESTINATION="ID_753028535" STARTINCLINATION="5541.00013 pt;174 pt;" ENDINCLINATION="4355.4001 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_469491538"/>
 <arrowlink DESTINATION="ID_1770751778"/>
@@ -2065,6 +2105,7 @@
 <node TEXT="And given that this novelty is common to all perceptions, then is there a common substitution for all the different perceptions (that explains the common novelty)? and as perceptions can be substituted by phenomena, is there a common substitution for all the phenonema themselves?" ID="ID_1021798048" CREATED="1744566124630" MODIFIED="1744727506312" HGAP_QUANTITY="44.6 pt" VSHIFT_QUANTITY="-249.60001 pt">
 <node TEXT="Brahman/(Being? Beyond/before being and non being? Not clear?) is Ground for correspondences/Substitutions  (brahman=that which &apos;bears up&apos; all things)" POSITION="top_or_left" ID="ID_1312693055" CREATED="1744565334226" MODIFIED="1744727481201" HGAP_QUANTITY="26 pt" VSHIFT_QUANTITY="109.8 pt">
 <arrowlink DESTINATION="ID_886921433"/>
+<arrowlink DESTINATION="ID_1958357232"/>
 <arrowlink DESTINATION="ID_877582813"/>
 <node TEXT="Brahman is the Hearing behind hearing, Thinking behind thinking, Speech behind speech, sight behind sight (one can&apos;t see it with one&apos;s sight but is by which one sees sight itself), and also breathing behind breathing/praana" POSITION="top_or_left" ID="ID_6594013" CREATED="1744565352929" MODIFIED="1744568950392">
 <arrowlink DESTINATION="ID_1903081472"/>
@@ -2077,9 +2118,13 @@
 </node>
 </node>
 <node TEXT="But given that we also experience all of the varied perceptions, that which lies in us which perceives all this, i.e. our Self/Atman is also something common to all the perceptions (I guess their ability to be perceived is common)" POSITION="top_or_left" ID="ID_826595556" CREATED="1744568667031" MODIFIED="1744727486152" HGAP_QUANTITY="29.6 pt" VSHIFT_QUANTITY="-109.2 pt">
-<node TEXT="Atman/Self contains all Actions, Desires, Smells, Tastes" ID="ID_1739506970" CREATED="1744568762248" MODIFIED="1744727464975" HGAP_QUANTITY="35.6 pt" VSHIFT_QUANTITY="114 pt"/>
+<node TEXT="Atman/Self contains all Actions, Desires, Smells, Tastes" ID="ID_1739506970" CREATED="1744568762248" MODIFIED="1744727464975" HGAP_QUANTITY="35.6 pt" VSHIFT_QUANTITY="114 pt">
+<arrowlink DESTINATION="ID_404627683"/>
+</node>
 <node TEXT="In this way the Atman/Self has captured (perceived?) the whole world" ID="ID_415718885" CREATED="1744568840459" MODIFIED="1744568893423"/>
-<node TEXT="As per Prajaapati, by discovering atman, one obtains all worlds and fulfils all desires" ID="ID_975848020" CREATED="1744727330848" MODIFIED="1744727469652" HGAP_QUANTITY="24.8 pt" VSHIFT_QUANTITY="3.6 pt"/>
+<node TEXT="As per Prajaapati, by discovering atman, one obtains all worlds and fulfils all desires" ID="ID_975848020" CREATED="1744727330848" MODIFIED="1744727469652" HGAP_QUANTITY="24.8 pt" VSHIFT_QUANTITY="3.6 pt">
+<arrowlink DESTINATION="ID_404627683"/>
+</node>
 <node TEXT="And so, basically, the Atman, is, the Brahman" ID="ID_582531067" CREATED="1744568896710" MODIFIED="1744727474851" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="110 pt" VSHIFT_QUANTITY="-117 pt">
 <arrowlink DESTINATION="ID_1725492722"/>
 <node TEXT="A wise person can free themselves from phenomena (I&apos;m guessing that is if they figure out brahman) and become immortal" POSITION="top_or_left" ID="ID_675525962" CREATED="1744568332338" MODIFIED="1744569557338">
@@ -2173,7 +2218,7 @@
 <arrowlink DESTINATION="ID_133095700"/>
 <node TEXT="Being is all there is. Non-Being is not something we can meaningfully think about" ID="ID_1828843942" CREATED="1743532170798" MODIFIED="1744284041860" HGAP_QUANTITY="9.2 pt" VSHIFT_QUANTITY="-5.4 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
 <node TEXT="There is neither Being (Is), nor Non Being (Is-not), and if there were, we could neither say anything about it nor know about it" ID="ID_917092528" CREATED="1743929131820" MODIFIED="1744284058363" HGAP_QUANTITY="261.80001 pt" VSHIFT_QUANTITY="-248.40001 pt">
-<arrowlink DESTINATION="ID_388135401" STARTINCLINATION="1618.20004 pt;-15 pt;" ENDINCLINATION="2241.00005 pt;112.2 pt;"/>
+<arrowlink DESTINATION="ID_388135401" STARTINCLINATION="1618.20004 pt;0 pt;" ENDINCLINATION="2241.00005 pt;112.2 pt;"/>
 <node TEXT="If there&apos;s neither Reality nor Unreality, there&apos;s just the way things &quot;Seem&quot; to use" ID="ID_311446859" CREATED="1743929223129" MODIFIED="1744284018240" HGAP_QUANTITY="32.6 pt" VSHIFT_QUANTITY="12.6 pt"/>
 </node>
 <node TEXT="So there&apos;s either &quot;is&quot; and &quot;must be&quot;" ID="ID_155339916" CREATED="1743532197059" MODIFIED="1744284082803" HGAP_QUANTITY="183.2 pt" VSHIFT_QUANTITY="-144.6 pt"/>
@@ -2217,7 +2262,7 @@
 </node>
 <node TEXT="Mind and Mixture" POSITION="top_or_left" ID="ID_688533680" CREATED="1743692569530" MODIFIED="1745600542032" HGAP_QUANTITY="-10 pt" VSHIFT_QUANTITY="-147 pt">
 <arrowlink DESTINATION="ID_1681134853" STARTINCLINATION="1666.20004 pt;223.20001 pt;" ENDINCLINATION="1224.60003 pt;75 pt;"/>
-<arrowlink DESTINATION="ID_1681134853" STARTINCLINATION="2631.00006 pt;0 pt;" ENDINCLINATION="1852.20004 pt;-32.4 pt;"/>
+<arrowlink DESTINATION="ID_1681134853" STARTINCLINATION="2631.00006 pt;0 pt;" ENDINCLINATION="1852.20004 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_1449970262"/>
 <arrowlink DESTINATION="ID_1211057261"/>
 <node TEXT="Mind is infinite" ID="ID_504526176" CREATED="1743692705146" MODIFIED="1743707395807">
@@ -2235,8 +2280,9 @@
 <node TEXT="Mind and only Mind is Unmixed (it&apos;s outside the Mixture)" ID="ID_1337033142" CREATED="1743707567530" MODIFIED="1743711674550" HGAP_QUANTITY="27.2 pt">
 <arrowlink DESTINATION="ID_384625977"/>
 </node>
-<node TEXT="Mixture (I&apos;m guessing rest of Being) is another Infinite substance in which all other things are mixed together (because nothing can come from non-being)" ID="ID_1740039046" CREATED="1743707398994" MODIFIED="1743709772065">
+<node TEXT="Mixture (I&apos;m guessing rest of Being) is another Infinite substance in which all other things are mixed together (because nothing can come from non-being)" ID="ID_1740039046" CREATED="1743707398994" MODIFIED="1747852037000">
 <arrowlink DESTINATION="ID_1828843942"/>
+<arrowlink DESTINATION="ID_477607920"/>
 <node TEXT="Mixture has Seeds" ID="ID_746594835" CREATED="1743707543826" MODIFIED="1743707548304"/>
 <node TEXT="The seeds develop into distinctive substances like air, water, etc" ID="ID_1850028172" CREATED="1743707852978" MODIFIED="1743707871886"/>
 <node TEXT="Everything is in Everything" ID="ID_1596574925" CREATED="1743709262312" MODIFIED="1743709289561">
@@ -2259,6 +2305,30 @@
 <node TEXT="This explains that Change is impossible but also unnecessary, everything already is everything, Food never became flesh and bone, it Always Already was" ID="ID_1747019098" CREATED="1743710621314" MODIFIED="1743710719543">
 <arrowlink DESTINATION="ID_150364643"/>
 </node>
+</node>
+</node>
+<node TEXT="Nature/Prakriti and Observer mind/Passive Soul/Purusha" ID="ID_363314981" CREATED="1747847492142" MODIFIED="1747847618325">
+<node TEXT="Both Prakriti and Purusha are beginningless" ID="ID_477607920" CREATED="1747851918317" MODIFIED="1747852023939">
+<node TEXT="Prakriti causes all in being the agency in the production of products (so the causer of Noumena?)" ID="ID_1843284280" CREATED="1747852102220" MODIFIED="1747852446172">
+<arrowlink DESTINATION="ID_200453516"/>
+</node>
+<node TEXT="Purusha is a cause in that it is what experiences happiness and unhappiness (so causer of Phenomena?)" ID="ID_1054054575" CREATED="1747852129428" MODIFIED="1747852446172">
+<arrowlink DESTINATION="ID_200453516"/>
+<arrowlink DESTINATION="ID_483907122"/>
+<node TEXT="Purusha is purely observing self and remains unchanging despite its connection with body, and through it connection to all of nature" ID="ID_992248355" CREATED="1747852289884" MODIFIED="1747852655628">
+<arrowlink DESTINATION="ID_1337033142"/>
+<arrowlink DESTINATION="ID_546559030"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Jiva/Living/Soul and Ajiva/Non-living/Physical world" ID="ID_551134660" CREATED="1747933641126" MODIFIED="1747933908436">
+<arrowlink DESTINATION="ID_363314981"/>
+<node TEXT="Soul is immaterial and enters into relation with physical world, especially series of individual bodies" ID="ID_952584298" CREATED="1747933685728" MODIFIED="1747933718275">
+<arrowlink DESTINATION="ID_1903081472"/>
+<arrowlink DESTINATION="ID_1384747399"/>
+<arrowlink DESTINATION="ID_504819623"/>
+<node TEXT="Karma is &quot;like&quot; a physical substance, not sure if it actually is a physical substance, probably not, but anyway it&apos;s like &apos;Dust&apos; sticking to soul more easily when it has bad intention or passion (and I guess intention and passion are more on the jiva side of things?)" ID="ID_688584083" CREATED="1747933933746" MODIFIED="1747934020347"/>
 </node>
 </node>
 </node>
@@ -2284,8 +2354,8 @@
 </node>
 </node>
 <node TEXT="Love Strife and Roots" POSITION="top_or_left" ID="ID_767155506" CREATED="1743788334464" MODIFIED="1743795694850" HGAP_QUANTITY="-23.2 pt">
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="1524.60004 pt;-174 pt;" ENDINCLINATION="2742.00007 pt;-213.60001 pt;"/>
-<node TEXT="Roots/Elements (Air Earth Fire Water)" ID="ID_1488526903" CREATED="1743788352893" MODIFIED="1743882523776">
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="1524.60004 pt;-76.2 pt;" ENDINCLINATION="2742.00007 pt;-115.8 pt;"/>
+<node TEXT="Roots/Elements (Air Earth Fire Water)" ID="ID_1488526903" CREATED="1743788352893" MODIFIED="1745781053008">
 <arrowlink DESTINATION="ID_715716316"/>
 <node TEXT="Basic building blocks of cosmos, which recombine in different ways to form the cosmos" ID="ID_1201531390" CREATED="1743788374274" MODIFIED="1743788458607">
 <arrowlink DESTINATION="ID_691335405"/>
@@ -2296,13 +2366,34 @@
 </node>
 </node>
 </node>
-<node TEXT="Reality is just conventional" POSITION="top_or_left" ID="ID_975009841" CREATED="1745692145280" MODIFIED="1745692171954" HGAP_QUANTITY="-24.4 pt"/>
+<node TEXT="Reality is just conventional" POSITION="top_or_left" ID="ID_975009841" CREATED="1745692145280" MODIFIED="1745692171954" HGAP_QUANTITY="-24.4 pt">
+<arrowlink DESTINATION="ID_1318985653"/>
+<arrowlink DESTINATION="ID_1395501420"/>
+<arrowlink DESTINATION="ID_1526939952"/>
+<node TEXT="Reality as Skandha/Khandha" ID="ID_1611479178" CREATED="1745776209592" MODIFIED="1745904394453">
+<node TEXT="Familiar objects around us are considered whole substances only by Convention" ID="ID_914067701" CREATED="1745776255383" MODIFIED="1745776292282">
+<arrowlink DESTINATION="ID_1325424209"/>
+<node TEXT="The aggregate is no more than sum of its parts, just a convenient term to refer to them, e.g. chariot is made of wheel, seat, etc." ID="ID_514009850" CREATED="1745777191300" MODIFIED="1745780442771">
+<arrowlink DESTINATION="ID_541728092"/>
+<arrowlink DESTINATION="ID_1311374420"/>
+</node>
+<node TEXT="Or it&apos;s like how a &quot;fist&quot; is just fingers of hand clenched together (so a &apos;configuration&apos; I think?)" ID="ID_1187393034" CREATED="1745777216444" MODIFIED="1745777319431">
+<arrowlink DESTINATION="ID_1623159279"/>
+<arrowlink DESTINATION="ID_1311374420"/>
+</node>
+</node>
+<node TEXT="But if we continue breaking down reality into more and more parts we reach fundamental parts, like letters of words. These simples components are called dhamma (not clear why same name is used to mean &apos;teachings&apos; also- maybe cuz it&apos;s one of the brahmanical 5 components?)" ID="ID_1664652260" CREATED="1745780294364" MODIFIED="1745904394453" VSHIFT_QUANTITY="-46.2 pt">
+<arrowlink DESTINATION="ID_596204594"/>
+<arrowlink DESTINATION="ID_1069816376"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="Logos" ID="ID_1312591601" CREATED="1743357227736" MODIFIED="1743941369374" HGAP_QUANTITY="53 pt" VSHIFT_QUANTITY="17.99999 pt">
 <arrowlink DESTINATION="ID_1209114342"/>
 <node TEXT="Logos as an Account: Don&apos;t listen cuz the speaker is saying it, listen cuz it&apos;s a true account" ID="ID_1831453139" CREATED="1743357230052" MODIFIED="1745692034852">
 <arrowlink DESTINATION="ID_959572776"/>
-<arrowlink DESTINATION="ID_1430795240" STARTINCLINATION="1558.80004 pt;-63.6 pt;" ENDINCLINATION="1560.60004 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1430795240" STARTINCLINATION="1558.80004 pt;0 pt;" ENDINCLINATION="1560.60004 pt;0 pt;"/>
 </node>
 <node TEXT="Logos is Proportion that binds everything as One (probably as in there&apos;s no excess residue left.. I guess this assumes everything is soluble in the same kinda medium thing.. to be clear this proportion thing might be me trying to make sense of it.. but I&apos;ll like to Pythagoras anyway)" ID="ID_877582813" CREATED="1743357251075" MODIFIED="1743706714921">
 <arrowlink DESTINATION="ID_255668843"/>
@@ -2333,34 +2424,59 @@
 <node TEXT="There was no other Self, so Purusha said &apos;That/sah is I/aham&apos;/&apos;soham&apos; (and hence the self is still referred to as I/aham)" ID="ID_56260466" CREATED="1745173325888" MODIFIED="1745594689118">
 <node TEXT="And then he divided himself into man and woman (cuz he was lonely), and then the woman took forms of various living beings to hide/run away (I guess asking why unite again after separation) which the man version then chased and copulated with to produce all life basically" ID="ID_694884804" CREATED="1745173616458" MODIFIED="1745594796442" HGAP_QUANTITY="11.6 pt" VSHIFT_QUANTITY="5.4 pt">
 <arrowlink DESTINATION="ID_786532133"/>
+<arrowlink DESTINATION="ID_906651968"/>
 <arrowlink DESTINATION="ID_1653117951"/>
-<node TEXT="Self produced Seven foods using Knowledge/Intelligence?/Medhaa and Action/Rites/Tapasaa, One (Food itself in general) common to all, Two(Huta=fire sacrifice and Prahuta=other(I guess animal?presents?)sacrifice) for Gods, Three(Mind/Manah, Speech/Vaacha. Breath/Praana) for himself, One (Milk) for animals cuz.. just that is enough initially in baby stage (so only mammals I guess), but (likely cuz the foods are also the self itself..) the foods are inexhaustible even when eaten (cuz the phenomenon of nature producing new food.. here it&apos;s I guess explained by equating to being/self itself)" ID="ID_495379812" CREATED="1745180211072" MODIFIED="1745181170462">
-<node TEXT="Mana=Desire, resolve-doubt, shraddhaa/faith-ashraddhaa/want of faith(/self confidence?),Dhruti/Steadiness-Adhruti/Unsteadiness,Modesty/Shame,Intelligence,Fear (etc?), You know (that it happened?) even if touched from behind and that&apos;s cuz of the Mind=Sky/Antarikshaloka=Vijijnyaatam(Curiosity?)/That which is knowable(and it becomes that which is knowable.. which I think means curiosity, always something to know)=....." ID="ID_936614201" CREATED="1745181172112" MODIFIED="1745182331795"/>
-<node TEXT="Speech=Any sound, it helps determine a thing(?) without itself being revealed=World/ayam loka=Vijnyaatam/Whatever is known(cuz speech is knower, and becomes that which is known)=..." ID="ID_723580838" CREATED="1745181176944" MODIFIED="1745182336408"/>
-<node TEXT="Praana=Praana, Apaana, Vyaana, Udaana, Samaana and Ana=That world(heaven/afterlife?)/sou loka=avijnyaatam/Unknown(and maybe even unknown unknown idk) and it becomes that (kinda god of gaps thing maybe, always remains unknown)=..." ID="ID_471427435" CREATED="1745181177480" MODIFIED="1745182441380"/>
+<node TEXT="Self produced Seven foods using Knowledge/Intelligence?/Medhaa and Action/Rites/Tapasaa, One (Food itself in general) common to all, Two(Huta=fire sacrifice and Prahuta=other(I guess animal?presents?)sacrifice) for Gods, Three(Mind/Manah, Speech/Vaacha. Breath/Praana) for himself, One (Milk) for animals cuz.. just that is enough initially in baby stage (so only mammals I guess), but (likely cuz the foods are also the self itself..) the foods are inexhaustible even when eaten (cuz the phenomenon of nature producing new food.. here it&apos;s I guess explained by equating to being/self itself)" ID="ID_495379812" CREATED="1745180211072" MODIFIED="1747745275999">
+<arrowlink DESTINATION="ID_1932463022"/>
+<arrowlink DESTINATION="ID_886921433"/>
+<node TEXT="Mana=Desire, resolve-doubt, shraddhaa/faith-ashraddhaa/want of faith(/self confidence?),Dhruti/Steadiness-Adhruti/Unsteadiness,Modesty/Shame,Intelligence,Fear (etc?), You know (that it happened?) even if touched from behind and that&apos;s cuz of the Mind=Sky/Antarikshaloka=Vijijnyaatam(Curiosity?)/That which is knowable(and it becomes that which is knowable.. which I think means curiosity, always something to know)=....." ID="ID_936614201" CREATED="1745181172112" MODIFIED="1745182331795">
+<arrowlink DESTINATION="ID_404627683"/>
+<arrowlink DESTINATION="ID_458017301"/>
+</node>
+<node TEXT="Speech=Any sound, it helps determine a thing(?) without itself being revealed=World/ayam loka=Vijnyaatam/Whatever is known(cuz speech is knower, and becomes that which is known)=..." ID="ID_723580838" CREATED="1745181176944" MODIFIED="1745182336408">
+<arrowlink DESTINATION="ID_458017301"/>
+</node>
+<node TEXT="Praana=Praana, Apaana, Vyaana, Udaana, Samaana and Ana=That world(heaven/afterlife?)/sou loka=avijnyaatam/Unknown(and maybe even unknown unknown idk) and it becomes that (kinda god of gaps thing maybe, always remains unknown)=..." ID="ID_471427435" CREATED="1745181177480" MODIFIED="1745182441380">
+<arrowlink DESTINATION="ID_458017301"/>
+</node>
 </node>
 </node>
 <node TEXT="Then Purusha created gods from himself superior to himself (being immortal though Purusha is mortal), so like a super-creation (according to an online pdf)" ID="ID_1707720703" CREATED="1745173819793" MODIFIED="1745173891764">
 <node TEXT="The gods also seem divided in social classes, like Brahman is Brahmin? Indra,Varuna,Soma,Rudra,Parjanya,Yama,Mrityu,Ishaan are Kshtriya/rulers, god groups-Vasus/Rudras/Adityas/Vishwedevas/Maruts are Vaishyas and Pushan is Shudra, and all are critical to achieve Greatness(/Sat?). But that wasn&apos;t enough, so Dharma/Righteousness was created. Thus there&apos;s 5 factors" ID="ID_1069816376" CREATED="1745175724037" MODIFIED="1745178592138">
-<node TEXT="The self desires a wife to have progeny. The self desires wealth so as to do karma (rites and stuff?) with it, and until he gets these two, he considers himself Incomplete" ID="ID_786532133" CREATED="1745178818385" MODIFIED="1745179168122">
+<arrowlink DESTINATION="ID_817529561"/>
+<node TEXT="The self desires a wife to have progeny. The self desires wealth so as to do karma (rites and stuff?) with it, and until he gets these two, he considers himself Incomplete" ID="ID_786532133" CREATED="1745178818385" MODIFIED="1747745062553">
 <arrowlink DESTINATION="ID_1903081472"/>
+<arrowlink DESTINATION="ID_380627587"/>
+<arrowlink DESTINATION="ID_404627683"/>
+<arrowlink DESTINATION="ID_1989322360"/>
+<node TEXT="The rite of transfer from father to son passes karma from father to sun" POSITION="top_or_left" ID="ID_419363090" CREATED="1747745487832" MODIFIED="1747745501709"/>
 </node>
-<node TEXT="With them he is complete thusly: Mind/Manah is his self/atma, speech is wife,breath/praana is prajaa/progeny(!), eyes is wealth(cuz that&apos;s how you &apos;get&apos; it), ears is daiva/divine wealth(not fate? probably fate/luck/chance, etc.)cuz he Hears it(of what befell him i guess?) through ears,body/atmaa(huh) is karma/action cuz he acts with body" ID="ID_1435356230" CREATED="1745179283385" MODIFIED="1745179668827"/>
-<node TEXT="Guessing: self(/wife?/ears?)=brahmin, self?/being father of progeny(/wife?)=kshatriya, progeny itself=vaishya, eye=wealth for karma=shudra?body=karma=dharma?" ID="ID_165816817" CREATED="1745179696840" MODIFIED="1745180049318"/>
+<node TEXT="With them he is complete thusly: Mind/Manah is his self/atma, speech is wife,breath/praana is prajaa/progeny(!), eyes is wealth(cuz that&apos;s how you &apos;get&apos; it), ears is daiva/divine wealth(not fate? probably fate/luck/chance, etc.)cuz he Hears it(of what befell him i guess?) through ears,body/atmaa(huh) is karma/action cuz he acts with body" ID="ID_1435356230" CREATED="1745179283385" MODIFIED="1747745275999">
+<arrowlink DESTINATION="ID_886921433"/>
+</node>
+<node TEXT="Guessing: self(/wife?/ears?)=brahmin, self?/being father of progeny(/wife?)=kshatriya, progeny itself=vaishya, eye=wealth for karma=shudra?body=karma=dharma?" ID="ID_165816817" CREATED="1745179696840" MODIFIED="1747745275999">
+<arrowlink DESTINATION="ID_817529561"/>
+<arrowlink DESTINATION="ID_380627587"/>
+<arrowlink DESTINATION="ID_886921433"/>
+</node>
 </node>
 </node>
 <node TEXT="(also?) The atman/purusha is like unmanifest/avyaakritam which split into two vyaakriyatam (vyakta/avyakta? not sure) parts of Name/Naama and Form/Rupa" ID="ID_585703939" CREATED="1745174085632" MODIFIED="1745594706052">
 <arrowlink DESTINATION="ID_246673482"/>
 <arrowlink DESTINATION="ID_786532133"/>
 <node TEXT="The world is a Triad of Name/Naama, Action/Karma and Form/Rupa" POSITION="top_or_left" ID="ID_1932463022" CREATED="1745182805407" MODIFIED="1745182834966">
-<node TEXT="For Names- Speech/Vaacha is the Uktha/Source (produces names), Saaman/Common feature (common to all names), Brahman/(Bearer/Supporter?) (sustains all names)" ID="ID_708561408" CREATED="1745182933479" MODIFIED="1745183143146">
+<arrowlink DESTINATION="ID_458017301"/>
+<node TEXT="For Names- Speech/Vaacha is the Uktha/Source (produces names), Saaman/Common feature (common to all names), Brahman/(Bearer/Supporter?) (sustains all names)" ID="ID_708561408" CREATED="1745182933479" MODIFIED="1747745275999">
 <arrowlink DESTINATION="ID_1435356230"/>
+<arrowlink DESTINATION="ID_886921433"/>
 </node>
-<node TEXT="For Forms, Eyes are Uktha Saaman Brahma" ID="ID_342298961" CREATED="1745183067959" MODIFIED="1745183143148">
+<node TEXT="For Forms, Eyes are Uktha Saaman Brahma" ID="ID_342298961" CREATED="1745183067959" MODIFIED="1747745275999">
 <arrowlink DESTINATION="ID_1435356230"/>
+<arrowlink DESTINATION="ID_886921433"/>
 </node>
-<node TEXT="For Actions/Karma, Body is the Uktha Saaman Brahma" ID="ID_808062521" CREATED="1745183094751" MODIFIED="1745183143144">
+<node TEXT="For Actions/Karma, Body is the Uktha Saaman Brahma" ID="ID_808062521" CREATED="1745183094751" MODIFIED="1747745275984">
 <arrowlink DESTINATION="ID_1435356230"/>
+<arrowlink DESTINATION="ID_886921433"/>
 </node>
 </node>
 </node>
@@ -2379,11 +2495,19 @@
 </node>
 </node>
 </node>
+<node TEXT="I am the origin of entire universe and its dissolution, says Krishna" ID="ID_1081840985" CREATED="1747840593504" MODIFIED="1747840606369">
+<node TEXT="All that is is like pearls on string that is Krishna" ID="ID_1958357232" CREATED="1747840620254" MODIFIED="1747840631785">
+<node TEXT="This is the highest God to worship/be what your inner insight be directed towards as you withdraw from your senses" ID="ID_342503738" CREATED="1747840649865" MODIFIED="1747840948656">
+<arrowlink DESTINATION="ID_1489908854"/>
+<arrowlink DESTINATION="ID_1002230168"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="Demons introduce evil in Senses (Speech, Smell, Sight, Hearing) and even Mind of Gods" ID="ID_1306012146" CREATED="1744372386094" MODIFIED="1744372426541">
 <arrowlink DESTINATION="ID_469491538"/>
-<node TEXT="But Demons cannot corrupt Breath/Praana of Mouth" ID="ID_1981985281" CREATED="1744372439888" MODIFIED="1744565610266">
+<node TEXT="But Demons cannot corrupt Breath/Praana of Mouth" ID="ID_1981985281" CREATED="1744372439888" MODIFIED="1745903535073">
 <arrowlink DESTINATION="ID_608430717"/>
 <arrowlink DESTINATION="ID_664783596"/>
 </node>
@@ -2524,13 +2648,18 @@
 </node>
 </node>
 <node TEXT="Epistemology" ID="ID_736320876" CREATED="1743250248990" MODIFIED="1743616246954" HGAP_QUANTITY="-46 pt" VSHIFT_QUANTITY="22.8 pt">
-<node TEXT="Empiricism - Observation based knowledge/Reasoning (Won&apos;t create links with this for post Parmenides philosophers, it&apos;s too broad)" POSITION="top_or_left" ID="ID_1565047851" CREATED="1743531295584" MODIFIED="1744744604688">
+<node TEXT="We should follow teachings of medical tradition (arrived at through trial error and experience) instead of Theoretical explanations of hot and cold" POSITION="top_or_left" ID="ID_178659848" CREATED="1743885190364" MODIFIED="1743885253838">
+<arrowlink DESTINATION="ID_844605855"/>
+<node TEXT="Life is short but art is long" ID="ID_43650179" CREATED="1743885292052" MODIFIED="1743885297874"/>
+</node>
+<node TEXT="Empiricism - Observation based knowledge/Reasoning (Won&apos;t create links with this for post Parmenides philosophers, it&apos;s too broad)" POSITION="top_or_left" ID="ID_1565047851" CREATED="1743531295584" MODIFIED="1747761186706">
 <arrowlink DESTINATION="ID_1604494370"/>
 <arrowlink DESTINATION="ID_824247509"/>
 <arrowlink DESTINATION="ID_1565316318"/>
 <arrowlink DESTINATION="ID_1639775969"/>
 <node TEXT="Belief/Faith != Knowledge" POSITION="top_or_left" ID="ID_959572776" CREATED="1743106959242" MODIFIED="1744027911377">
 <arrowlink DESTINATION="ID_1138260165"/>
+<arrowlink DESTINATION="ID_345324368"/>
 <node TEXT="But there is such a thing as Justifiable faith that Should be Believed in anyway" ID="ID_1073081331" CREATED="1743107519290" MODIFIED="1743615173958">
 <arrowlink DESTINATION="ID_1138260165"/>
 <arrowlink DESTINATION="ID_340508492"/>
@@ -2541,6 +2670,7 @@
 <arrowlink DESTINATION="ID_1815773260"/>
 <arrowlink DESTINATION="ID_1905796840"/>
 <node TEXT="If this isn&apos;t the case, it should be possible to inquire (Socratic inquiry) experts in respective fields and extract true wisdom beyond and at ground of their area of expertise, or prove the opposite by contradiction (Socratic Irony)" ID="ID_732366580" CREATED="1744026201404" MODIFIED="1744026858588">
+<arrowlink DESTINATION="ID_1903973394"/>
 <arrowlink DESTINATION="ID_11590849"/>
 <arrowlink DESTINATION="ID_1774486215"/>
 <node TEXT="You can at least have a kinda divine wisdom of the fact that you lack it (Socratic ignorance)" POSITION="top_or_left" ID="ID_344071274" CREATED="1744026123640" MODIFIED="1744027932045">
@@ -2548,6 +2678,7 @@
 </node>
 </node>
 <node TEXT="You can&apos;t trust someone with just particular true beliefs and rather follow someone with consistent knowledge, as the former can make mistakes on particular occasions outside their expertise" ID="ID_1638851606" CREATED="1744027574570" MODIFIED="1744027803357">
+<arrowlink DESTINATION="ID_1903973394"/>
 <arrowlink DESTINATION="ID_959572776"/>
 <node TEXT="a Divine sign can help you avoid the mistakes though" ID="ID_935694490" CREATED="1744027696904" MODIFIED="1744027731123">
 <arrowlink DESTINATION="ID_1185756483"/>
@@ -2555,8 +2686,15 @@
 </node>
 </node>
 </node>
+<node TEXT="some kinda story-narrative based reasoning?" POSITION="top_or_left" ID="ID_1993293025" CREATED="1747761017645" MODIFIED="1747847178852" HGAP_QUANTITY="19.4 pt" VSHIFT_QUANTITY="9 pt">
+<arrowlink DESTINATION="ID_774070906"/>
+<arrowlink DESTINATION="ID_1485884426"/>
+<node TEXT="Adding stories within a framework (like the text of Mahaabharata) to reflect concerns of one&apos;s times" ID="ID_704750607" CREATED="1747761168986" MODIFIED="1747761232150">
+<node TEXT="Using devices (such as characters in the story) to tell your stories, while being aware that they are stories within stories" ID="ID_1530067299" CREATED="1747761338029" MODIFIED="1747761371302"/>
 </node>
-<node TEXT="Rationalism- This nature of reality can be established by purely Abstract argument from First Principles" POSITION="top_or_left" ID="ID_1430795240" CREATED="1743530925856" MODIFIED="1744744604688">
+</node>
+</node>
+<node TEXT="Rationalism- This nature of reality can be established by purely Abstract argument from First Principles" POSITION="top_or_left" ID="ID_1430795240" CREATED="1743530925856" MODIFIED="1747761191648" VSHIFT_QUANTITY="-6 pt">
 <arrowlink DESTINATION="ID_1196782955"/>
 <arrowlink DESTINATION="ID_826595556"/>
 <arrowlink DESTINATION="ID_1915870848"/>
@@ -2578,24 +2716,124 @@
 <arrowlink DESTINATION="ID_1073081331"/>
 <arrowlink DESTINATION="ID_1784093831"/>
 <arrowlink DESTINATION="ID_1526939952"/>
+<node TEXT="Withdraw from senses, have inner insight be directed to God (that which is source and demise of all that is), WHILE you continue to act (Acting is the main thing)" POSITION="top_or_left" ID="ID_1002230168" CREATED="1747841360505" MODIFIED="1747846199135"/>
 </node>
 <node TEXT="Or you can show problems in Common sense view by finding Contradictions (like you use intuition to dismiss Parmenides huh, then let me show how weird the intuition about your common sense is too)" ID="ID_11590849" CREATED="1743572219601" MODIFIED="1744283796607">
 <arrowlink DESTINATION="ID_534861552"/>
 <arrowlink DESTINATION="ID_1141352322"/>
 </node>
 </node>
-<node TEXT="Expertise" POSITION="top_or_left" ID="ID_1903973394" CREATED="1744293317515" MODIFIED="1744742412873">
-<node TEXT="Brahmins are inherently disposed to be experts in understanding nature of reality" ID="ID_89681880" CREATED="1744293321647" MODIFIED="1744293476582">
-<arrowlink DESTINATION="ID_653378782"/>
+<node TEXT="Expertise" POSITION="top_or_left" ID="ID_1903973394" CREATED="1744293317515" MODIFIED="1747763484447">
+<node TEXT="Elitism" ID="ID_1517317482" CREATED="1745781543639" MODIFIED="1746596136476" VSHIFT_QUANTITY="-3 pt">
+<arrowlink DESTINATION="ID_168701324" STARTINCLINATION="1597.80004 pt;0 pt;" ENDINCLINATION="1546.20004 pt;0 pt;"/>
+<node TEXT="Miracle performers" POSITION="top_or_left" ID="ID_1690884086" CREATED="1743787656777" MODIFIED="1745993994248" HGAP_QUANTITY="33.8 pt" VSHIFT_QUANTITY="-33.6 pt">
+<node TEXT="Immortality" ID="ID_435970750" CREATED="1744648695250" MODIFIED="1744648697914">
+<arrowlink DESTINATION="ID_507860654"/>
+<arrowlink DESTINATION="ID_675525962"/>
 </node>
-<node TEXT="It&apos;s impossible to understand the &quot;True&quot; nature of reality as claimed by Brahmins" ID="ID_1195423542" CREATED="1744293344775" MODIFIED="1744293404216"/>
+<node TEXT="Reanimation" ID="ID_222327229" CREATED="1743787693165" MODIFIED="1743882054890">
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="4354.8001 pt;0 pt;" ENDINCLINATION="4224.0001 pt;0 pt;"/>
+</node>
+<node TEXT="Healing" ID="ID_1203605954" CREATED="1743787700493" MODIFIED="1743882024262">
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3961.80009 pt;-108 pt;" ENDINCLINATION="4237.2001 pt;-133.2 pt;"/>
+</node>
+<node TEXT="Recalling past lives/distant past events" ID="ID_1620694908" CREATED="1743787858494" MODIFIED="1745594809525">
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="5158.20012 pt;0 pt;" ENDINCLINATION="5143.80012 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_504819623"/>
+</node>
+<node TEXT="Foresight/Future sight/Divine sign" ID="ID_1185756483" CREATED="1743941749361" MODIFIED="1744027753211">
+<arrowlink DESTINATION="ID_1905796840" STARTINCLINATION="4692.60011 pt;-127.2 pt;" ENDINCLINATION="3977.40009 pt;506.40001 pt;"/>
+</node>
+<node TEXT="Effortless Morality" ID="ID_325278862" CREATED="1745994021533" MODIFIED="1747747722294">
+<arrowlink DESTINATION="ID_1474628526"/>
+<node TEXT="Being beyond morality" ID="ID_325966535" CREATED="1745994059252" MODIFIED="1745994063622">
+<arrowlink DESTINATION="ID_1780466898"/>
+<arrowlink DESTINATION="ID_1873571859"/>
+</node>
+</node>
+</node>
+<node TEXT="Casteism" ID="ID_817529561" CREATED="1745781582056" MODIFIED="1745993999349" VSHIFT_QUANTITY="-4.8 pt">
+<arrowlink DESTINATION="ID_100686797"/>
+<arrowlink DESTINATION="ID_1869111357"/>
+<node TEXT="Brahmins are inherently disposed to be experts in understanding nature of reality" ID="ID_89681880" CREATED="1744293321647" MODIFIED="1746120991662">
+<arrowlink DESTINATION="ID_653378782" STARTINCLINATION="1944.00005 pt;0 pt;" ENDINCLINATION="1969.20005 pt;0 pt;"/>
+<node TEXT="It&apos;s impossible to understand the &quot;True&quot; nature of reality as claimed by Brahmins" POSITION="top_or_left" ID="ID_1195423542" CREATED="1744293344775" MODIFIED="1744293404216"/>
+</node>
+</node>
+<node TEXT="Sexism" ID="ID_380627587" CREATED="1745781590607" MODIFIED="1745781592566">
+<arrowlink DESTINATION="ID_334023106"/>
+<arrowlink DESTINATION="ID_1853556157"/>
+<arrowlink DESTINATION="ID_1953691558"/>
+</node>
+<node TEXT="Racism" ID="ID_454215500" CREATED="1745781586157" MODIFIED="1745781589475"/>
+<node TEXT="Anti-intellectualism? (Refusing to engage with core idea?)" POSITION="top_or_left" ID="ID_1340219590" CREATED="1745989956353" MODIFIED="1745990979211">
+<node TEXT="Focussing on Instrumental use? Pragmatism?" ID="ID_1017330575" CREATED="1745990785522" MODIFIED="1745990965757" VSHIFT_QUANTITY="-31.8 pt">
+<arrowlink DESTINATION="ID_1892172223"/>
+<arrowlink DESTINATION="ID_693619070"/>
+<arrowlink DESTINATION="ID_557040015"/>
+</node>
+<node TEXT="Polemicism/Triumphalism" ID="ID_405008586" CREATED="1745990468456" MODIFIED="1745990474425">
+<arrowlink DESTINATION="ID_557040015"/>
+</node>
+<node TEXT="For such interlocutors, you can remain silent" ID="ID_682113890" CREATED="1745991238403" MODIFIED="1745991257875">
+<node TEXT="Me: so I guess you must (cultivate yourself to) be worthy of teachings" ID="ID_1974900457" CREATED="1745991305675" MODIFIED="1745991369632">
+<arrowlink DESTINATION="ID_1517317482"/>
+<arrowlink DESTINATION="ID_1471917250"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Social/People/Loka expertise" ID="ID_1003127002" CREATED="1747763740659" MODIFIED="1747763772481">
+<arrowlink DESTINATION="ID_1016183783"/>
+<node TEXT="Credentials- Trained/Educated and having accomplishments" ID="ID_29617174" CREATED="1747763321833" MODIFIED="1747763786174">
+<arrowlink DESTINATION="ID_777379551"/>
+<arrowlink DESTINATION="ID_1126090893"/>
+<node TEXT="But also have signs of being non-greedy (not motivated by remuneration)" ID="ID_1902874096" CREATED="1747763413748" MODIFIED="1747763462895"/>
+</node>
+</node>
+<node TEXT="Anti-expertise" ID="ID_1892369705" CREATED="1746115962987" MODIFIED="1746115979588">
+<node TEXT="Should the king listen to no one? Or should he listen to anyone, even a child for wisdom?" ID="ID_1458307519" CREATED="1746115980059" MODIFIED="1746116018506">
+<arrowlink DESTINATION="ID_1421221661"/>
+<node TEXT="It&apos;s best to have a limited circle of experts, his ministers" ID="ID_968608058" CREATED="1746116019135" MODIFIED="1746121893843">
+<arrowlink DESTINATION="ID_1931397011"/>
+<node TEXT="The number of ministers depends on circumstances" ID="ID_1956110420" CREATED="1746116339228" MODIFIED="1746116347608"/>
+</node>
+</node>
+</node>
+<node TEXT="Practice - It is necessary to live according to teachings to understand them" ID="ID_1459038232" CREATED="1745930905021" MODIFIED="1745991336438">
+<arrowlink DESTINATION="ID_1974900457"/>
+<arrowlink DESTINATION="ID_1471917250"/>
+<node TEXT="Do not learn dhamma/teachings just for using it instrumentally for winning debates and criticizing others, that way you do not learn the Good for which you learned the dhamma in the first place" ID="ID_103514016" CREATED="1745930955603" MODIFIED="1745990858207" HGAP_QUANTITY="24.2 pt" VSHIFT_QUANTITY="7.8 pt">
+<arrowlink DESTINATION="ID_777379551"/>
+<arrowlink DESTINATION="ID_906669245"/>
+<arrowlink DESTINATION="ID_405008586"/>
+<arrowlink DESTINATION="ID_1017330575"/>
+<node TEXT="Doing it this way puts your desires and goals of esteem and victory first, which were to be abandoned, so you are at a loss" ID="ID_1477609506" CREATED="1745931837331" MODIFIED="1745932092198"/>
+</node>
+<node TEXT="Teachings are like a snake, if you grab them by the head, you catch them, but you grasp them wrong (by the tail) and they bite you" ID="ID_1248164741" CREATED="1745931538823" MODIFIED="1745932100979">
+<arrowlink DESTINATION="ID_1477609506"/>
+</node>
+<node TEXT="You have to let teachings change your desires and goals, rather than hoping to satisfy your existing goals and desires" ID="ID_789959881" CREATED="1745932400030" MODIFIED="1745932443075"/>
+</node>
+<node TEXT="Inquiry/Question" ID="ID_408153683" CREATED="1745991531058" MODIFIED="1745991536078">
+<node TEXT="Types of questions" ID="ID_873999836" CREATED="1745991536566" MODIFIED="1745991554671">
+<node TEXT="By what response they merit" ID="ID_1826553621" CREATED="1745991555679" MODIFIED="1745991585421">
+<node TEXT="Tell Straightforward response" ID="ID_1760956091" CREATED="1745991585939" MODIFIED="1745991627069"/>
+<node TEXT="Ask Further clarification (Genuine clarification question?)" ID="ID_1676559211" CREATED="1745991600023" MODIFIED="1745991846820"/>
+<node TEXT="Reply with a Question, (Rhetorical question?)" ID="ID_987447568" CREATED="1745991633498" MODIFIED="1745991829830"/>
+<node TEXT="Remain silent, e.g. against a polemicist" ID="ID_953040385" CREATED="1745991658202" MODIFIED="1745991745569">
+<arrowlink DESTINATION="ID_682113890"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="Brahman and Self/Atman make knowing possible without themselves being knowable" POSITION="top_or_left" ID="ID_1514839405" CREATED="1744742418135" MODIFIED="1745599697768" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" VSHIFT_QUANTITY="-291.6 pt">
-<node TEXT="Our natural strategies that work everywhere, of seek understanding of some thing&apos;s nature in objects of consciousness, it fails here" ID="ID_1110026745" CREATED="1744742618313" MODIFIED="1745599683327" HGAP_QUANTITY="176 pt" VSHIFT_QUANTITY="262.80001 pt"/>
+<node TEXT="Our natural strategies that work everywhere, of seek understanding of some thing&apos;s nature in objects of consciousness, it fails here" ID="ID_1110026745" CREATED="1744742618313" MODIFIED="1745931547488" HGAP_QUANTITY="176 pt" VSHIFT_QUANTITY="291.60001 pt"/>
 <node TEXT="Brahman-Atman are beyond senses and mind both" ID="ID_1565316318" CREATED="1744742684869" MODIFIED="1745599688353" HGAP_QUANTITY="209.6 pt" VSHIFT_QUANTITY="-2.4 pt">
 <arrowlink DESTINATION="ID_1639775969"/>
 </node>
-<node TEXT="When there&apos;s a Duality of some kind, One can perceive(smell,see,hear,think of)/act with(greet) the Other" ID="ID_420312735" CREATED="1744743048109" MODIFIED="1745599692198" HGAP_QUANTITY="216.2 pt" VSHIFT_QUANTITY="-262.8 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
+<node TEXT="When there&apos;s a Duality of some kind, One can perceive(smell,see,hear,think of)/act with(greet) the Other" ID="ID_420312735" CREATED="1744743048109" MODIFIED="1745931552027" HGAP_QUANTITY="216.2 pt" VSHIFT_QUANTITY="-289.2 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
 <arrowlink DESTINATION="ID_429653433"/>
 <node TEXT="Due to Unity of Whole and Self, who is there to perceive/act with and by what means, by what means can one perceive the perceiver (as the self within all is your own self)" ID="ID_948156493" CREATED="1744743073268" MODIFIED="1744743668705">
 <node TEXT="You can&apos;t grasp words/shabda of a beating drum/conch until you grasp the drum/conch/veena or playing of the drum/conch/veena itself" ID="ID_880571393" CREATED="1744827025914" MODIFIED="1744827084604">
@@ -2639,7 +2877,7 @@
 <arrowlink DESTINATION="ID_469491538"/>
 <arrowlink DESTINATION="ID_885285636"/>
 </node>
-<node TEXT="Helps study aims and means of knowledge (ini fields of study, activity and religion/society)" ID="ID_846620206" CREATED="1744203055639" MODIFIED="1744203165339">
+<node TEXT="Helps study aims and means of knowledge (in fields of study, activity and religion/society)" ID="ID_846620206" CREATED="1744203055639" MODIFIED="1744203165339">
 <arrowlink DESTINATION="ID_885285636"/>
 </node>
 </node>
@@ -2649,8 +2887,8 @@
 <arrowlink DESTINATION="ID_256525018"/>
 <node TEXT="Concept" ID="ID_1827217504" CREATED="1743250286886" MODIFIED="1743617327839" HGAP_QUANTITY="68 pt" VSHIFT_QUANTITY="520.20001 pt">
 <node TEXT="Natural phenomena related faith" POSITION="top_or_left" ID="ID_103199558" CREATED="1743080476044" MODIFIED="1745594251101" HGAP_QUANTITY="57.2 pt" VSHIFT_QUANTITY="-15.6 pt">
-<node TEXT="Cosmology" ID="ID_772604398" CREATED="1743080565721" MODIFIED="1744742938231">
-<node TEXT="Apeiron surrounds our Cosmos" ID="ID_1263321208" CREATED="1743088910471" MODIFIED="1744742938231" VSHIFT_QUANTITY="-79.8 pt">
+<node TEXT="Cosmology" ID="ID_772604398" CREATED="1743080565721" MODIFIED="1745903726852">
+<node TEXT="Apeiron surrounds our Cosmos" ID="ID_1263321208" CREATED="1743088910471" MODIFIED="1745903726852" HGAP_QUANTITY="160.4 pt" VSHIFT_QUANTITY="-205.2 pt">
 <arrowlink DESTINATION="ID_1631223588"/>
 <arrowlink DESTINATION="ID_1525148951"/>
 <node TEXT="Things with nature (e.g. Air, Water) &apos;Separate out&apos; from Apeiron which has no nature" POSITION="top_or_left" ID="ID_1243122683" CREATED="1743087591296" MODIFIED="1743615173960">
@@ -2673,7 +2911,7 @@
 </node>
 </node>
 </node>
-<node TEXT="There&apos;s only Unity" ID="ID_449995834" CREATED="1743528836104" MODIFIED="1743615173962">
+<node TEXT="There&apos;s only Unity" ID="ID_449995834" CREATED="1743528836104" MODIFIED="1745903735054" HGAP_QUANTITY="5.6 pt" VSHIFT_QUANTITY="-118.8 pt">
 <node TEXT="Source: Divine inspiration" ID="ID_1304329975" CREATED="1743531734531" MODIFIED="1743615173962">
 <arrowlink DESTINATION="ID_185229965"/>
 </node>
@@ -2710,7 +2948,7 @@
 <arrowlink DESTINATION="ID_203872261"/>
 </node>
 <node TEXT="World floats on air" ID="ID_426131240" CREATED="1743103352911" MODIFIED="1743708674132">
-<arrowlink DESTINATION="ID_1199882259" STARTINCLINATION="2044.20005 pt;-46.8 pt;" ENDINCLINATION="2578.20006 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1199882259" STARTINCLINATION="2044.20005 pt;0 pt;" ENDINCLINATION="2578.20006 pt;0 pt;"/>
 </node>
 <node TEXT="Heaven&apos;s a dome, World disc floats on water under the dome" POSITION="top_or_left" ID="ID_636488695" CREATED="1743080651997" MODIFIED="1743615173964">
 <arrowlink DASH="2 7" DESTINATION="ID_102411309"/>
@@ -2734,7 +2972,7 @@
 </node>
 <node TEXT="But some stones spiral out from center and start glowing hot in the heat (sun and moon)" ID="ID_1643287537" CREATED="1743708933610" MODIFIED="1743708972170"/>
 </node>
-<node TEXT="World is built upon a single imperishable thing, like a potter fashioning eternal atoms into various forms" ID="ID_14530986" CREATED="1744620514232" MODIFIED="1744726963484">
+<node TEXT="World is built upon a single imperishable thing, like a potter fashioning eternal atoms into various forms" ID="ID_14530986" CREATED="1744620514232" MODIFIED="1745903522007">
 <arrowlink DESTINATION="ID_1286555523"/>
 <arrowlink DESTINATION="ID_1828843942"/>
 <arrowlink DESTINATION="ID_715716316"/>
@@ -2742,17 +2980,18 @@
 <arrowlink DESTINATION="ID_927618046"/>
 <arrowlink DESTINATION="ID_1379123397"/>
 </node>
-<node TEXT="World is woven upon a seemingly infinite regress of more fundamental things, but by continuing the inquiry of deeper reasons, one becomes wiser" ID="ID_561705551" CREATED="1744370933870" MODIFIED="1744727850339" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="26 pt" VSHIFT_QUANTITY="-120 pt">
+<node TEXT="World is woven upon a seemingly infinite regress of more fundamental things, but by continuing the inquiry of deeper reasons, one becomes wiser" ID="ID_561705551" CREATED="1744370933870" MODIFIED="1745903702461" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="14.6 pt" VSHIFT_QUANTITY="-272.4 pt">
 <arrowlink DESTINATION="ID_790158132"/>
 <arrowlink DESTINATION="ID_927563075"/>
-<node TEXT="Maybe the regression (water&gt;air&gt;sun+stars&gt;divine realm) ends in Space" ID="ID_1209063301" CREATED="1744620254578" MODIFIED="1744727784430" HGAP_QUANTITY="11.6 pt" VSHIFT_QUANTITY="64.2 pt">
+<node TEXT="Maybe the regression (water&gt;air&gt;sun+stars&gt;divine realm) ends in Space" ID="ID_1209063301" CREATED="1744620254578" MODIFIED="1745903695907" HGAP_QUANTITY="24.2 pt" VSHIFT_QUANTITY="208.2 pt">
 <arrowlink DESTINATION="ID_32603902"/>
 <arrowlink DESTINATION="ID_1256841903"/>
 </node>
-<node TEXT="Maybe the self has like five &apos;sheaths&apos;. Essence of man is &apos;food&apos;, essence of food is &apos;breath/praana&apos;, essence of praana is mind, essence of mind (these are all selves btw, just more inner and inner more and more essence..ial things).is Intellect, essence of intellect is bliss" ID="ID_1623206928" CREATED="1744649351355" MODIFIED="1744649610160">
+<node TEXT="Maybe the self has like five &apos;sheaths&apos;. Essence of man is &apos;food&apos;, essence of food is &apos;breath/praana&apos;, essence of praana is mind, essence of mind (these are all selves btw, just more inner and inner more and more essence..ial things).is Intellect, essence of intellect is bliss" ID="ID_1623206928" CREATED="1744649351355" MODIFIED="1745903676633" HGAP_QUANTITY="19.4 pt" VSHIFT_QUANTITY="7.2 pt">
 <arrowlink DESTINATION="ID_1903081472"/>
+<arrowlink DESTINATION="ID_1250710495"/>
 </node>
-<node TEXT="But maybe we have to improve our knowledge in recursive steps through each of the stages, learning inadequacies in each stage like Indra had to (and Virochana failed to) when seeking Prajaapati&apos;s knowledge (for which he had to live with Prajaapati as a celibate- so kinda withdraw from the worldly life)" ID="ID_1471917250" CREATED="1744726834623" MODIFIED="1744728056054" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="33.8 pt" VSHIFT_QUANTITY="-70.2 pt">
+<node TEXT="But maybe we have to improve our knowledge in recursive steps through each of the stages, learning inadequacies in each stage like Indra had to (and Virochana failed to) when seeking Prajaapati&apos;s knowledge (for which he had to live with Prajaapati as a celibate- so kinda withdraw from the worldly life)" ID="ID_1471917250" CREATED="1744726834623" MODIFIED="1745903690332" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="23 pt" VSHIFT_QUANTITY="-219 pt">
 <arrowlink DESTINATION="ID_403479155"/>
 <arrowlink DESTINATION="ID_469090144"/>
 <node TEXT="The atman inside what we see in a reflection (our body basically), it stays same regardless how you dress it up. But as you can make it look well, it can degenerate too.. so is that the real atman?" POSITION="top_or_left" ID="ID_1292266166" CREATED="1744726321956" MODIFIED="1744726570476"/>
@@ -2766,13 +3005,21 @@
 <arrowlink DESTINATION="ID_1653117951"/>
 <node TEXT="This is not as detached as the REM sleep self, because at least it&apos;s aware of its will, perception and actions" ID="ID_879452289" CREATED="1744820359307" MODIFIED="1744820396394"/>
 </node>
+<node TEXT="Dhamma/Teachings (i&apos;m tenuously linking with svadharma here) are like a Raft, you use it to cross the river, but then it loses its use so you give it up, you abandon the teachings (after having abandoned things contrary to the teachings first) cuz then they become a hindrance/encumbrance" POSITION="top_or_left" ID="ID_1929747173" CREATED="1745903504771" MODIFIED="1745904574361" VSHIFT_QUANTITY="20.4 pt">
+<arrowlink DESTINATION="ID_1664652260"/>
+<arrowlink DESTINATION="ID_1780466898"/>
+<node TEXT="So teachings are only of instrumental value? It doesn&apos;t matter that they are true? cuz beliefs don&apos;t have to be true to be useful? (no instrumental would mean having a fixed goal and using teaching to reach it, but here you have to let the teaching change your goal itself)" ID="ID_345324368" CREATED="1745904606687" MODIFIED="1745933050120">
+<arrowlink DESTINATION="ID_441498979"/>
+<arrowlink DESTINATION="ID_103514016"/>
 </node>
 </node>
-<node TEXT="God/Prajaapati first fashioned a body for himself and then matter/pradhaana underlying the universe, from which he makes other things" ID="ID_513751767" CREATED="1744725136100" MODIFIED="1744727855399" HGAP_QUANTITY="18.8 pt" VSHIFT_QUANTITY="-135 pt"/>
 </node>
 </node>
-<node TEXT="Anatomy" ID="ID_1048240466" CREATED="1743800109050" MODIFIED="1743800111696">
-<node TEXT="Breath/Pneuma/Praana" ID="ID_608430717" CREATED="1744373722805" MODIFIED="1744375306728">
+<node TEXT="God/Prajaapati first fashioned a body for himself and then matter/pradhaana underlying the universe, from which he makes other things" ID="ID_513751767" CREATED="1744725136100" MODIFIED="1745903709179" HGAP_QUANTITY="26.6 pt" VSHIFT_QUANTITY="-144.6 pt"/>
+</node>
+</node>
+<node TEXT="Anatomy" ID="ID_1048240466" CREATED="1743800109050" MODIFIED="1745903532921">
+<node TEXT="Breath/Pneuma/Praana" ID="ID_608430717" CREATED="1744373722805" MODIFIED="1745903532919" VSHIFT_QUANTITY="-128.4 pt">
 <arrowlink DESTINATION="ID_239097890"/>
 <node TEXT="There&apos;s interplay between Blood and Breath/Pneuma" ID="ID_1667086200" CREATED="1743882841799" MODIFIED="1744373735086">
 <arrowlink DESTINATION="ID_667050106"/>
@@ -2820,11 +3067,10 @@
 <arrowlink DESTINATION="ID_272633652"/>
 </node>
 </node>
-<node TEXT="We should follow teachings of medical tradition (arrived at through trial error and experience) instead of Theoretical explanations of hot and cold" POSITION="top_or_left" ID="ID_178659848" CREATED="1743885190364" MODIFIED="1743885253838">
-<arrowlink DESTINATION="ID_844605855"/>
-<node TEXT="Life is short but art is long" ID="ID_43650179" CREATED="1743885292052" MODIFIED="1743885297874"/>
-</node>
-<node TEXT="Blood and Flesh are made of nearly Equal proportion of the 4 Roots" POSITION="top_or_left" ID="ID_715716316" CREATED="1743882153415" MODIFIED="1743882915992">
+<node TEXT="Humor theory and similar stuff" POSITION="top_or_left" ID="ID_954392961" CREATED="1745763202069" MODIFIED="1745763213544">
+<node TEXT="Three Humors" ID="ID_458017301" CREATED="1745781056639" MODIFIED="1745781060460"/>
+<node TEXT="Four humors" ID="ID_640218956" CREATED="1745781052909" MODIFIED="1745781056150">
+<node TEXT="Blood and Flesh are made of nearly Equal proportion of the 4 Roots" ID="ID_715716316" CREATED="1743882153415" MODIFIED="1743882915992">
 <arrowlink DESTINATION="ID_667050106"/>
 <node TEXT="If your Root/Element Proportion are out of balance you fall sick" POSITION="top_or_left" ID="ID_1906465197" CREATED="1743882335926" MODIFIED="1743885512254">
 <arrowlink DESTINATION="ID_1032034727" STARTINCLINATION="3630.00009 pt;391.20001 pt;" ENDINCLINATION="3391.80008 pt;0 pt;"/>
@@ -2836,17 +3082,61 @@
 </node>
 </node>
 </node>
-<node TEXT="What keeps body in Balance is same as what keeps universe in Balance" POSITION="top_or_left" ID="ID_394272996" CREATED="1743885361877" MODIFIED="1743885592396">
-<arrowlink DESTINATION="ID_1725492722"/>
-<arrowlink DESTINATION="ID_844605855"/>
-<node TEXT="Balance and Proportion is important" ID="ID_301397177" CREATED="1743885406795" MODIFIED="1743885412234">
-<node TEXT="What&apos;s balanced is Fluids in Body, the 4 humors: Blood, Phlegm, Yellow Bile, Black Bile" ID="ID_1117094274" CREATED="1743885455718" MODIFIED="1743885504575">
-<arrowlink DESTINATION="ID_377557535"/>
+</node>
+<node TEXT="Five Humors" ID="ID_1275387227" CREATED="1745781061602" MODIFIED="1745781066475"/>
+</node>
+<node TEXT="Desire" POSITION="top_or_left" ID="ID_404627683" CREATED="1745763217470" MODIFIED="1745774064501" HGAP_QUANTITY="23.6 pt" VSHIFT_QUANTITY="-193.2 pt">
+<node TEXT="Longing for something and aversion from others is desire/trishnaa/tanhaa, which is the cause of suffering" POSITION="top_or_left" ID="ID_36477705" CREATED="1745595532519" MODIFIED="1745773907682" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="15.2 pt" VSHIFT_QUANTITY="-1.79999 pt">
+<arrowlink DESTINATION="ID_166691833"/>
+<arrowlink DESTINATION="ID_557040015"/>
+<arrowlink DESTINATION="ID_287340662"/>
+<arrowlink DESTINATION="ID_1299570853"/>
+<arrowlink DESTINATION="ID_1971520774"/>
+<node TEXT="Pursuit of outcomes causes trishna and their absence makes unfulfilled trishna induced suffering stronger which then causes a stronger trishna and so even more dukkha, or even if you do have the things with you you&apos;ll fear their loss cuz of this same trishna. Even prince Siddhaartha had to fear Old-Age, Illness, Death" ID="ID_693619070" CREATED="1745595993192" MODIFIED="1745774054383" HGAP_QUANTITY="20 pt" VSHIFT_QUANTITY="187.2 pt">
+<arrowlink DESTINATION="ID_1788184428"/>
+<node TEXT="While you should renounce such trishna, and maybe part of it involves renouncing life of a householder like the Buddha did, but don&apos;t overdo it by high asceticism/self-abnegation like the ajivikas, both extremes are useless/ignoble" ID="ID_248221002" CREATED="1745641213832" MODIFIED="1745641475898"/>
+<node TEXT="You can avoid attachments to things that falsely seem to benefit you in present and future by realising there&apos;s no self to benefit" ID="ID_363092549" CREATED="1745761865825" MODIFIED="1745761967203">
+<node TEXT="So Nibbaana/Liberation is extinction of attachment and desire" ID="ID_1546423673" CREATED="1745784087183" MODIFIED="1745784124848"/>
+<node TEXT="Realizing that there is no self, is itself nibbaana/nirvaana/mukti/liberation from all suffering. (Knowledge can give liberation)" ID="ID_1585167373" CREATED="1745762351844" MODIFIED="1745779891564">
+<arrowlink DESTINATION="ID_1666079869"/>
+<arrowlink DESTINATION="ID_675525962"/>
+<node TEXT="But then won&apos;t desiring nirvana count as a desire itself? Longing to seize to exist also a desire as longing to continue to exist" ID="ID_381226681" CREATED="1745774018305" MODIFIED="1745775721729" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
+<arrowlink DESTINATION="ID_1892172223"/>
+<node TEXT="Firstly, normal tanhaa is self-centered, this new desire that realizes there&apos;s no self to be centered around is obviously more enlightened in wanting to escape karma cycle" ID="ID_1460306721" CREATED="1745775561261" MODIFIED="1745775781231">
+<arrowlink DESTINATION="ID_6064362"/>
+</node>
+<node TEXT="But also, No, cuz desire for liberation from suffering itself is a more useful desire that previous (not oriented to the suffering-meta) desires/trishnaa which were the cause of suffering" ID="ID_656416326" CREATED="1745774205960" MODIFIED="1745775633995"/>
+<node TEXT="We can use this desire till all trishnaa goes away and then this one will fall away too after that. Craving/Trishnaa is stepping stone to get rid of Craving altogether" ID="ID_353368582" CREATED="1745774479674" MODIFIED="1745775528622">
+<arrowlink DESTINATION="ID_1471917250"/>
 </node>
 </node>
 </node>
-<node TEXT="Man as Microcosm/Tat tvamasi" POSITION="top_or_left" ID="ID_1725492722" CREATED="1743103746852" MODIFIED="1744620435179">
-<node TEXT="Arche in Soul" POSITION="top_or_left" ID="ID_281502557" CREATED="1743370674128" MODIFIED="1743706813559">
+</node>
+</node>
+<node TEXT="The cause of trisnaa/desire is ultimately ignorance. Ignorance causes karma/kamma, kamma causes consciousness, consciousness causes sensation, sensations cause desires (desires cause rebirth, birth causes dukkha)" ID="ID_224943756" CREATED="1745641505779" MODIFIED="1745775901908" HGAP_QUANTITY="22.4 pt" VSHIFT_QUANTITY="-99 pt">
+<arrowlink DESTINATION="ID_404627683"/>
+<arrowlink DESTINATION="ID_695672257"/>
+<arrowlink DESTINATION="ID_1195090906"/>
+<node TEXT="This is why Buddhists reject self but not Kamma/Karma cycle of rebirth, but it&apos;s not a problem cuz khandhas- causal continuity is sufficient to maintain fidelity to karma ethics without needing enduring identity to be the glue" ID="ID_939737479" CREATED="1745779742130" MODIFIED="1745779847323">
+<arrowlink DESTINATION="ID_1871827309"/>
+<arrowlink DESTINATION="ID_1325424209"/>
+</node>
+<node TEXT="Person going through reincarnation karma cycle is like a dog tied to a stake pointlessly running around" ID="ID_1630589280" CREATED="1745783181574" MODIFIED="1745783223569">
+<arrowlink DESTINATION="ID_695672257"/>
+</node>
+</node>
+<node TEXT="feelings like these are maybe only felt by misunderstanding or specifically by the (elemental) self/bhutaatmaa (different from normal atman which can move between bodies having fun.. I mean bhutatma also has fun but like... only normal fun, not atman level weird observational fun.. I think) which misunderstands the body created by main atman as its own and then goes through rebirth cycle" ID="ID_7074075" CREATED="1745593991575" MODIFIED="1745783227716" HGAP_QUANTITY="14 pt">
+<arrowlink DESTINATION="ID_1630589280"/>
+</node>
+</node>
+<node TEXT="If you have no desires (e.g. arahat), you are no longer committed to permanence of your own self. You&apos;ll automatically want to share whatever you have" POSITION="top_or_left" ID="ID_1694476924" CREATED="1745993560671" MODIFIED="1747927546310" VSHIFT_QUANTITY="-79.2 pt">
+<arrowlink DESTINATION="ID_1474628526"/>
+</node>
+</node>
+<node TEXT="Soul/Self/Atman" POSITION="top_or_left" ID="ID_655908109" CREATED="1743080837604" MODIFIED="1745775921804" HGAP_QUANTITY="-5.2 pt" VSHIFT_QUANTITY="170.4 pt">
+<arrowlink DESTINATION="ID_744860539"/>
+<node TEXT="Man as Microcosm/Tat tvamasi" ID="ID_1725492722" CREATED="1743103746852" MODIFIED="1747927565234" HGAP_QUANTITY="94.4 pt" VSHIFT_QUANTITY="-328.80001 pt">
+<node TEXT="Arche in Soul" POSITION="top_or_left" ID="ID_281502557" CREATED="1743370674128" MODIFIED="1745775889563" HGAP_QUANTITY="45.2 pt" VSHIFT_QUANTITY="0.6 pt">
 <node TEXT="Soul is made of Air, specifically Breath/Pneuma" ID="ID_542808059" CREATED="1743103629105" MODIFIED="1744373956399">
 <arrowlink DESTINATION="ID_1199882259"/>
 <arrowlink DESTINATION="ID_1770751778"/>
@@ -2883,6 +3173,224 @@
 <arrowlink DESTINATION="ID_83810402"/>
 <arrowlink DESTINATION="ID_1837544117"/>
 </node>
+<node TEXT="What keeps body in Balance is same as what keeps universe in Balance" POSITION="top_or_left" ID="ID_394272996" CREATED="1743885361877" MODIFIED="1745763104300">
+<arrowlink DESTINATION="ID_844605855"/>
+<node TEXT="Balance and Proportion is important" ID="ID_301397177" CREATED="1743885406795" MODIFIED="1743885412234">
+<node TEXT="What&apos;s balanced is Fluids in Body, the 4 humors: Blood, Phlegm, Yellow Bile, Black Bile" ID="ID_1117094274" CREATED="1743885455718" MODIFIED="1745781053003">
+<arrowlink DESTINATION="ID_377557535"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Things have souls" ID="ID_1392816710" CREATED="1743080840979" MODIFIED="1745763006687" HGAP_QUANTITY="174.2 pt" VSHIFT_QUANTITY="-7.2 pt">
+<arrowlink DESTINATION="ID_948156493"/>
+<node TEXT="Motion causing things have souls, e.g. amber, magnet" ID="ID_944742620" CREATED="1743080844816" MODIFIED="1743795916792">
+<arrowlink DESTINATION="ID_1604494370" STARTINCLINATION="3306.00008 pt;354.60001 pt;" ENDINCLINATION="3115.80007 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1565047851"/>
+<arrowlink DESTINATION="ID_419428417"/>
+</node>
+</node>
+<node TEXT="Dualism (Soul and Body are two different things)" POSITION="top_or_left" ID="ID_744860539" CREATED="1743255876703" MODIFIED="1745775841678">
+<arrowlink DESTINATION="ID_1337033142"/>
+<arrowlink DESTINATION="ID_767155506"/>
+<node TEXT="Metaphysical Dualism (Body and Soul are fundamentally different Kinds of things) Soul is Immaterial, Body is Material" ID="ID_1247178045" CREATED="1743255928134" MODIFIED="1745775841678" HGAP_QUANTITY="22.4 pt" VSHIFT_QUANTITY="48 pt">
+<arrowlink DESTINATION="ID_1639794553"/>
+<arrowlink DESTINATION="ID_381511573"/>
+<arrowlink DESTINATION="ID_779567815"/>
+<node TEXT="Soul is abstract" POSITION="top_or_left" ID="ID_1706179569" CREATED="1743256335652" MODIFIED="1743615173970">
+<arrowlink DESTINATION="ID_188702663"/>
+<arrowlink DESTINATION="ID_1430795240"/>
+</node>
+<node TEXT="Has and will Always exist" POSITION="top_or_left" ID="ID_362489273" CREATED="1743256342703" MODIFIED="1744817976678">
+<arrowlink DESTINATION="ID_188702663" STARTINCLINATION="4893.60012 pt;0 pt;" ENDINCLINATION="5931.60014 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_610301222"/>
+</node>
+</node>
+<node TEXT="Chariot analogy- Atman is lord of chariot, Body is the Chariot (intellect/buddhi is driver/charioteer, mind/manah is reins, senses/indriya are horses, objects/vishaya? are roads)" ID="ID_1109769975" CREATED="1744817963109" MODIFIED="1744819492027">
+<node TEXT="So even here the Atman is kinda passive eh? But still, a lord is usually responsible for the functioning of chariot so it&apos;s a somewhat active atman" ID="ID_298970272" CREATED="1744819900090" MODIFIED="1745594889175">
+<node TEXT="Atman seems like a kinda body hopping fun-haver" ID="ID_1653117951" CREATED="1745594450943" MODIFIED="1745595532579" VSHIFT_QUANTITY="25.2 pt">
+<arrowlink DESTINATION="ID_7074075"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Monism (Soul and Body are same kinda thing?)" POSITION="top_or_left" ID="ID_619776650" CREATED="1744569443536" MODIFIED="1744569476526">
+<node TEXT="Conception of Nature of Self is key to a conception of Nature of the World" ID="ID_74822587" CREATED="1744569476842" MODIFIED="1744569579514">
+<arrowlink DESTINATION="ID_582531067"/>
+<arrowlink DESTINATION="ID_1725492722"/>
+<node TEXT="There is no Reality to Difference between them if any is perceived" ID="ID_24454640" CREATED="1744569601285" MODIFIED="1744620144576">
+<arrowlink DESTINATION="ID_1824019003"/>
+</node>
+</node>
+</node>
+<node TEXT="There&apos;s no such thing as a soul that can pass from one to other body (no self/anaatta)" POSITION="top_or_left" ID="ID_1709408662" CREATED="1744295716082" MODIFIED="1745761396626">
+<arrowlink DESTINATION="ID_935390389"/>
+<arrowlink DESTINATION="ID_1585167373"/>
+<arrowlink DESTINATION="ID_7074075"/>
+<arrowlink DESTINATION="ID_363092549"/>
+<arrowlink DESTINATION="ID_889504761" STARTINCLINATION="772.20002 pt;29.4 pt;" ENDINCLINATION="772.20002 pt;29.4 pt;"/>
+<node TEXT="There is no atman, there is no unseen unchanging center of identity that underlies all cognition and awareness" ID="ID_234414532" CREATED="1745775997708" MODIFIED="1745776061324">
+<arrowlink DESTINATION="ID_826595556"/>
+</node>
+<node TEXT="But that allows for &apos;some&apos; sense in which you are the same person - namely the causal of various aspects of the body, the khandhas/skandhas" ID="ID_1325424209" CREATED="1745776084549" MODIFIED="1745776406402">
+<arrowlink DESTINATION="ID_7074075"/>
+<node TEXT="Like aggregates and configurations, we can gain and lose parts over time" ID="ID_1311374420" CREATED="1745777406116" MODIFIED="1745777419388">
+<arrowlink DESTINATION="ID_992248355"/>
+</node>
+<node TEXT="There are 5 types of dhamma that make up khandhas(persons)- physical form, bodily feelings, emotions, perceptions and thinking, consciousness" ID="ID_1250710495" CREATED="1745780744303" MODIFIED="1745780746192">
+<node TEXT="Then why not identify the self as these fundamental components" ID="ID_137481855" CREATED="1745782203159" MODIFIED="1745782214792">
+<arrowlink DESTINATION="ID_582531067"/>
+</node>
+<node TEXT="No, there is nothing more to your &apos;self&apos; than these fleeting components and are constantly replaced" ID="ID_1451840431" CREATED="1745782296366" MODIFIED="1745782408320">
+<arrowlink DESTINATION="ID_7074075"/>
+<arrowlink DESTINATION="ID_1311374420"/>
+<arrowlink DESTINATION="ID_1368955677"/>
+</node>
+<node TEXT="Well maybe kinda a &apos;subject&apos;/puggala/pudgala can emerge from the skandhas" ID="ID_1545121984" CREATED="1745783695806" MODIFIED="1745783730334">
+<arrowlink DESTINATION="ID_7074075"/>
+<arrowlink DESTINATION="ID_1215387429"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Soul is one that is Aware of Will to Sense/Think (I&apos;ll call this Passive soul/self/atman)" POSITION="top_or_left" ID="ID_1628623131" CREATED="1744745056950" MODIFIED="1745761468570">
+<arrowlink DESTINATION="ID_1257809391"/>
+<arrowlink DESTINATION="ID_992248355"/>
+<arrowlink DESTINATION="ID_363314981"/>
+</node>
+<node TEXT="Afterlife" POSITION="top_or_left" ID="ID_1488240827" CREATED="1743248588902" MODIFIED="1745775850726">
+<arrowlink DESTINATION="ID_1555983872"/>
+<node TEXT="Reincarnation" ID="ID_504819623" CREATED="1743248592012" MODIFIED="1745775850726" HGAP_QUANTITY="17 pt" VSHIFT_QUANTITY="-0.6 pt">
+<arrowlink DESTINATION="ID_1588961208" STARTINCLINATION="4125.0001 pt;-9.6 pt;" ENDINCLINATION="3919.80009 pt;-9.6 pt;"/>
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3704.40009 pt;-230.40001 pt;" ENDINCLINATION="4073.4001 pt;-198.6 pt;"/>
+<node TEXT="Soul is Indestructible, Body is destructible" POSITION="top_or_left" ID="ID_779567815" CREATED="1743256254542" MODIFIED="1744294199191">
+<node TEXT="But even Soul can get &quot;liberation&quot; from reincarnation of being attached to body" ID="ID_1616014596" CREATED="1747747802560" MODIFIED="1747747824644">
+<node TEXT="Not sure if this is same as extinguishing the soul, or just separating it from body, or is one same as the other" ID="ID_388799923" CREATED="1747747825037" MODIFIED="1747747849490"/>
+</node>
+</node>
+<node TEXT="Karma (You become something good by good action and something bad by bad action)" POSITION="top_or_left" ID="ID_814284821" CREATED="1743798526994" MODIFIED="1745775857493" HGAP_QUANTITY="42.2 pt" VSHIFT_QUANTITY="-207 pt">
+<arrowlink DESTINATION="ID_9063837" STARTINCLINATION="1116.60003 pt;363.60001 pt;" ENDINCLINATION="1319.40003 pt;0 pt;"/>
+<node TEXT="Clearly there&apos;s such a thing as deliberative action based on reason/reflection (source?)" ID="ID_1740602959" CREATED="1745065116055" MODIFIED="1745065191822">
+<node TEXT="And if the outcomes you get in life are not up to fate and chance, and really does depend on your actions, then there might also be moral reasons to act (source? why moral reasons specifically?)" ID="ID_129463321" CREATED="1745065192380" MODIFIED="1745065858964" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
+<arrowlink DESTINATION="ID_1837304860"/>
+<node TEXT="That&apos;s what karma is, your character/actions deciding your destiny/fate" ID="ID_1871827309" CREATED="1745065310968" MODIFIED="1745065332555">
+<arrowlink DESTINATION="ID_1837304860"/>
+</node>
+<node TEXT="Good actions by a clear-sighted, virtuous person, result in future happiness/well-being/sukha. Bad actions from ignorance/greed/malice cause future dukkha/suffering" ID="ID_1206672611" CREATED="1745065356419" MODIFIED="1745595767103">
+<arrowlink DESTINATION="ID_36477705"/>
+<node TEXT="This makes sense if the kartaa/doer of actions/karma and bhoktaa/recipient of outcomes/phala is the same person. Karma assumes that this is the case, and this moral order being a part of universe to be a brute fact... (so presumably if you didn&apos;t get phala in this life then there must be a next life where you get it)" ID="ID_1091274585" CREATED="1745065441715" MODIFIED="1745065947264">
+<arrowlink DESTINATION="ID_129463321"/>
+<arrowlink DESTINATION="ID_421468059"/>
+<arrowlink DESTINATION="ID_179692294"/>
+<arrowlink DESTINATION="ID_814284821"/>
+<node TEXT="But this doesn&apos;t mean you should do good karma only out of expectation for phala.. that would mean not really caring about benefit of others and only caring for your own benefit" ID="ID_986912628" CREATED="1745065992833" MODIFIED="1745066305599">
+<node TEXT="Well maybe, there isn&apos;t a distinction between Self and Others" ID="ID_805292710" CREATED="1745066277377" MODIFIED="1745595792806">
+<arrowlink DESTINATION="ID_1666079869"/>
+</node>
+</node>
+<node TEXT="In fact, seems like having an eye on phala might reduce your karma points or something, not so clear (Nachiketa-Yama)" ID="ID_1299570853" CREATED="1745066062680" MODIFIED="1745181589248">
+<arrowlink DESTINATION="ID_1892172223"/>
+<arrowlink DESTINATION="ID_936614201" SOURCE_LABEL="Nachiketa has Shraddhaa"/>
+</node>
+<node TEXT="But how can we be sure that justice will be delivered in the next life? Isn&apos;t it better to just always default to life of a beggar/mendicant who tries to minimize any sins just to be safe?" ID="ID_6064362" CREATED="1745066409284" MODIFIED="1747747895176">
+<arrowlink DESTINATION="ID_530070392"/>
+<arrowlink DESTINATION="ID_1498163229"/>
+<arrowlink DESTINATION="ID_755938751"/>
+<node TEXT="No, that would be using the karma theory instrumentally, that&apos;s not correct" ID="ID_1892172223" CREATED="1745066594931" MODIFIED="1745066607714">
+<arrowlink DESTINATION="ID_609897672"/>
+</node>
+<node TEXT="Action/Karma done for desire only begets more desire. From attachments comes desire from desire comes anger" ID="ID_557040015" CREATED="1745066639263" MODIFIED="1745066681118">
+<arrowlink DESTINATION="ID_1546423673"/>
+<arrowlink DESTINATION="ID_404627683"/>
+<arrowlink DESTINATION="ID_287340662"/>
+<arrowlink DESTINATION="ID_975848020"/>
+<node TEXT="Instead, one should do Karma without expectation of phala, nishkaamakarma" ID="ID_1831927965" CREATED="1745077908208" MODIFIED="1745077928395">
+<arrowlink DESTINATION="ID_784039617"/>
+</node>
+<node TEXT="Karmanyevaadhikaaraste, ma phaleshu kadaachana, Action is your proper business, not obtaining outcomes. So don&apos;t let obtaining outcomes be your motivation. Act without formulating a desire that would be fulfilled by acting" ID="ID_1131622924" CREATED="1745077938178" MODIFIED="1745078472457"/>
+<node TEXT="Which Action? Well the one that suits your Nature/Svadharma" ID="ID_520405027" CREATED="1745078411109" MODIFIED="1745078426958"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="@Karma, Specifically, those who act well/pleasant conduct, enter a pleasant womb (Brahmin&gt;Kshatriya&gt;Vaishya) and those who don&apos;t in a bad one (Dog/Pig/Outcast(Chandaala).. yup)" ID="ID_179692294" CREATED="1744979228105" MODIFIED="1745762645169" HGAP_QUANTITY="-24.4 pt">
+<arrowlink DESTINATION="ID_1033232835"/>
+<arrowlink DESTINATION="ID_609897672"/>
+<arrowlink DESTINATION="ID_817529561"/>
+<node TEXT="Ultimately you can get Liberation/Mukti (Jaina/Buddhist/Ajivika influence?) from rebirth cycle/samsaara" ID="ID_530070392" CREATED="1747747722213" MODIFIED="1747933108678">
+<arrowlink DESTINATION="ID_1616014596"/>
+<node TEXT="Eventually you&apos;ll become an arahat (achieve full enlightenment), someone who has moved beyond punnya" ID="ID_111106912" CREATED="1745992895488" MODIFIED="1745993847563">
+<arrowlink DESTINATION="ID_348473232"/>
+<node TEXT="They don&apos;t need to actively deliberate about their actions, as their actions are not attached to desire anymore, so they naturally act well" ID="ID_1474628526" CREATED="1745993037057" MODIFIED="1745993074107">
+<arrowlink DESTINATION="ID_224943756"/>
+</node>
+</node>
+<node TEXT="After extreme ascetic practices, you can become a kevalin, someone who is keval/alone without accretion of karma" ID="ID_1141749647" CREATED="1747933090922" MODIFIED="1747933225855">
+<node TEXT="The kevalin then, to avoid any further chance of karma, can do sallekhanaa, which is fast unto death" ID="ID_94376595" CREATED="1747933234773" MODIFIED="1747933258986">
+<arrowlink DESTINATION="ID_1994208979"/>
+<node TEXT="Sallekhanaa isn&apos;t suicide because death isn&apos;t the intention, the only intention is to avoid karma" ID="ID_1823498241" CREATED="1747933289862" MODIFIED="1747933327890"/>
+</node>
+</node>
+<node TEXT="The &apos;tirthankaras&apos; of jainism are those who made tirthas/fords/ways to get out of the cycle of rebirth" ID="ID_1574951453" CREATED="1747933497310" MODIFIED="1747933532006"/>
+</node>
+<node TEXT="Karma is like dust sticking to a soul more easily if it gives in to passions or bad intentions, cuz passions/bad intentions are glue/resin-like/kashaaya" ID="ID_403140776" CREATED="1747934088503" MODIFIED="1747934272602"/>
+</node>
+<node TEXT="It&apos;s impossible to escape one&apos;s karma, it&apos;s all up to fate/niyati" POSITION="top_or_left" ID="ID_1837304860" CREATED="1744978429397" MODIFIED="1745762802420" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="10.4 pt" VSHIFT_QUANTITY="-62.4 pt">
+<arrowlink DESTINATION="ID_609897672"/>
+<arrowlink DESTINATION="ID_150364643"/>
+<arrowlink DESTINATION="ID_1978295915"/>
+<arrowlink DESTINATION="ID_1971520774"/>
+<arrowlink DESTINATION="ID_500093488"/>
+<node TEXT="But the cycle of reincarnation eventually ends after millions of years, so you just wait" ID="ID_682156015" CREATED="1744978666496" MODIFIED="1745992845680" HGAP_QUANTITY="24.2 pt" VSHIFT_QUANTITY="60.6 pt">
+<arrowlink DESTINATION="ID_1062688376"/>
+</node>
+<node TEXT="Amount and Course of Pleasure and Pain has already been measured by the current round of Birth-and-death you&apos;re in" ID="ID_1343290789" CREATED="1744979678588" MODIFIED="1744979720917"/>
+<node TEXT="There is neither increase or decrease, inferiority or excellence, humans have no power/control" ID="ID_1849714482" CREATED="1744979728377" MODIFIED="1744979773991"/>
+</node>
+<node TEXT="Even gods are not exempt from cycle of reincarnation (not clear if it&apos;s so emphasized in brahmannical context but is asserted in buddhism)" POSITION="top_or_left" ID="ID_500093488" CREATED="1745742365905" MODIFIED="1745742398789">
+<arrowlink DESTINATION="ID_245574614"/>
+<node TEXT="Daimones can rise back by becoming outstanding humans (like prophets doctors), kinda losing and regaining Unity" POSITION="top_or_left" ID="ID_1610366977" CREATED="1743798478603" MODIFIED="1745742481165" HGAP_QUANTITY="8 pt" VSHIFT_QUANTITY="3 pt">
+<arrowlink DESTINATION="ID_507860654"/>
+</node>
+</node>
+</node>
+<node TEXT="There ain&apos;t no reincarnation" POSITION="top_or_left" ID="ID_1018943455" CREATED="1745059049485" MODIFIED="1745904185207" HGAP_QUANTITY="-51.4 pt">
+<arrowlink DESTINATION="ID_1242737626"/>
+<arrowlink DESTINATION="ID_272633652"/>
+<arrowlink DESTINATION="ID_609897672"/>
+<node TEXT="Human being is made of four elements, on death- Earth part reverts to earth, Water pater to water, Fire part to part, Air part to air, and Faculties pass away to Space" ID="ID_141049404" CREATED="1745059064643" MODIFIED="1745904246980">
+<arrowlink DESTINATION="ID_1488526903" STARTINCLINATION="4084.2001 pt;269.40001 pt;" ENDINCLINATION="4841.40012 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1371637652"/>
+<arrowlink DESTINATION="ID_1664652260"/>
+</node>
+<node TEXT="Fool or Wise, perish at death when their body breaks down" ID="ID_1523957875" CREATED="1745062689229" MODIFIED="1745062780847">
+<arrowlink DESTINATION="ID_675525962"/>
+<node TEXT="So there are no moral reasons for action, so there&apos;s no reason to act morally" ID="ID_1873571859" CREATED="1745063168770" MODIFIED="1745063210117">
+<arrowlink DESTINATION="ID_1017330575"/>
+<arrowlink DESTINATION="ID_310983180"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Suffering/Dukkha is innate to life(transient existence?), and nothing is forever (1st noble truth)" POSITION="top_or_left" ID="ID_474771528" CREATED="1745559666435" MODIFIED="1745592808321">
+<arrowlink DESTINATION="ID_660726991"/>
+<node TEXT="And death is no release cuz karma cycle will relieve from this dukkha/suffering(that is life) and bring us to the next suffering(rebirth), so one wants to be free/mukti/liberation" ID="ID_1971520774" CREATED="1745559691738" MODIFIED="1745762120849">
+<node TEXT="The trick is to realize that there&apos;s No Self/atman to be set free" POSITION="top_or_left" ID="ID_1666079869" CREATED="1745559811304" MODIFIED="1745761235760">
+<arrowlink DESTINATION="ID_7074075"/>
+<arrowlink DESTINATION="ID_1709408662"/>
+</node>
+<node TEXT="When person has Understanding, is Mindful, and always Pure, they reach Liberation/Mukti from reincarnation cycle" POSITION="top_or_left" ID="ID_889504761" CREATED="1744295218688" MODIFIED="1747933391108" HGAP_QUANTITY="26.6 pt" VSHIFT_QUANTITY="1.2 pt">
+<arrowlink DESTINATION="ID_83810402" STARTINCLINATION="4480.20011 pt;0 pt;" ENDINCLINATION="4480.20011 pt;-239.40001 pt;"/>
+<arrowlink DESTINATION="ID_1493294794"/>
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_1585167373"/>
+<arrowlink DESTINATION="ID_530070392"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="Evolution" ID="ID_1986167065" CREATED="1743796190817" MODIFIED="1743796199755">
@@ -2891,7 +3399,7 @@
 </node>
 <node TEXT="Animals emerge in stages" ID="ID_1719212652" CREATED="1743796200975" MODIFIED="1743882003982">
 <arrowlink DESTINATION="ID_542635511"/>
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3265.80008 pt;-299.40001 pt;" ENDINCLINATION="3757.20009 pt;-292.20001 pt;"/>
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3265.80008 pt;-201.6 pt;" ENDINCLINATION="3757.20009 pt;-194.4 pt;"/>
 <node TEXT="At first you only get limbs and organs" ID="ID_1255142954" CREATED="1743796261857" MODIFIED="1743796271816"/>
 <node TEXT="Then they combine with each other randomly... yeah... like a body horror comedy" ID="ID_679977292" CREATED="1743796438466" MODIFIED="1743796486111">
 <arrowlink DESTINATION="ID_1201531390"/>
@@ -2900,9 +3408,9 @@
 <node TEXT="The unfit ones die, and the good ones remain (not quite Darwinian cuz no genes and mutation explanation.. it&apos;s not clear what criteria makes an animal fit, maybe he left that to exercise)" ID="ID_1815773260" CREATED="1743796559665" MODIFIED="1743796672494"/>
 <node TEXT="Only those animals that were fit for survival start reproducing (yeah so kinda opposite to Darwin)" ID="ID_1176907051" CREATED="1743796605704" MODIFIED="1743796625311"/>
 </node>
-<node TEXT="Cut up parts of Purusha became fully formed things like animals and humans" POSITION="top_or_left" ID="ID_1431857724" CREATED="1744281634887" MODIFIED="1745600676806">
+<node TEXT="Cut up parts of Purusha became fully formed things like animals and humans" POSITION="top_or_left" ID="ID_1431857724" CREATED="1744281634887" MODIFIED="1747841145398">
 <arrowlink DESTINATION="ID_694884804"/>
-<arrowlink DESTINATION="ID_1792262256" STARTINCLINATION="1909.20005 pt;-129 pt;" ENDINCLINATION="2090.40005 pt;-82.8 pt;"/>
+<arrowlink DESTINATION="ID_1792262256" STARTINCLINATION="1909.20005 pt;-31.2 pt;" ENDINCLINATION="2090.40005 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_906651968"/>
 <arrowlink DESTINATION="ID_1475472557"/>
 <node TEXT="Also different parts became different social classes, feet=shudras(labourers,serfs), thighs=vaishyas(tradesmen,farmers), arms=raajanyas/kshatriyas(aristocratic warriors)" POSITION="top_or_left" ID="ID_1638403860" CREATED="1744281649358" MODIFIED="1744281761720">
@@ -2915,16 +3423,24 @@
 </node>
 </node>
 </node>
-<node TEXT="Gods exists" POSITION="top_or_left" ID="ID_1084062347" CREATED="1743106137102" MODIFIED="1745599725018">
+<node TEXT="Gods exists" POSITION="top_or_left" ID="ID_1084062347" CREATED="1743106137102" MODIFIED="1747840751955">
 <arrowlink DESTINATION="ID_1960165384"/>
-<node TEXT="How many" ID="ID_717777503" CREATED="1743106416626" MODIFIED="1743615173966">
+<node TEXT="How many" ID="ID_717777503" CREATED="1743106416626" MODIFIED="1747840764126" HGAP_QUANTITY="96.8 pt">
 <node TEXT="Only One God" POSITION="top_or_left" ID="ID_1122151361" CREATED="1743106164817" MODIFIED="1743615173966">
 <arrowlink DESTINATION="ID_1138260165"/>
 <arrowlink DESTINATION="ID_449995834"/>
 <arrowlink DESTINATION="ID_133900721"/>
 </node>
-<node TEXT="Multiple Gods" POSITION="top_or_left" ID="ID_224995811" CREATED="1743106169300" MODIFIED="1744282695672">
+<node TEXT="Multiple Gods" POSITION="top_or_left" ID="ID_224995811" CREATED="1743106169300" MODIFIED="1747841145398">
 <arrowlink DESTINATION="ID_1475472557"/>
+<node TEXT="One God superior to all others" ID="ID_743363151" CREATED="1747840789620" MODIFIED="1747840798218">
+<arrowlink DESTINATION="ID_1122151361"/>
+<arrowlink DESTINATION="ID_1894533106"/>
+<arrowlink DESTINATION="ID_342503738"/>
+</node>
+<node TEXT="Fallen Divine being" POSITION="top_or_left" ID="ID_1210532658" CREATED="1743798361312" MODIFIED="1743798365644">
+<node TEXT="Immortal Gods become lesser mortal beings called &apos;Daimones&apos;/Demons/Spirits" ID="ID_507860654" CREATED="1743798366724" MODIFIED="1743798563537"/>
+</node>
 </node>
 </node>
 <node TEXT="Nature of God" ID="ID_49881106" CREATED="1743106427106" MODIFIED="1743615173966">
@@ -2961,276 +3477,38 @@
 </node>
 <node TEXT="Roots/Elements are equivalent to Greek Gods, like Water=Nests, Fire=Hephaestus" POSITION="top_or_left" ID="ID_574263364" CREATED="1743788565271" MODIFIED="1743869137870">
 <arrowlink DESTINATION="ID_1488526903"/>
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3493.80008 pt;-268.80001 pt;" ENDINCLINATION="3990.0001 pt;-168.6 pt;"/>
+<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3493.80008 pt;-171 pt;" ENDINCLINATION="3990.0001 pt;-70.8 pt;"/>
 </node>
-<node TEXT="Human agency is under control of Divine agency (e.g. they control courage and desires)" POSITION="top_or_left" ID="ID_185229965" CREATED="1743104448632" MODIFIED="1743615173968">
-<node TEXT="Political virtue is gift from god to humans that everyone can share in equally (unlike other virtues/skills)" ID="ID_1395475277" CREATED="1743926942840" MODIFIED="1745065736101">
-<arrowlink DESTINATION="ID_146286385"/>
-<arrowlink DESTINATION="ID_1953404439"/>
-<arrowlink DESTINATION="ID_1091274585"/>
-<node TEXT="Man if measure of all things, of things that are that they are, of things that aren&apos;t that they aren&apos;t.. (so the sense that though there&apos;s an objective thing as virtue, given by gods, it&apos;s a thing that&apos;s obvious to man)" ID="ID_1526939952" CREATED="1743927809598" MODIFIED="1743928078236">
-<arrowlink DESTINATION="ID_1073081331"/>
-<node TEXT="Ethical Relativism, what anyone thinks is correct, is correct (there&apos;s no such thing as objective virtue). Truth is always something&apos;s being true for &apos;someone&apos; which anything is.. so no one is in position to judge what&apos;s true for anyone else" ID="ID_1938721027" CREATED="1743927918151" MODIFIED="1743928296243">
-<arrowlink DESTINATION="ID_311446859"/>
-<arrowlink DESTINATION="ID_574160957"/>
-<node TEXT="It&apos;s &quot;Natural&quot; for Strong to Dominate the Weak" ID="ID_1065767967" CREATED="1743928373756" MODIFIED="1743928477312"/>
-<node TEXT="It&apos;s &quot;Custom&quot;ary for Weak to band together and form law and order to dominate the strong" ID="ID_1209077556" CREATED="1743928450703" MODIFIED="1743928479232"/>
+<node TEXT="Human agency is under control of Divine agency (e.g. they control courage and desires)" POSITION="top_or_left" ID="ID_185229965" CREATED="1743104448632" MODIFIED="1745773810417">
+<arrowlink DESTINATION="ID_404627683"/>
 </node>
-<node TEXT="There&apos;s no such thing as Wind in itself, there&apos;s only the way things seem to us (Ontological relativism)" ID="ID_1395501420" CREATED="1743928195439" MODIFIED="1744648419681">
-<arrowlink DESTINATION="ID_1915870848"/>
-<arrowlink DESTINATION="ID_311446859" STARTINCLINATION="4430.40011 pt;0 pt;" ENDINCLINATION="2889.60007 pt;0 pt;"/>
-<node TEXT="Everything is always changing" POSITION="top_or_left" ID="ID_1766423984" CREATED="1743360571830" MODIFIED="1743615809661" VSHIFT_QUANTITY="13.2 pt">
-<arrowlink DESTINATION="ID_1368955677"/>
-<node TEXT="You can&apos;t even step in the same river even once" ID="ID_1627253170" CREATED="1743360592278" MODIFIED="1743615173956">
-<arrowlink DESTINATION="ID_253274634"/>
+<node TEXT="God exists in all time" POSITION="top_or_left" ID="ID_1118228990" CREATED="1747847131152" MODIFIED="1747847140674">
+<arrowlink DESTINATION="ID_1288667231"/>
 </node>
 </node>
-</node>
-</node>
-<node TEXT="This is why Punishment for lack of virtue is justified" ID="ID_1544186836" CREATED="1743927659490" MODIFIED="1743927670614">
-<node TEXT="Anyone who knows what is Good will automatically choose it. No one chooses wrong willingly" ID="ID_1979358637" CREATED="1744026624759" MODIFIED="1744026741276">
-<arrowlink DESTINATION="ID_732366580"/>
-<arrowlink DESTINATION="ID_1905796840"/>
-<arrowlink DESTINATION="ID_50538005"/>
-<node TEXT="Vice/wrongdoing are result of Ignorance (one where you think you know something that you don&apos;t actually)" ID="ID_1774486215" CREATED="1744026749423" MODIFIED="1744142075615">
-<arrowlink DESTINATION="ID_1156606295"/>
-<arrowlink DESTINATION="ID_1915870848"/>
-<arrowlink DESTINATION="ID_1195090906"/>
-</node>
-</node>
-</node>
-<node TEXT="To do anything virtuously is to act well" ID="ID_37581353" CREATED="1744012190936" MODIFIED="1745078062620">
-<arrowlink DESTINATION="ID_1905796840"/>
-<arrowlink DESTINATION="ID_1831927965"/>
-<node TEXT="What is Virtue in first place though, there are examples like courage but what does Virtue mean (a question that Gods missed to impart knowledge of presumably)" ID="ID_1783454061" CREATED="1744025517385" MODIFIED="1744025582048">
-<arrowlink DESTINATION="ID_1905796840"/>
-</node>
-<node TEXT="To act well is to act with Knowledge. Knowledge is Virtue itself" ID="ID_1156606295" CREATED="1744012221620" MODIFIED="1745078196668">
-<arrowlink DESTINATION="ID_1873571859"/>
-<arrowlink DESTINATION="ID_1668624742"/>
-<arrowlink DESTINATION="ID_294339019"/>
-<arrowlink DESTINATION="ID_1123215265"/>
-<arrowlink DESTINATION="ID_1596895414" STARTINCLINATION="3541.80008 pt;0 pt;" ENDINCLINATION="3556.80008 pt;0 pt;"/>
-<node TEXT="We don&apos;t let people without Knowledge experiment on our bodies (act as doctors), we shouldn&apos;t allow such people to experiment with political bodies either" ID="ID_777379551" CREATED="1744012430647" MODIFIED="1744012551861"/>
-</node>
-<node TEXT="To act well is to act true to one&apos;s svadharma/natural or proper character" ID="ID_1558709561" CREATED="1745078503884" MODIFIED="1745078592622">
-<arrowlink DESTINATION="ID_520405027"/>
-<arrowlink DESTINATION="ID_1809636728"/>
-<arrowlink DESTINATION="ID_898321604"/>
-<node TEXT="Be detached from self-interest in the result of actions" ID="ID_795506125" CREATED="1745078537680" MODIFIED="1745078552044"/>
-<node TEXT="The consequences of this might be good as per karma rule, but that shouldn&apos;t be your motivation to act" ID="ID_1300993451" CREATED="1745078564902" MODIFIED="1745078581146"/>
-</node>
-</node>
-<node TEXT="Not everyone (presumably &apos;acts&apos; though they have divine &apos;capacity&apos;?) equally virtuously, but you can train it" ID="ID_50538005" CREATED="1743927698199" MODIFIED="1744727652302">
-<arrowlink DESTINATION="ID_403479155"/>
-<node TEXT="Virtue isn&apos;t something that&apos;s best absolutely, it&apos;s something that&apos;s best, i.e. Advantageous for you specifically" ID="ID_574160957" CREATED="1743928271801" MODIFIED="1744142045557">
-<arrowlink DESTINATION="ID_1767846079" STARTINCLINATION="2373.60006 pt;0 pt;" ENDINCLINATION="2101.80005 pt;0 pt;"/>
-<node TEXT="Political success and Honor are valuable" ID="ID_413162598" CREATED="1744012391564" MODIFIED="1744012556921">
-<arrowlink DESTINATION="ID_777379551"/>
-</node>
-</node>
-<node TEXT="You can argue on both sides of a matter, so there&apos;s no use arguing about anything. You won&apos;t understand reality even if you try" ID="ID_1915870848" CREATED="1743928568126" MODIFIED="1743928919098">
-<arrowlink DESTINATION="ID_906669245"/>
-</node>
-<node TEXT="The trick is to make your position &quot;seem&quot; advantageous, it doesn&apos;t matter what actually is the case" ID="ID_441498979" CREATED="1743928663700" MODIFIED="1744648395976">
-<arrowlink DESTINATION="ID_311446859" STARTINCLINATION="4687.80011 pt;0 pt;" ENDINCLINATION="3907.80009 pt;0 pt;"/>
-</node>
-</node>
-<node TEXT="Or Virtue simply can&apos;t be trained. You can only be trained in argumentation, rest is up to you. There&apos;s a moral neutrality to the art of rhetoric" ID="ID_906669245" CREATED="1743928890233" MODIFIED="1744041796712">
-<arrowlink DESTINATION="ID_388135401"/>
-<arrowlink DESTINATION="ID_311446859"/>
-<arrowlink DESTINATION="ID_1548655650"/>
-<node TEXT="Persuasion is irresistible, like a drug" ID="ID_627039646" CREATED="1743928986631" MODIFIED="1743929022706">
-<arrowlink DESTINATION="ID_1831453139"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Design/Creation" ID="ID_200453516" CREATED="1743941337314" MODIFIED="1745599734587" VSHIFT_QUANTITY="-336.00001 pt">
+<node TEXT="Functions/Roles of God" ID="ID_1018566564" CREATED="1747841145319" MODIFIED="1747841268787">
+<node TEXT="Design/Creation" ID="ID_200453516" CREATED="1743941337314" MODIFIED="1747840774088" HGAP_QUANTITY="23.6 pt" VSHIFT_QUANTITY="-9 pt">
+<arrowlink DESTINATION="ID_694884804"/>
+<arrowlink DESTINATION="ID_1081840985"/>
 <node TEXT="Divine Providence - Be grateful to Gods who designed humans and nature so well" ID="ID_91494081" CREATED="1743941443559" MODIFIED="1743941517855">
 <arrowlink DESTINATION="ID_1905796840"/>
+<arrowlink DESTINATION="ID_1485884426"/>
 </node>
 <node TEXT="Gods cut up Purusha just as priests cut up sacrificial animal" POSITION="top_or_left" ID="ID_1475472557" CREATED="1744277287709" MODIFIED="1745600681099">
 <arrowlink DESTINATION="ID_1792262256"/>
 <arrowlink DESTINATION="ID_906651968"/>
 </node>
 </node>
-<node TEXT="Fallen Divine being" POSITION="top_or_left" ID="ID_1210532658" CREATED="1743798361312" MODIFIED="1743798365644">
-<node TEXT="Immortal Gods become lesser mortal beings called &apos;Daimones&apos;/Demons/Spirits" ID="ID_507860654" CREATED="1743798366724" MODIFIED="1743798563537"/>
-</node>
-<node TEXT="Miracle performers" POSITION="top_or_left" ID="ID_1690884086" CREATED="1743787656777" MODIFIED="1745599725018" HGAP_QUANTITY="23.6 pt" VSHIFT_QUANTITY="-9.6 pt">
-<node TEXT="Immortality" ID="ID_435970750" CREATED="1744648695250" MODIFIED="1744648697914">
-<arrowlink DESTINATION="ID_507860654"/>
-<arrowlink DESTINATION="ID_675525962"/>
-</node>
-<node TEXT="Reanimation" ID="ID_222327229" CREATED="1743787693165" MODIFIED="1743882054890">
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="4354.8001 pt;0 pt;" ENDINCLINATION="4224.0001 pt;0 pt;"/>
-</node>
-<node TEXT="Healing" ID="ID_1203605954" CREATED="1743787700493" MODIFIED="1743882024262">
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3961.80009 pt;-205.8 pt;" ENDINCLINATION="4237.2001 pt;-231.00001 pt;"/>
-</node>
-<node TEXT="Recalling past lives/distant past events" ID="ID_1620694908" CREATED="1743787858494" MODIFIED="1745594809525">
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="5158.20012 pt;0 pt;" ENDINCLINATION="5143.80012 pt;0 pt;"/>
-<arrowlink DESTINATION="ID_504819623"/>
-</node>
-<node TEXT="Foresight/Future sight/Divine sign" ID="ID_1185756483" CREATED="1743941749361" MODIFIED="1744027753211">
-<arrowlink DESTINATION="ID_1905796840" STARTINCLINATION="4692.60011 pt;-225.00001 pt;" ENDINCLINATION="3977.40009 pt;506.40001 pt;"/>
-</node>
-</node>
-</node>
-<node TEXT="Soul/Self/Atman" POSITION="top_or_left" ID="ID_655908109" CREATED="1743080837604" MODIFIED="1745594290245">
-<arrowlink DESTINATION="ID_744860539"/>
-<node TEXT="Things have souls" ID="ID_1392816710" CREATED="1743080840979" MODIFIED="1745594305024" HGAP_QUANTITY="106.4 pt" VSHIFT_QUANTITY="-162 pt">
-<arrowlink DESTINATION="ID_948156493"/>
-<node TEXT="Motion causing things have souls, e.g. amber, magnet" ID="ID_944742620" CREATED="1743080844816" MODIFIED="1743795916792">
-<arrowlink DESTINATION="ID_1604494370" STARTINCLINATION="3306.00008 pt;354.60001 pt;" ENDINCLINATION="3115.80007 pt;0 pt;"/>
-<arrowlink DESTINATION="ID_1565047851"/>
-<arrowlink DESTINATION="ID_419428417"/>
-</node>
-</node>
-<node TEXT="Dualism (Soul and Body are two different things)" POSITION="top_or_left" ID="ID_744860539" CREATED="1743255876703" MODIFIED="1743795761840">
-<arrowlink DESTINATION="ID_1337033142"/>
-<arrowlink DESTINATION="ID_767155506"/>
-<node TEXT="Metaphysical Dualism (Body and Soul are fundamentally different Kinds of things) Soul is Immaterial, Body is Material" ID="ID_1247178045" CREATED="1743255928134" MODIFIED="1744294214708">
-<arrowlink DESTINATION="ID_1639794553"/>
-<arrowlink DESTINATION="ID_381511573"/>
-<arrowlink DESTINATION="ID_779567815"/>
-<node TEXT="Soul is abstract" POSITION="top_or_left" ID="ID_1706179569" CREATED="1743256335652" MODIFIED="1743615173970">
-<arrowlink DESTINATION="ID_188702663"/>
-<arrowlink DESTINATION="ID_1430795240"/>
-</node>
-<node TEXT="Has and will Always exist" POSITION="top_or_left" ID="ID_362489273" CREATED="1743256342703" MODIFIED="1744817976678">
-<arrowlink DESTINATION="ID_188702663" STARTINCLINATION="4893.60012 pt;0 pt;" ENDINCLINATION="5931.60014 pt;0 pt;"/>
-<arrowlink DESTINATION="ID_610301222"/>
-</node>
-</node>
-<node TEXT="Chariot analogy- Atman is lord of chariot, Body is the Chariot (intellect/buddhi is driver/charioteer, mind/manah is reins, senses/indriya are horses, objects/vishaya? are roads)" ID="ID_1109769975" CREATED="1744817963109" MODIFIED="1744819492027">
-<node TEXT="So even here the Atman is kinda passive eh? But still, a lord is usually responsible for the functioning of chariot so it&apos;s a somewhat active atman" ID="ID_298970272" CREATED="1744819900090" MODIFIED="1745594889175">
-<node TEXT="Atman seems like a kinda body hopping fun-haver" ID="ID_1653117951" CREATED="1745594450943" MODIFIED="1745595532579" VSHIFT_QUANTITY="25.2 pt">
-<arrowlink DESTINATION="ID_7074075"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Monism (Soul and Body are same kinda thing?)" POSITION="top_or_left" ID="ID_619776650" CREATED="1744569443536" MODIFIED="1744569476526">
-<node TEXT="Conception of Nature of Self is key to a conception of Nature of the World" ID="ID_74822587" CREATED="1744569476842" MODIFIED="1744569579514">
-<arrowlink DESTINATION="ID_582531067"/>
-<arrowlink DESTINATION="ID_1725492722"/>
-<node TEXT="There is no Reality to Difference between them if any is perceived" ID="ID_24454640" CREATED="1744569601285" MODIFIED="1744620144576">
-<arrowlink DESTINATION="ID_1824019003"/>
-</node>
-</node>
-</node>
-<node TEXT="There&apos;s no such thing as a soul that can pass from one to other body" POSITION="top_or_left" ID="ID_1709408662" CREATED="1744295716082" MODIFIED="1744295745348">
-<arrowlink DESTINATION="ID_889504761"/>
-</node>
-<node TEXT="Soul is one that is Aware of Will to Sense/Think" POSITION="top_or_left" ID="ID_1628623131" CREATED="1744745056950" MODIFIED="1744745070041"/>
-<node TEXT="Afterlife" POSITION="top_or_left" ID="ID_1488240827" CREATED="1743248588902" MODIFIED="1743615173970">
-<arrowlink DESTINATION="ID_1555983872"/>
-<node TEXT="Reincarnation" ID="ID_504819623" CREATED="1743248592012" MODIFIED="1745594301465">
-<arrowlink DESTINATION="ID_1588961208" STARTINCLINATION="4125.0001 pt;-107.4 pt;" ENDINCLINATION="3919.80009 pt;-107.4 pt;"/>
-<arrowlink DESTINATION="ID_667050106" STARTINCLINATION="3704.40009 pt;-328.20001 pt;" ENDINCLINATION="4073.4001 pt;-296.40001 pt;"/>
-<node TEXT="Soul is Indestructible, Body is destructible" POSITION="top_or_left" ID="ID_779567815" CREATED="1743256254542" MODIFIED="1744294199191"/>
-<node TEXT="Karma (You become something good by good action and something bad by bad action)" POSITION="top_or_left" ID="ID_814284821" CREATED="1743798526994" MODIFIED="1745594301463" HGAP_QUANTITY="38 pt" VSHIFT_QUANTITY="-190.8 pt">
-<arrowlink DESTINATION="ID_9063837" STARTINCLINATION="1116.60003 pt;363.60001 pt;" ENDINCLINATION="1319.40003 pt;0 pt;"/>
-<node TEXT="Clearly there&apos;s such a thing as deliberative action based on reason/reflection (source?)" ID="ID_1740602959" CREATED="1745065116055" MODIFIED="1745065191822">
-<node TEXT="And if the outcomes you get in life are not up to fate and chance, and really does depend on your actions, then there might also be moral reasons to act (source? why moral reasons specifically?)" ID="ID_129463321" CREATED="1745065192380" MODIFIED="1745065858964" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
-<arrowlink DESTINATION="ID_1837304860"/>
-<node TEXT="That&apos;s what karma is, your character/actions deciding your destiny/fate" ID="ID_1871827309" CREATED="1745065310968" MODIFIED="1745065332555">
-<arrowlink DESTINATION="ID_1837304860"/>
-</node>
-<node TEXT="Good actions by a clear-sighted, virtuous person, result in future happiness/well-being/sukha. Bad actions from ignorance/greed/malice cause future dukkha/suffering" ID="ID_1206672611" CREATED="1745065356419" MODIFIED="1745595767103">
-<arrowlink DESTINATION="ID_36477705"/>
-<node TEXT="This makes sense if the kartaa/doer of actions/karma and bhoktaa/recipient of outcomes/phala is the same person. Karma assumes that this is the case, and this moral order being a part of universe to be a brute fact... (so presumably if you didn&apos;t get phala in this life then there must be a next life where you get it)" ID="ID_1091274585" CREATED="1745065441715" MODIFIED="1745065947264">
-<arrowlink DESTINATION="ID_129463321"/>
-<arrowlink DESTINATION="ID_421468059"/>
-<arrowlink DESTINATION="ID_179692294"/>
-<arrowlink DESTINATION="ID_814284821"/>
-<node TEXT="But this doesn&apos;t mean you should do good karma only out of expectation for phala.. that would mean not really caring about benefit of others and only caring for your own benefit" ID="ID_986912628" CREATED="1745065992833" MODIFIED="1745066305599">
-<node TEXT="Well maybe, there isn&apos;t a distinction between Self and Others" ID="ID_805292710" CREATED="1745066277377" MODIFIED="1745595792806">
-<arrowlink DESTINATION="ID_1666079869"/>
-</node>
-</node>
-<node TEXT="In fact, seems like having an eye on phala might reduce your karma points or something, not so clear (Nachiketa-Yama)" ID="ID_1299570853" CREATED="1745066062680" MODIFIED="1745181589248">
-<arrowlink DESTINATION="ID_1892172223"/>
-<arrowlink DESTINATION="ID_936614201" SOURCE_LABEL="Nachiketa has Shraddhaa"/>
-</node>
-<node TEXT="But how can we be sure that justice will be delivered in the next life? Isn&apos;t it better to just always default to life of a beggar/mendicant who tries to minimize any sins just to be safe?" ID="ID_6064362" CREATED="1745066409284" MODIFIED="1745066536254">
-<node TEXT="No, that would be using the karma theory instrumentally, that&apos;s not correct" ID="ID_1892172223" CREATED="1745066594931" MODIFIED="1745066607714"/>
-<node TEXT="Action/Karma done for desire only begets more desire. From attachments comes desire from desire comes anger" ID="ID_557040015" CREATED="1745066639263" MODIFIED="1745066681118">
-<arrowlink DESTINATION="ID_287340662"/>
-<node TEXT="Instead, one should do Karma without expectation of phala, nishkaamakarma" ID="ID_1831927965" CREATED="1745077908208" MODIFIED="1745077928395"/>
-<node TEXT="Karmanyevaadhikaaraste, ma phaleshu kadaachana, Action is your proper business, not obtaining outcomes. So don&apos;t let obtaining outcomes be your motivation. Act without formulating a desire that would be fulfilled by acting" ID="ID_1131622924" CREATED="1745077938178" MODIFIED="1745078472457"/>
-<node TEXT="Which Action? Well the one that suits your Nature/Svadharma" ID="ID_520405027" CREATED="1745078411109" MODIFIED="1745078426958"/>
+<node TEXT="Destruction" ID="ID_1549953445" CREATED="1747841157585" MODIFIED="1747841160228">
+<arrowlink DESTINATION="ID_1081840985"/>
+<node TEXT="As God is all that is was and will be, he is time grown old to destroy all worlds" ID="ID_1288667231" CREATED="1747847073980" MODIFIED="1747847090212">
+<arrowlink DESTINATION="ID_1485884426"/>
 </node>
 </node>
 </node>
 </node>
 </node>
-</node>
-<node TEXT="@Karma, Specifically, those who act well/pleasant conduct, enter a pleasant womb (Brahmin&gt;Kshatriya&gt;Vaishya) and those who don&apos;t in a bad one (Dog/Pig/Outcast(Chandaala).. yup)" ID="ID_179692294" CREATED="1744979228105" MODIFIED="1745065163519" HGAP_QUANTITY="29.6 pt">
-<arrowlink DESTINATION="ID_1033232835"/>
-</node>
-<node TEXT="It&apos;s impossible to escape one&apos;s karma, it&apos;s all up to fate/niyati" POSITION="top_or_left" ID="ID_1837304860" CREATED="1744978429397" MODIFIED="1745742470553" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="44 pt" VSHIFT_QUANTITY="-62.4 pt">
-<arrowlink DESTINATION="ID_150364643"/>
-<arrowlink DESTINATION="ID_1978295915"/>
-<arrowlink DESTINATION="ID_1971520774"/>
-<node TEXT="But the cycle of reincarnation eventually ends after millions of years, so you just wait" ID="ID_682156015" CREATED="1744978666496" MODIFIED="1744978774224">
-<arrowlink DESTINATION="ID_1062688376"/>
-</node>
-<node TEXT="Amount and Course of Pleasure and Pain has already been measured by the current round of Birth-and-death you&apos;re in" ID="ID_1343290789" CREATED="1744979678588" MODIFIED="1744979720917"/>
-<node TEXT="There is neither increase or decrease, inferiority or excellence, humans have no power/control" ID="ID_1849714482" CREATED="1744979728377" MODIFIED="1744979773991"/>
-</node>
-<node TEXT="Even gods are not exempt from cycle of reincarnation (not clear if it&apos;s so emphasized in brahmannical context but is asserted in buddhism)" POSITION="top_or_left" ID="ID_500093488" CREATED="1745742365905" MODIFIED="1745742398789">
-<node TEXT="Daimones can rise back by becoming outstanding humans (like prophets doctors), kinda losing and regaining Unity" POSITION="top_or_left" ID="ID_1610366977" CREATED="1743798478603" MODIFIED="1745742481165" HGAP_QUANTITY="8 pt" VSHIFT_QUANTITY="3 pt">
-<arrowlink DESTINATION="ID_507860654"/>
-</node>
-</node>
-</node>
-<node TEXT="There ain&apos;t no reincarnation" POSITION="top_or_left" ID="ID_1018943455" CREATED="1745059049485" MODIFIED="1745059063851">
-<arrowlink DESTINATION="ID_1242737626"/>
-<arrowlink DESTINATION="ID_272633652"/>
-<node TEXT="Human being is made of four elements, on death- Earth part reverts to earth, Water pater to water, Fire part to part, Air part to air, and Faculties pass away to Space" ID="ID_141049404" CREATED="1745059064643" MODIFIED="1745059141175">
-<arrowlink DESTINATION="ID_1488526903"/>
-</node>
-<node TEXT="Fool or Wise, perish at death when their body breaks down" ID="ID_1523957875" CREATED="1745062689229" MODIFIED="1745062780847">
-<arrowlink DESTINATION="ID_675525962"/>
-<node TEXT="So there are no moral reasons for action, so there&apos;s no reason to act morally" ID="ID_1873571859" CREATED="1745063168770" MODIFIED="1745063210117"/>
-</node>
-</node>
-</node>
-<node TEXT="Suffering/Dukkha is innate to life(transient existence?), and nothing is forever (1st noble truth)" POSITION="top_or_left" ID="ID_474771528" CREATED="1745559666435" MODIFIED="1745592808321">
-<arrowlink DESTINATION="ID_660726991"/>
-<node TEXT="And death is no release cuz karma cycle will relieve from this dukkha/suffering(that is life) and bring us to the next suffering(rebirth), so one wants to be free/mukti/liberation" ID="ID_1971520774" CREATED="1745559691738" MODIFIED="1745639654080">
-<node TEXT="The trick is to realize that there&apos;s No Self/atman to be set free" POSITION="top_or_left" ID="ID_1666079869" CREATED="1745559811304" MODIFIED="1745595532579">
-<arrowlink DESTINATION="ID_7074075"/>
-</node>
-<node TEXT="When person has Understanding, is Mindful, and always Pure, they reach Liberation/Mukti from reincarnation cycle" POSITION="top_or_left" ID="ID_889504761" CREATED="1744295218688" MODIFIED="1745559791087" HGAP_QUANTITY="26.6 pt" VSHIFT_QUANTITY="1.2 pt">
-<arrowlink DESTINATION="ID_83810402"/>
-<arrowlink DESTINATION="ID_1493294794"/>
-<arrowlink DESTINATION="ID_1873571859"/>
-</node>
-<node TEXT="Longing for something and aversion from others is trishnaa/tanhaa, which is the cause of suffering" ID="ID_36477705" CREATED="1745595532519" MODIFIED="1745639654080" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST" HGAP_QUANTITY="36.8 pt" VSHIFT_QUANTITY="-130.8 pt">
-<arrowlink DESTINATION="ID_166691833"/>
-<arrowlink DESTINATION="ID_557040015"/>
-<arrowlink DESTINATION="ID_287340662"/>
-<arrowlink DESTINATION="ID_1299570853"/>
-<node TEXT="Pursuit of outcomes causes trishna and their absence makes unfulfilled trishna induced suffering stronger which then causes a stronger trishna and so even more dukkha, or even if you do have the things with you you&apos;ll fear their loss cuz of this same trishna. Even prince Siddhaartha had to fear Old-Age, Illness, Death" ID="ID_693619070" CREATED="1745595993192" MODIFIED="1745596187198">
-<node TEXT="While you should renounce such trishna, and maybe part of it involves renouncing life of a householder like the Buddha did, but don&apos;t overdo it by high asceticism/self-abnegation like the ajivikas, both extremes are useless/ignoble" ID="ID_248221002" CREATED="1745641213832" MODIFIED="1745641475898"/>
-</node>
-<node TEXT="The cause of trisnaa/desire is ultimately ignorance. Ignorance causes karma/kamma, kamma causes consciousness, consciousness causes sensation, sensations cause desires (desires cause rebirth, birth causes dukkha)" ID="ID_224943756" CREATED="1745641505779" MODIFIED="1745641621047">
-<arrowlink DESTINATION="ID_695672257"/>
-<arrowlink DESTINATION="ID_1195090906"/>
-</node>
-<node TEXT="feelings like these are maybe only felt by misunderstanding or specifically by the (elemental) self/bhutaatmaa (different from normal atman which can move between bodies having fun.. I mean bhutatma also has fun but like... only normal fun, not atman level weird observational fun.. I think) which misunderstands the body created by main atman as its own and then goes through rebirth cycle" ID="ID_7074075" CREATED="1745593991575" MODIFIED="1745595558942"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Institution" ID="ID_1844526595" CREATED="1743250289120" MODIFIED="1745600467851" HGAP_QUANTITY="-1043.20003 pt" VSHIFT_QUANTITY="-4128.00009 pt">
+<node TEXT="Institution" ID="ID_1844526595" CREATED="1743250289120" MODIFIED="1746121000137" HGAP_QUANTITY="-419.20002 pt" VSHIFT_QUANTITY="-4093.80009 pt">
 <node TEXT="Prevalent" ID="ID_483717224" CREATED="1743250088950" MODIFIED="1743881258459" HGAP_QUANTITY="15.19999 pt" VSHIFT_QUANTITY="5.4 pt">
 <node TEXT="Proto-Indo-European" ID="ID_4771686" CREATED="1744521766873" MODIFIED="1744978361950" HGAP_QUANTITY="14.6 pt" VSHIFT_QUANTITY="-20.4 pt">
 <node TEXT="Zoroastrianism" FOLDED="true" POSITION="top_or_left" ID="ID_1373809149" CREATED="1743250172108" MODIFIED="1744521803307" HGAP_QUANTITY="42.2 pt" VSHIFT_QUANTITY="66.6 pt">
@@ -3606,7 +3884,7 @@
 <node TEXT="Haimavata" ID="ID_634644527" CREATED="1744302249791" MODIFIED="1744302255082"/>
 </node>
 <node TEXT="Sthaviras" ID="ID_1046815571" CREATED="1744302160605" MODIFIED="1744302165541">
-<node TEXT="Pudgalavaada" ID="ID_1215387429" CREATED="1744302264906" MODIFIED="1744302267774">
+<node TEXT="Pudgalavaada/Puggalavaada" ID="ID_1215387429" CREATED="1744302264906" MODIFIED="1745783670540">
 <node TEXT="Vaatsiputriya" ID="ID_385861302" CREATED="1744302283270" MODIFIED="1744302294294"/>
 <node TEXT="Sammitya" ID="ID_1258798830" CREATED="1744302294544" MODIFIED="1744302302969"/>
 </node>
@@ -3677,8 +3955,17 @@
 <node TEXT="Sikhism" ID="ID_796213835" CREATED="1743250134766" MODIFIED="1743615173972"/>
 <node TEXT="Jainism" ID="ID_1701529865" CREATED="1743250122015" MODIFIED="1745565831842">
 <arrowlink DESTINATION="ID_1536611148"/>
+<arrowlink DESTINATION="ID_864004960"/>
+<arrowlink DESTINATION="ID_1381699006"/>
+<arrowlink DESTINATION="ID_1069362885"/>
+<arrowlink DESTINATION="ID_265708051"/>
+<arrowlink DESTINATION="ID_1141749647"/>
+<arrowlink DESTINATION="ID_1574951453"/>
+<arrowlink DESTINATION="ID_530070392"/>
 <node TEXT="Early Jainism" ID="ID_1067608229" CREATED="1744733788021" MODIFIED="1744733794113"/>
-<node TEXT="Shwetambara" ID="ID_1418065005" CREATED="1744733794480" MODIFIED="1744980635379">
+<node TEXT="Shwetambara/Shvetambara" ID="ID_1418065005" CREATED="1744733794480" MODIFIED="1744980635379">
+<arrowlink DESTINATION="ID_1971757591"/>
+<arrowlink DESTINATION="ID_1384747399"/>
 <arrowlink DESTINATION="ID_679475546" MIDDLE_LABEL="only drishtivaada is lost" STARTINCLINATION="964.20002 pt;114.6 pt;" ENDINCLINATION="1556.40004 pt;38.4 pt;"/>
 <node TEXT="Murtipujaka" ID="ID_1316388292" CREATED="1744733843041" MODIFIED="1744733858190"/>
 <node TEXT="Sthanakvasi (non image worshipping)" ID="ID_977248681" CREATED="1744733858703" MODIFIED="1744733878555">
@@ -4299,7 +4586,7 @@
 <arrowlink DESTINATION="ID_1271852268"/>
 </node>
 <node TEXT="Procreation/Fertility" ID="ID_1118882463" CREATED="1743875958663" MODIFIED="1743877102196">
-<arrowlink DESTINATION="ID_1335851505" STARTINCLINATION="1553.40004 pt;0 pt;" ENDINCLINATION="1535.40004 pt;-67.8 pt;"/>
+<arrowlink DESTINATION="ID_1335851505" STARTINCLINATION="1553.40004 pt;0 pt;" ENDINCLINATION="1535.40004 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_634524838"/>
 </node>
 <node TEXT="Family/Home" ID="ID_541872217" CREATED="1743876473757" MODIFIED="1743879051029">
@@ -4310,6 +4597,9 @@
 </node>
 <node TEXT="Marriage" ID="ID_828713985" CREATED="1743878954855" MODIFIED="1743878993849">
 <arrowlink DESTINATION="ID_1037529353"/>
+<arrowlink DESTINATION="ID_453132780"/>
+<arrowlink DESTINATION="ID_414507461"/>
+<arrowlink DESTINATION="ID_861315123"/>
 </node>
 </node>
 <node TEXT="Vengeance" ID="ID_1031808742" CREATED="1743870942230" MODIFIED="1743870954836">
@@ -4349,8 +4639,123 @@
 </node>
 </node>
 <node TEXT="Politics?/Dandaniti" ID="ID_1410076236" CREATED="1743059027619" MODIFIED="1745600360825" HGAP_QUANTITY="-491.80002 pt" VSHIFT_QUANTITY="-6270.60014 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
-<node TEXT="Ruler" ID="ID_577967930" CREATED="1743069756783" MODIFIED="1743615173972">
-<node TEXT="Democracy" ID="ID_1907767033" CREATED="1743069727566" MODIFIED="1743615173972">
+<node TEXT="Ends" ID="ID_984215347" CREATED="1746117945647" MODIFIED="1746117949756">
+<node TEXT="Practical" ID="ID_1030367039" CREATED="1746121893735" MODIFIED="1746121896305">
+<arrowlink DESTINATION="ID_1017330575"/>
+<node TEXT="Maintaining stability and ensuring prosperity" ID="ID_1463407712" CREATED="1746117950130" MODIFIED="1746118615998">
+<node TEXT="Political life is struggle against various threats to stability and prosperity" ID="ID_1690462075" CREATED="1746118587015" MODIFIED="1746118608122">
+<arrowlink DESTINATION="ID_289468083"/>
+</node>
+<node TEXT="Financial stability" ID="ID_995651204" CREATED="1746118059615" MODIFIED="1746118064428">
+<node TEXT="It&apos;s ok to use underhanded means for this" ID="ID_309988590" CREATED="1746118064598" MODIFIED="1746118215562">
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_27472182"/>
+</node>
+</node>
+<node TEXT="Stability of rule" ID="ID_737810856" CREATED="1746118748263" MODIFIED="1746118750999">
+<node TEXT="Maybe ministers should seize power on monarch&apos;s demise (India had practice of aristocracy electing new leader, unless a son was available to whom then the power would pass)" ID="ID_1931397011" CREATED="1746118751170" MODIFIED="1746118947729">
+<arrowlink DESTINATION="ID_412173331"/>
+</node>
+</node>
+</node>
+<node TEXT="Defense" POSITION="bottom_or_right" ID="ID_121667171" CREATED="1746117959033" MODIFIED="1746117960983">
+<node TEXT="Internal threats" ID="ID_578293534" CREATED="1746117961068" MODIFIED="1746117966581">
+<node TEXT="These are thorns to be removed by any means" ID="ID_211388624" CREATED="1746118025479" MODIFIED="1746118215562">
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_27472182"/>
+</node>
+</node>
+<node TEXT="External threats" ID="ID_1114739046" CREATED="1746117966922" MODIFIED="1746117969955">
+<node TEXT="It&apos;s ok to use underhanded means to defeat enemies" ID="ID_1607044033" CREATED="1746118074231" MODIFIED="1746118215562">
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_27472182"/>
+</node>
+</node>
+<node TEXT="Calamities" ID="ID_547024675" CREATED="1746117970467" MODIFIED="1746117973347">
+<node TEXT="These are thorns to be removed by any means" ID="ID_1741167184" CREATED="1746118033157" MODIFIED="1746118215562">
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_27472182"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Ethical" ID="ID_270935470" CREATED="1746121909249" MODIFIED="1746121912828">
+<node TEXT="Rule through persuasion/consent not violent coercion" ID="ID_82258683" CREATED="1746122218387" MODIFIED="1746122310819">
+<arrowlink DESTINATION="ID_1758506868"/>
+</node>
+</node>
+</node>
+<node TEXT="Composition" ID="ID_1548278886" CREATED="1746099801116" MODIFIED="1746099804148">
+<node TEXT="State" ID="ID_163816999" CREATED="1746116415621" MODIFIED="1746116417622">
+<node TEXT="Seven prakriti/natures/elements of well-run state" ID="ID_798015500" CREATED="1746099814956" MODIFIED="1746100015262">
+<arrowlink DESTINATION="ID_357520394"/>
+<node TEXT="Ruler" ID="ID_1882270154" CREATED="1746099973378" MODIFIED="1746118234283">
+<node TEXT="Must have good character, not having excess wrathfulness or susceptibility to pleasure, vanity, etc." ID="ID_1986871443" CREATED="1746116817281" MODIFIED="1746116841596">
+<node TEXT="But maybe this means more like the ruler should impose punishments and hold subjects to their duties not as ends in themselves, but to fulfil his svadharma of maintaining stability of community and continued rule" ID="ID_27472182" CREATED="1746117863860" MODIFIED="1746117942986">
+<arrowlink DESTINATION="ID_1558709561"/>
+</node>
+</node>
+<node TEXT="The happiness of king is bound up with that of his subjects" ID="ID_1838455116" CREATED="1746116851907" MODIFIED="1746122138665" VSHIFT_QUANTITY="-32.4 pt">
+<arrowlink DESTINATION="ID_779367648"/>
+<arrowlink DESTINATION="ID_140199957"/>
+</node>
+</node>
+<node TEXT="Ruler&apos;s Officials" ID="ID_412173331" CREATED="1746099975396" MODIFIED="1746099998236">
+<arrowlink DESTINATION="ID_968608058"/>
+</node>
+<node TEXT="Territory over which ruler rules" ID="ID_1268386924" CREATED="1746099982766" MODIFIED="1746099995123"/>
+<node TEXT="Fortification" ID="ID_1126509702" CREATED="1746099986595" MODIFIED="1746100026773"/>
+<node TEXT="Treasury" ID="ID_124223238" CREATED="1746100027082" MODIFIED="1746100029557"/>
+<node TEXT="Alllied states" ID="ID_299932236" CREATED="1746100031555" MODIFIED="1746100036636"/>
+<node TEXT="Danda/army and punishments imposed by state" ID="ID_1791234238" CREATED="1746100037866" MODIFIED="1746100065787"/>
+</node>
+</node>
+<node TEXT="Society" ID="ID_779367648" CREATED="1746116418006" MODIFIED="1746116422755">
+<node TEXT="Identity" ID="ID_1274051038" CREATED="1746120803027" MODIFIED="1746596861872">
+<node TEXT="4 classes (brahmin,kshatriya,vaishya,shudra) in terms of duties, and other classification such as householder vs ascetic" ID="ID_100686797" CREATED="1746116423011" MODIFIED="1746596861872" VSHIFT_QUANTITY="-24 pt">
+<arrowlink DESTINATION="ID_1638403860"/>
+<node TEXT="State fluorishes when each group performs its distinctive duty" ID="ID_1447459269" CREATED="1746116487107" MODIFIED="1746116647868">
+<arrowlink DESTINATION="ID_1558709561"/>
+</node>
+</node>
+<node TEXT="Men, Women and Marriage" ID="ID_453132780" CREATED="1746596639681" MODIFIED="1746596644428">
+<node TEXT="Regulation of Sexual activity and Transfer of property" ID="ID_1353568565" CREATED="1746596736518" MODIFIED="1746596857820">
+<node TEXT="(My gloss) Women are basically like sentient property, treat them well if you can, if you can&apos;t then at least have some arbitrary rules conducive to the state" ID="ID_1989322360" CREATED="1746596757549" MODIFIED="1746596857820" VSHIFT_QUANTITY="-18 pt">
+<node TEXT="e.g. women who flirt should be fined" ID="ID_391472057" CREATED="1746597018425" MODIFIED="1746597036042"/>
+<node TEXT="e.g. there should be some rules for beating wives" ID="ID_380264490" CREATED="1746597036380" MODIFIED="1746597048421"/>
+<node TEXT="e.g. those who rape slaves should be treated leniently than those who assault free women" ID="ID_1430509578" CREATED="1746597048747" MODIFIED="1746597087104"/>
+<node TEXT="e.g. in a type of marriage that amounts to abduction (but I think it was a specific regional-cultural thing and not blanket rule) at least the woman&apos;s property shouldn&apos;t go to the husband, thereby dissuading the practice" ID="ID_861315123" CREATED="1746597088386" MODIFIED="1746597158814"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Religion" ID="ID_1039278906" CREATED="1746120799715" MODIFIED="1746120801908">
+<node TEXT="Ruler should use religion to manage the subjects" ID="ID_1001910512" CREATED="1746117440736" MODIFIED="1746120803077">
+<arrowlink DESTINATION="ID_1447459269"/>
+<arrowlink DESTINATION="ID_1242737626"/>
+<arrowlink DESTINATION="ID_27472182"/>
+<arrowlink DESTINATION="ID_653378782"/>
+<node TEXT="Ruler insists harmony between various schools/sects instead of insisting on a single one" ID="ID_826071697" CREATED="1746121215189" MODIFIED="1746121242881">
+<node TEXT="Maybe ruler is Beyond sectarian divisions at least in his role as ruler" ID="ID_1259197519" CREATED="1746121308126" MODIFIED="1746121325014"/>
+</node>
+<node TEXT="Ruler assumes role of exhorting subjects to observe dharma" ID="ID_140199957" CREATED="1746121385512" MODIFIED="1746121415917">
+<arrowlink DESTINATION="ID_1447459269"/>
+<node TEXT="Ruler may appoint own ministers (not necessarily any priests) to provide moral education to his subjects" ID="ID_1337604924" CREATED="1746121425398" MODIFIED="1746121461270"/>
+</node>
+</node>
+<node TEXT="Ruler performs subservience to religion and pay deference to monks/brahmins" ID="ID_1592278955" CREATED="1746120817211" MODIFIED="1746120968817"/>
+<node TEXT="Ruler finances/donates wealth to religious institution" ID="ID_1875095352" CREATED="1746120929163" MODIFIED="1746120937381">
+<arrowlink DESTINATION="ID_856387675"/>
+</node>
+<node TEXT="A king can conquer through dharma/proselytization instead of war" ID="ID_1758506868" CREATED="1746121944904" MODIFIED="1746122089102">
+<arrowlink DESTINATION="ID_270935470"/>
+<arrowlink DESTINATION="ID_1337604924"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Kinds" ID="ID_18435089" CREATED="1746099823635" MODIFIED="1746099825611">
+<node TEXT="Democracy" POSITION="bottom_or_right" ID="ID_1907767033" CREATED="1743069727566" MODIFIED="1743615173972">
 <node TEXT="Types" ID="ID_735023649" CREATED="1743071570360" MODIFIED="1743615173972">
 <node TEXT="Athenian" ID="ID_1988324601" CREATED="1743069807067" MODIFIED="1743615173972"/>
 </node>
@@ -4358,13 +4763,13 @@
 <node TEXT="Suffrage" ID="ID_1161981480" CREATED="1743071581880" MODIFIED="1743615173972"/>
 </node>
 </node>
-<node TEXT="Timocracy" ID="ID_675750733" CREATED="1743072000217" MODIFIED="1743615173972"/>
-<node TEXT="Plutocracy" ID="ID_491174688" CREATED="1743072004939" MODIFIED="1743615173972"/>
-<node TEXT="Monarchy/Oligarchy" POSITION="top_or_left" ID="ID_925698165" CREATED="1743059045881" MODIFIED="1744042163108">
+<node TEXT="Timocracy" POSITION="bottom_or_right" ID="ID_675750733" CREATED="1743072000217" MODIFIED="1743615173972"/>
+<node TEXT="Plutocracy" POSITION="bottom_or_right" ID="ID_491174688" CREATED="1743072004939" MODIFIED="1743615173972"/>
+<node TEXT="Monarchy/Oligarchy" POSITION="bottom_or_right" ID="ID_925698165" CREATED="1743059045881" MODIFIED="1744042163108">
 <node TEXT="Types" ID="ID_1955095836" CREATED="1743071597378" MODIFIED="1743615173972"/>
 <node TEXT="Election method" ID="ID_255477920" CREATED="1743071599875" MODIFIED="1743615173972"/>
 </node>
-<node TEXT="Theocracy" POSITION="top_or_left" ID="ID_1340305305" CREATED="1743059054074" MODIFIED="1743616791945">
+<node TEXT="Theocracy" POSITION="bottom_or_right" ID="ID_1340305305" CREATED="1743059054074" MODIFIED="1743616791945">
 <arrowlink DESTINATION="ID_489867868" STARTINCLINATION="1244.40003 pt;0 pt;" ENDINCLINATION="1268.40003 pt;38.4 pt;"/>
 <node TEXT="Types" ID="ID_925787049" CREATED="1743071604434" MODIFIED="1743615173972"/>
 <node TEXT="Election method" ID="ID_977962608" CREATED="1743071606876" MODIFIED="1743615173972"/>
@@ -4413,9 +4818,25 @@
 </node>
 </node>
 <node TEXT="Concepts" ID="ID_1541441689" CREATED="1743071494482" MODIFIED="1743615173974">
+<node TEXT="Justice" ID="ID_1551514814" CREATED="1746117002295" MODIFIED="1746117004252">
+<node TEXT="Law should be just, not just expedient" ID="ID_950648566" CREATED="1746116993114" MODIFIED="1746116999866"/>
+</node>
 <node TEXT="Basis" ID="ID_265282981" CREATED="1743370983929" MODIFIED="1743615173974">
 <node TEXT="Divine laws give sustenance to Human laws" ID="ID_884479476" CREATED="1743370986351" MODIFIED="1743615173974">
 <arrowlink DESTINATION="ID_1209114342"/>
+</node>
+</node>
+<node TEXT="Punishment" ID="ID_1276093441" CREATED="1746116980753" MODIFIED="1746116984791">
+<node TEXT="Punishment should fit the crime" ID="ID_485192603" CREATED="1746116984985" MODIFIED="1746116990536">
+<node TEXT="Blame for accident is excusable if the person had taken sufficient precautions" ID="ID_1399509358" CREATED="1746117089138" MODIFIED="1746117216827"/>
+</node>
+</node>
+<node TEXT="Equality" ID="ID_791829647" CREATED="1746117230074" MODIFIED="1746117234990">
+<node TEXT="Slavery" ID="ID_207559926" CREATED="1746117235247" MODIFIED="1746117237883">
+<node TEXT="Fines for wronging slaves should be less than those for wronging free citrizens" ID="ID_416113398" CREATED="1746117238011" MODIFIED="1746117326042">
+<arrowlink DESTINATION="ID_950648566"/>
+<arrowlink DESTINATION="ID_485192603"/>
+</node>
 </node>
 </node>
 </node>
@@ -4472,15 +4893,19 @@
 <node TEXT="Encouragement" ID="ID_1915175528" CREATED="1743250565198" MODIFIED="1743615173974"/>
 </node>
 </node>
-<node TEXT="Ethics" ID="ID_9063837" CREATED="1743838837226" MODIFIED="1743838839861">
-<node TEXT="What is Good" ID="ID_1349837039" CREATED="1744140015476" MODIFIED="1744140026047">
-<node TEXT="Taming the Self" POSITION="bottom_or_right" ID="ID_83810402" CREATED="1744140036546" MODIFIED="1744744093032">
+<node TEXT="Ethics" ID="ID_9063837" CREATED="1743838837226" MODIFIED="1746595549771">
+<arrowlink DESTINATION="ID_325966535"/>
+<node TEXT="What is Good" ID="ID_1349837039" CREATED="1744140015476" MODIFIED="1747933384525">
+<node TEXT="Taming the Self" POSITION="bottom_or_right" ID="ID_83810402" CREATED="1744140036546" MODIFIED="1747933384525" HGAP_QUANTITY="54.8 pt" VSHIFT_QUANTITY="-25.8 pt">
 <arrowlink DESTINATION="ID_1025152102"/>
+<arrowlink DESTINATION="ID_1838455116"/>
 <arrowlink DESTINATION="ID_1471917250"/>
 <arrowlink DESTINATION="ID_119274801"/>
 <arrowlink DESTINATION="ID_1471917250"/>
 <node TEXT="Subdue/pacify self&apos;s tendency (become daanta) to reach things &apos;External&apos; to it" ID="ID_381511573" CREATED="1744140195377" MODIFIED="1744141506442">
-<node TEXT="This ends in thwarted-desire and anger, so basically it&apos;s pointless" ID="ID_287340662" CREATED="1744141255460" MODIFIED="1744142087654"/>
+<node TEXT="This ends in thwarted-desire and anger, so basically it&apos;s pointless" ID="ID_287340662" CREATED="1744141255460" MODIFIED="1745773803819">
+<arrowlink DESTINATION="ID_404627683" STARTINCLINATION="3795.00009 pt;0 pt;" ENDINCLINATION="3717.60009 pt;-440.40001 pt;"/>
+</node>
 <node TEXT="Main reason for reaching out is ignorance" ID="ID_1195090906" CREATED="1744140597129" MODIFIED="1744141263665"/>
 <node TEXT="Greed is Ignorance, cuz that&apos;s failure to realize that nothing lasts, and being unaware of own Greed (kinda meta)" ID="ID_1084831506" CREATED="1744140866467" MODIFIED="1744141304517"/>
 <node TEXT="Anger is also ignorance, cuz one kind is based in greed that&apos;s thwarted and other is one that comes after seeing faults in others" ID="ID_575901185" CREATED="1744141305516" MODIFIED="1744141357981">
@@ -4488,9 +4913,12 @@
 <node TEXT="You remain tranquil (prashama)" ID="ID_818872197" CREATED="1744141528363" MODIFIED="1744141537724"/>
 </node>
 </node>
-<node TEXT="Withdraw one&apos;s &quot;Senses&quot; like a tortoise withdrawing in a shell" ID="ID_1846570797" CREATED="1744140384084" MODIFIED="1744140455238">
+<node TEXT="Withdraw one&apos;s &quot;Senses&quot; like a tortoise withdrawing in a shell" ID="ID_1846570797" CREATED="1744140384084" MODIFIED="1747822415969">
 <arrowlink DESTINATION="ID_898321604"/>
+<arrowlink DESTINATION="ID_1639775969"/>
+<arrowlink DESTINATION="ID_1002230168"/>
 <arrowlink DESTINATION="ID_1318985653"/>
+<arrowlink DESTINATION="ID_1110752267"/>
 <node TEXT="Be imperturbable in face of Pleasure and Pain both, the State of Tapa" ID="ID_241327696" CREATED="1744140495043" MODIFIED="1744141409233">
 <node TEXT="There is no further goal to such a life, a life well lived is reward in itself" ID="ID_1596895414" CREATED="1744140633704" MODIFIED="1745078206959">
 <arrowlink DESTINATION="ID_1131622924"/>
@@ -4498,12 +4926,149 @@
 </node>
 </node>
 <node TEXT="But isn&apos;t it tantamount is kinda extinguishing self and withdrawing from normal life altogether?" ID="ID_1257809391" CREATED="1744141659881" MODIFIED="1744141677946">
+<arrowlink DESTINATION="ID_1546423673"/>
+<arrowlink DESTINATION="ID_1709408662"/>
+<arrowlink DESTINATION="ID_1849714482"/>
 <node TEXT="Yeah it kinda is, that&apos;s why only select few sages/ascetics can do it, not normal humans" ID="ID_1243955015" CREATED="1744141677961" MODIFIED="1744141694669"/>
 <node TEXT="This is a kinda of Transcendental ideal which if you keep as goal can help with your &apos;Spiritual exercise&apos;" ID="ID_1532539189" CREATED="1744141713511" MODIFIED="1744141752515">
 <node TEXT="It at least helps you if not shun pleasure altogether, to at least (given that shunning pleasure is ideal) not design your life around just pleasure, and thereby focus on other goals, a life of self control" ID="ID_119274801" CREATED="1744141826436" MODIFIED="1744141969641"/>
 </node>
 </node>
+<node TEXT="Contemplate illness, decay and death to suppress bodily desires" ID="ID_1900795681" CREATED="1747746735648" MODIFIED="1747746806973">
+<arrowlink DESTINATION="ID_1328088972"/>
+<arrowlink DESTINATION="ID_693619070"/>
 </node>
+</node>
+<node TEXT="Dharma is that Righteous upholding (as a king would) of order and justice which is unlike &apos;Law of the fish&apos; (big fish eat small fish)" POSITION="bottom_or_right" ID="ID_215576376" CREATED="1747762235814" MODIFIED="1747853491406">
+<arrowlink DESTINATION="ID_297127057"/>
+<node TEXT="Where dharma is there is victory" ID="ID_85810067" CREATED="1747806093197" MODIFIED="1747806100102">
+<node TEXT="So all dharma has victory but not all victory has dharma right?" ID="ID_816319674" CREATED="1747806155237" MODIFIED="1747806167338">
+<node TEXT="Dharma of one group(/class?) may differ from other group, and one belonging to both groups(/classes?) may face dilemma" ID="ID_190924414" CREATED="1747810089326" MODIFIED="1747847311271">
+<arrowlink DESTINATION="ID_1160430607"/>
+<arrowlink DESTINATION="ID_1485884426"/>
+<node TEXT="This means that the same situation may cause dilemma for one person but not for other (cuz of different group affiliations, e.g. Bhima is purely kshatriya interested in victory, so he has no problems lying to Drona, but Yudhisthir has two dharmas, one of Kshatriya and one of Svadharma(Truth-telling), and he faces dilemma)" ID="ID_1970760016" CREATED="1747810185043" MODIFIED="1747813276141" VSHIFT_QUANTITY="-37.2 pt"/>
+<node TEXT="Arjuna faces dilemma of Khastriya dharma and kinship (Kula) Dharma" ID="ID_816437646" CREATED="1747810478628" MODIFIED="1747813476091" HGAP_QUANTITY="24.8 pt" VSHIFT_QUANTITY="6.6 pt">
+<node TEXT="Arjuna suggests how about just avoiding both- give up kshatriya life (therefore concomitant kshatriya dharma) and become a renouncer (so I&apos;m guessing abandon kula life and therefore kula dharma too). This feels like the buddha silence thing kinda no?" ID="ID_1187553433" CREATED="1747813136117" MODIFIED="1747821265768" VSHIFT_QUANTITY="-37.2 pt">
+<arrowlink DESTINATION="ID_520670764"/>
+<arrowlink DESTINATION="ID_682113890"/>
+<arrowlink DESTINATION="ID_755938751"/>
+<node TEXT="But Krishna says that&apos;s wrong cuz that&apos;ll be against Arjuna&apos;s svadharma (whatever it is, I&apos;m guessing it&apos;s a general &apos;competence and kinship-service&apos;). It&apos;s better to follow your own path badly than another&apos;s well" ID="ID_83929815" CREATED="1747813636515" MODIFIED="1747813747097">
+<arrowlink DESTINATION="ID_520405027"/>
+</node>
+<node TEXT="The entire Bhaarata war is for Arjuna, it was his Game and he should play it" ID="ID_1259223225" CREATED="1747813795967" MODIFIED="1747847228535">
+<arrowlink DESTINATION="ID_3982999"/>
+<arrowlink DESTINATION="ID_1485884426"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Deception is ok if required for victory of Dharma (provided it has been established before that you are indeed on side of dharma.. at least up to that point I guess)" ID="ID_1152859798" CREATED="1747806287273" MODIFIED="1747853521128" HGAP_QUANTITY="-127 pt" VSHIFT_QUANTITY="-74.4 pt">
+<node TEXT="One must shake of rigid code of conduct and if need be then sacrifice moral integrity for sake of avoiding total miscarriage of justice in the end" ID="ID_1160430607" CREATED="1747806449111" MODIFIED="1747806505080">
+<arrowlink DESTINATION="ID_1873571859"/>
+<node TEXT="The best thing to do can involve doing something against dharma" ID="ID_1218219803" CREATED="1747806535697" MODIFIED="1747806553920"/>
+<node TEXT="This doesn&apos;t mean that the dharma that got under-prioritized stopped mattering, Yudhisthira does face consequences of lying even when it was the right to break the truth dharma" ID="ID_440148471" CREATED="1747809756028" MODIFIED="1747813478276">
+<arrowlink DESTINATION="ID_1993293025"/>
+<arrowlink DESTINATION="ID_581173122"/>
+<node TEXT="this is me- so it feels kinda like a chess Game where you sacrifice pieces (also note how Mahaabhaarata war kinda started with a cheating dyut gambling game)" ID="ID_3982999" CREATED="1747813465056" MODIFIED="1747813881340" HGAP_QUANTITY="20 pt" VSHIFT_QUANTITY="36 pt">
+<node TEXT="Idk how related, but Buddha wouldn&apos;t play chess-like strategy games or dyut-like gambling like games.. and idk.. maybe Krishna is at least saying do play chess-like strategy games, not sure if Krishna likes gambling games as well.. doesn&apos;t seem like he wouldn&apos;t.." ID="ID_483515062" CREATED="1747813919336" MODIFIED="1747814002026"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="King, like Arjuna does as he should because he ought to, out of devotion to the highest God, not for self benefit" ID="ID_607586818" CREATED="1747853481824" MODIFIED="1747853913142" VSHIFT_QUANTITY="-52.8 pt">
+<arrowlink DESTINATION="ID_270935470"/>
+<arrowlink DESTINATION="ID_27472182"/>
+<node TEXT="So the Rituals, which were initially intended for benefit to the ruler, and needed expert brahmins, were now done only out of devotion, and not for benefit (which I guess the priests by then had failed to provide)" ID="ID_681165741" CREATED="1747853770510" MODIFIED="1747853840042">
+<arrowlink DESTINATION="ID_653378782"/>
+</node>
+</node>
+</node>
+<node TEXT="Behavior that earns praise is Dharma and that which earns rebuke is adharma" POSITION="bottom_or_right" ID="ID_1016183783" CREATED="1747762426314" MODIFIED="1747805573402" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_LAST" VSHIFT_QUANTITY="-52.8 pt">
+<arrowlink DESTINATION="ID_723298848"/>
+<node TEXT="I wonder if like the grammar link, this is also the praise of rebuke of &apos;shishtha&apos; experts" ID="ID_1126090893" CREATED="1747763055698" MODIFIED="1747853420003" HGAP_QUANTITY="11.6 pt" VSHIFT_QUANTITY="439.20001 pt"/>
+<node TEXT="Seems like in this view, Dharma is limited to your social circle" ID="ID_1041565303" CREATED="1747764305093" MODIFIED="1747810307711" HGAP_QUANTITY="21.8 pt" VSHIFT_QUANTITY="-34.2 pt">
+<arrowlink DESTINATION="ID_520405027"/>
+<arrowlink DESTINATION="ID_1970760016"/>
+<node TEXT="That&apos;s not correct, Dharma transcends social role or caste, an abstract general set of moral requirements" ID="ID_1353892923" CREATED="1747764323083" MODIFIED="1747846452323">
+<arrowlink DESTINATION="ID_1096359220" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="99.6 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1259197519"/>
+<arrowlink DESTINATION="ID_1053079592"/>
+<arrowlink DESTINATION="ID_1665973950"/>
+<node TEXT="Dharma (as absolute code/law) is one of main goals of life" ID="ID_1098661689" CREATED="1747805270890" MODIFIED="1747846486835">
+<arrowlink DESTINATION="ID_1832572612"/>
+<node TEXT="However, this abstract code is harder to understand, Dharma and Adharma do not go about saying &quot;here we are!&quot; Even those who actively strive to live well may go astray" ID="ID_145895341" CREATED="1747805521323" MODIFIED="1747805870051">
+<arrowlink DESTINATION="ID_1016183783"/>
+<arrowlink DESTINATION="ID_6064362"/>
+<arrowlink DESTINATION="ID_774070906"/>
+<arrowlink DESTINATION="ID_581173122"/>
+</node>
+</node>
+<node TEXT="Other goals- Artha(practical advantage), Kaama(pleasure), and as per Jainas, Buddhists, Ajivikas - Moksha(liberation)" ID="ID_601433428" CREATED="1747805303613" MODIFIED="1747805425585">
+<arrowlink DESTINATION="ID_530070392"/>
+</node>
+</node>
+</node>
+<node TEXT="Krishna initially appeals to Arjuna&apos;s kshatriya dharma saying stop being a wimp, it&apos;ll bring you shame, all this renouncing talk" ID="ID_1218295873" CREATED="1747814362155" MODIFIED="1747853450265" HGAP_QUANTITY="36.2 pt" VSHIFT_QUANTITY="-406.20001 pt">
+<arrowlink DESTINATION="ID_1187553433"/>
+<arrowlink DESTINATION="ID_1187553433"/>
+<node TEXT="But Arjun rebukes that Krishna is ignoring his Kula dharma dilemma" ID="ID_1142951418" CREATED="1747814442131" MODIFIED="1747821543294">
+<arrowlink DESTINATION="ID_190924414"/>
+<arrowlink DESTINATION="ID_83929815"/>
+<node TEXT="But Krishna says, first of all, the Consequences (which Arjuna thinks is what is harming his kula dharma) are not so dire, cuz death is like indestructible soul/Prusuha/Atman changing destructible body like clothes" ID="ID_1792487793" CREATED="1747815506947" MODIFIED="1747847435795">
+<arrowlink DESTINATION="ID_779567815"/>
+<arrowlink DESTINATION="ID_363314981"/>
+<node TEXT="If one is to do nishkaamkarma and fruits mean nothing, why not be a renunciate again then?" ID="ID_1404531584" CREATED="1747821315519" MODIFIED="1747853428347">
+<arrowlink DESTINATION="ID_1218295873"/>
+<arrowlink DESTINATION="ID_784039617"/>
+<arrowlink DESTINATION="ID_1187553433"/>
+<node TEXT="That&apos;d be like sins of omission, no one Lives even a moment without doing some Act, the forces of Nature/Prakriti cause everyone to Act" ID="ID_1833138529" CREATED="1747821421355" MODIFIED="1747853438185" HGAP_QUANTITY="48.2 pt" VSHIFT_QUANTITY="249.6 pt">
+<arrowlink DESTINATION="ID_141049404"/>
+<arrowlink DESTINATION="ID_363314981"/>
+<node TEXT="Not to say life of inaction (relinquishment, sannyaasa) is completely wrong, just that it&apos;s a less advanced stage before nishkaamkarma" ID="ID_310983180" CREATED="1747822109173" MODIFIED="1747853110592">
+<arrowlink DESTINATION="ID_755938751"/>
+<arrowlink DESTINATION="ID_546559030"/>
+</node>
+</node>
+<node TEXT="No one who has a Body can renounce all Acts completely, so the true renunciation (tyaaga) is not that of acts (unlike sannyaasa) but of the Fruits of those Actions. Withdraw like a turtle in its shell, and focus on inner insight" ID="ID_1110752267" CREATED="1747821469292" MODIFIED="1747853434750" HGAP_QUANTITY="33.8 pt" VSHIFT_QUANTITY="-220.2 pt">
+<arrowlink DESTINATION="ID_1792487793"/>
+<node TEXT="But towards what should the inner insight be directed? Arjun asks.. Krishna says er.. to me, I am origin of universe and its dissolution, all this is like pearls strung on me the string" ID="ID_1489908854" CREATED="1747822466905" MODIFIED="1747853099300">
+<arrowlink DESTINATION="ID_1002230168"/>
+<node TEXT="Thus, Devotion/Bhakti is continuing to do your act/sacrifice/duty/dharma with no expectation of fruits, using devotion towards Krishna as direction for your inner insight once it has withdrawn from all senses" ID="ID_1832572612" CREATED="1747846344392" MODIFIED="1747853099300" VSHIFT_QUANTITY="49.8 pt">
+<arrowlink DESTINATION="ID_607586818"/>
+<node TEXT="Even Women and Shudras can be liberated through such devotion" ID="ID_1665973950" CREATED="1747846370149" MODIFIED="1747846382545"/>
+</node>
+<node TEXT="An example of dharma is the same vedic sacrifices (which initially were asked to be done saying they provided fruits but I guess by now (Mahaabhaarata) the society had matured to not buy that anymore so..)" ID="ID_261385821" CREATED="1747846496770" MODIFIED="1747846549085"/>
+<node TEXT="Just as Krishna(/Brahman-Atman?) holds the world together (like a yoke? yoga?tenuous link with unity of opposites), you should continue your duty to maintain some kinda cosmic harmony seems like, keep the wheel rolling" ID="ID_101330064" CREATED="1747846574900" MODIFIED="1747940188082">
+<arrowlink DESTINATION="ID_1932669219"/>
+<node TEXT="This &apos;keeping the wheel rolling&apos; (and performing sacrifices and stuff in the process) is what should motivate action" ID="ID_1661950539" CREATED="1747846686458" MODIFIED="1747846779435">
+<arrowlink DESTINATION="ID_150907563"/>
+<arrowlink DESTINATION="ID_1832572612"/>
+</node>
+<node TEXT="How come mass destruction of war will hold the world together though? Well Krishna is not just all that is but also all that was and will be, including time/kaal that will grow/has grown/had grown old to destroy all worlds - that is, it&apos;s all planned (divine providence) bro, you are just delaying the inevitable with your dilemma, just play the part that you are already gonna play anyway, just that you are delaying it right now (get in the robot Shinji) (fulfil your role as story protagonist)" ID="ID_1485884426" CREATED="1747846851473" MODIFIED="1747847328187"/>
+</node>
+</node>
+<node TEXT="The renouncer(tyaaga-doer/yogin) withdraws from Prakriti and focuses on inner Purusha which is one&apos;s true self" ID="ID_1391993249" CREATED="1747847717334" MODIFIED="1747847767440">
+<node TEXT="Such a sage would need to undergo spiritual discipline and training, that is, do yoga, such a yogin is better than just a sannyasin. The yogin can see the world from perspective of true self/purusha/atman, and can do the wheel-rolling nishkaamkarma thing going" ID="ID_546559030" CREATED="1747852924239" MODIFIED="1747853225790">
+<node TEXT="Since Actions and Consequences unfold in the World/Prakriti, they cannot touch the yogin" ID="ID_1476881353" CREATED="1747853245081" MODIFIED="1747853276100">
+<arrowlink DESTINATION="ID_325966535"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="In either case, a real Kshatriya bro should have no care for consequences, you just fight bravely regardless the outcome" ID="ID_714517398" CREATED="1747815650184" MODIFIED="1747815704350">
+<node TEXT="Actually no one, regardless their caste/class should have eye on consequence, and should act regardless, nishkaamkarma" ID="ID_1053079592" CREATED="1747815793095" MODIFIED="1747815822144">
+<arrowlink DESTINATION="ID_1831927965"/>
+<arrowlink DESTINATION="ID_784039617"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Where Dharma is there is Krishna (to have faith into kinda)" POSITION="bottom_or_right" ID="ID_1654698094" CREATED="1747806106031" MODIFIED="1747806128355"/>
 <node TEXT="Independence and Freedom" POSITION="bottom_or_right" ID="ID_1048370655" CREATED="1744011539363" MODIFIED="1744011545261">
 <node TEXT="Follow only Gods signs/will (So independent from non-Gods-of-your-choice related social norms presumably?)" ID="ID_1953404439" CREATED="1744011710443" MODIFIED="1744011764992"/>
 <node TEXT="Follow your societal role" ID="ID_1265421479" CREATED="1744027406848" MODIFIED="1745078206975">
@@ -4511,19 +5076,133 @@
 <node TEXT="Woman&apos;s place is in kitchen (women should tend homes well and obediently)" ID="ID_1853556157" CREATED="1744027412858" MODIFIED="1744027437434"/>
 </node>
 </node>
-<node TEXT="Avoid any Karma whatsoever, Good or Bad (Immobility asceticism)" POSITION="bottom_or_right" ID="ID_675557042" CREATED="1744977877780" MODIFIED="1744978950095">
+<node TEXT="Karma does matter and can be affected" POSITION="bottom_or_right" ID="ID_504154815" CREATED="1745992247108" MODIFIED="1747821569468">
+<node TEXT="Avoid any Karma whatsoever, Good or Bad (Immobility asceticism)" ID="ID_675557042" CREATED="1744977877780" MODIFIED="1747822172053" HGAP_QUANTITY="54.2 pt" VSHIFT_QUANTITY="-81.6 pt">
 <arrowlink DESTINATION="ID_1257809391"/>
 <arrowlink DESTINATION="ID_814284821" STARTINCLINATION="1752.00004 pt;0 pt;" ENDINCLINATION="1621.20004 pt;315.00001 pt;"/>
 <arrowlink DESTINATION="ID_1067608229" STARTINCLINATION="1444.80003 pt;64.8 pt;" ENDINCLINATION="1411.80003 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1833138529"/>
+<arrowlink DESTINATION="ID_310983180"/>
 <node TEXT="The suffering incurred while going through hunger thirst exposure will hopefully wash clean any previous karma" ID="ID_1168438730" CREATED="1744977987650" MODIFIED="1744978022872"/>
+<node TEXT="Avoid Good karma too, cuz good karma still ties you to (though it secures a favorable one) rebirth" ID="ID_1636761516" CREATED="1747928566562" MODIFIED="1747928751909">
+<arrowlink DESTINATION="ID_755938751"/>
 </node>
-<node TEXT="There&apos;s no point in trying to affect one&apos;s karma" POSITION="bottom_or_right" ID="ID_1483165833" CREATED="1744978732880" MODIFIED="1744979548527">
-<arrowlink DESTINATION="ID_1837304860"/>
-<arrowlink DESTINATION="ID_1275741505"/>
+</node>
+<node TEXT="Follow the marga to minimize bad karma and increase punnya" ID="ID_1498163229" CREATED="1745992268832" MODIFIED="1747821617142" HGAP_QUANTITY="29.6 pt">
+<arrowlink DESTINATION="ID_939737479"/>
+<arrowlink DESTINATION="ID_1110752267"/>
+<node TEXT="maarga/(8fold)path(ariya atthangika magga/aaryaashtaangamaarga/ashtasamyangmaarga)" POSITION="bottom_or_right" ID="ID_170142208" CREATED="1745566487917" MODIFIED="1747764402623" HGAP_QUANTITY="58.4 pt" VSHIFT_QUANTITY="57 pt">
+<arrowlink DESTINATION="ID_1353892923"/>
+<node TEXT="samyak drishti/right view/understanding" ID="ID_901216166" CREATED="1745566598126" MODIFIED="1745992109335" HGAP_QUANTITY="16.4 pt" VSHIFT_QUANTITY="-285.00001 pt">
+<node TEXT="(accepts karmic reincarnation cycle)" ID="ID_1436620337" CREATED="1745566916758" MODIFIED="1745566927645"/>
+<node TEXT="This produces skillful action/kusala" ID="ID_152330994" CREATED="1745992162886" MODIFIED="1745992171051"/>
+</node>
+<node TEXT="samyak sankalp/right resolve" ID="ID_1753076781" CREATED="1745566694829" MODIFIED="1747760478828" VSHIFT_QUANTITY="-13.2 pt">
+<node TEXT="ahimsa/nonviolence" ID="ID_1241966056" CREATED="1745566947722" MODIFIED="1745566955215"/>
+</node>
+<node TEXT="samyak vaachaa/right speech" ID="ID_1143916510" CREATED="1745566702410" MODIFIED="1747760483616" HGAP_QUANTITY="16.4 pt" VSHIFT_QUANTITY="43.2 pt">
+<node TEXT="no lying (falsehood=musaavaada)" ID="ID_1284025749" CREATED="1745566980599" MODIFIED="1745935067564" VSHIFT_QUANTITY="-42 pt">
+<arrowlink DESTINATION="ID_1480210590"/>
+<arrowlink DESTINATION="ID_1689129569"/>
+<arrowlink DESTINATION="ID_520670764"/>
+</node>
+<node TEXT="no abusive speech" ID="ID_727371247" CREATED="1745567003547" MODIFIED="1745935212407" HGAP_QUANTITY="15.2 pt">
+<arrowlink DESTINATION="ID_520670764"/>
+<node TEXT="So would it not be proper to even utter speech that is even unwelcome/disagreeable to others? Abhaya asks Buddha. To which he says, well it&apos;s like making a child spit out a pebble it ate even if it might involve hurting the child a little bit" ID="ID_41259787" CREATED="1745933265895" MODIFIED="1747760704023" HGAP_QUANTITY="69.2 pt" VSHIFT_QUANTITY="37.8 pt">
+<node TEXT="Buddha wouldn&apos;t say that which is Untrue&amp;Unbeneficial&amp;Unpleasant to others. (There&apos;s examples where he just replies with silence to contentious bad faith questions)" ID="ID_520670764" CREATED="1745933474795" MODIFIED="1747813337493">
+<arrowlink DESTINATION="ID_682113890"/>
+<node TEXT="Buddha would speak what&apos;s True&amp;Beneficial(attha)&amp;Agreeable" ID="ID_621748514" CREATED="1745933691253" MODIFIED="1745934880976"/>
+<node TEXT="Maybe obviously no Untrue&amp;Unbeneficial but Pleasant" ID="ID_1689129569" CREATED="1745933847980" MODIFIED="1745933872893"/>
+<node TEXT="Buddha wouldn&apos;t say that which is True&amp;Unbeneficial to others (Pleasant or Unpleasant don&apos;t care I guess)" ID="ID_1843257295" CREATED="1745933684874" MODIFIED="1745933918723"/>
+<node TEXT="What about Untrue&amp;Beneficial(&amp;Unpleasant/Pleasant?)" ID="ID_1876901937" CREATED="1745933934259" MODIFIED="1745949207670">
+<node TEXT="There are no such cases for Buddha, what is Attha/Beneficial is what&apos;s &quot;morally&quot; good in sense of being useful for achieving Nibbaana. Falsehood/musaavaada is morally wrong, so it&apos;s logically/causally impossible for what&apos;s untrue to result in something useful in sense of being attha-samhitam(morally advantageous/good)" ID="ID_577552578" CREATED="1745934945334" MODIFIED="1745949207670" HGAP_QUANTITY="26.6 pt" VSHIFT_QUANTITY="-111 pt"/>
+<node TEXT="Orrrr.. it&apos;s like how Shaariputra answer buddha about a father telling his son that there&apos;s toys outside to get him to evacuate a burning house, cuz it&apos;s kinda like they got a plaything of their life to them by escaping a burning house" ID="ID_1542125000" CREATED="1745946384891" MODIFIED="1745949180879">
+<node TEXT="My poor reading that I myself disagree with but here goes anyway: Since life is khandhas, maybe normal long-term oriented standard speech is kinda filled with &apos;lies&apos; anyway but that&apos;d make that word too meaningless, so we take the middle road and say as long as it aligns with dhamma, it&apos;s ok?" ID="ID_88414672" CREATED="1745949068795" MODIFIED="1745949674502" HGAP_QUANTITY="22.4 pt" VSHIFT_QUANTITY="-87 pt">
+<arrowlink DESTINATION="ID_340508492" STARTINCLINATION="3992.4001 pt;-96 pt;" ENDINCLINATION="3896.40009 pt;0 pt;"/>
+</node>
+</node>
+</node>
+<node TEXT="What about True&amp;Beneficial&amp;Unpleasant?" ID="ID_944214137" CREATED="1745933764317" MODIFIED="1745946436232" VSHIFT_QUANTITY="-113.4 pt"/>
+</node>
+</node>
+</node>
+<node TEXT="no divisive speech" ID="ID_1147551844" CREATED="1745567009716" MODIFIED="1745949188204" HGAP_QUANTITY="20 pt" VSHIFT_QUANTITY="-247.2 pt"/>
+<node TEXT="no idle chatter" ID="ID_687476774" CREATED="1745567014315" MODIFIED="1745946442592" HGAP_QUANTITY="14 pt"/>
+</node>
+<node TEXT="samyak karmaanta/right conduct/action" ID="ID_369180710" CREATED="1745566708214" MODIFIED="1745949218704" HGAP_QUANTITY="29.6 pt" VSHIFT_QUANTITY="-158.4 pt">
+<node TEXT="no killing/injuring" ID="ID_647604173" CREATED="1745567039865" MODIFIED="1746121685064">
+<arrowlink DESTINATION="ID_1215111026"/>
+<arrowlink DESTINATION="ID_1788184428"/>
+</node>
+<node TEXT="no material desires" ID="ID_796541005" CREATED="1745567072758" MODIFIED="1745567075821">
+<arrowlink DESTINATION="ID_404627683"/>
+<node TEXT="no taking what&apos;s not given" POSITION="bottom_or_right" ID="ID_235584799" CREATED="1745567044194" MODIFIED="1745567048079"/>
+<node TEXT="no sexual misconduct" POSITION="bottom_or_right" ID="ID_780179111" CREATED="1745567050444" MODIFIED="1745567058250"/>
+</node>
+</node>
+<node TEXT="samyak aajivikaa/right livelihood" ID="ID_1950928095" CREATED="1745566713669" MODIFIED="1745567094222">
+<node TEXT="no trade in weapons, living beings, meat, liquor, poisons" ID="ID_1211853206" CREATED="1745567094548" MODIFIED="1745567115775"/>
+</node>
+<node TEXT="samyak vyaayaama/right effort" ID="ID_363767342" CREATED="1745566718757" MODIFIED="1745567419572">
+<node TEXT="prevent arising of unwholesome states, welcome wholesome states" ID="ID_1418295533" CREATED="1745567121352" MODIFIED="1745567145060"/>
+<node TEXT="sattabojjhangaa/saptabodhyanga/seven factors of awakening" ID="ID_1048034215" CREATED="1745567146447" MODIFIED="1745567419572" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_LAST" HGAP_QUANTITY="29 pt" VSHIFT_QUANTITY="-112.8 pt">
+<node TEXT="mindfulness/smriti/sati" ID="ID_384109050" CREATED="1745567174168" MODIFIED="1745567207941">
+<node TEXT="maintain awareness of reality" ID="ID_1635106056" CREATED="1745567208846" MODIFIED="1745567218478"/>
+</node>
+<node TEXT="investigation/dhammavichaya/dharmapravichaya" ID="ID_1106564764" CREATED="1745567219396" MODIFIED="1745567239898">
+<node TEXT="of nature of reality" ID="ID_376149462" CREATED="1745567240301" MODIFIED="1745567248939"/>
+</node>
+<node TEXT="energy/viriya/virya" ID="ID_1883243012" CREATED="1745567250324" MODIFIED="1745567264033">
+<node TEXT="and determination, effort" ID="ID_919796598" CREATED="1745567264290" MODIFIED="1745567268853"/>
+</node>
+<node TEXT="joy/rapture/piti/priti" ID="ID_267918533" CREATED="1745567269591" MODIFIED="1745567280332"/>
+<node TEXT="relaxation/tranquility/oasaddi/prashrabdhi" ID="ID_1823017535" CREATED="1745567281820" MODIFIED="1745567298644">
+<node TEXT="of both both body and mind" ID="ID_593639012" CREATED="1745567301568" MODIFIED="1745567307938"/>
+</node>
+<node TEXT="concentration/samaadhi" ID="ID_1318417548" CREATED="1745567310308" MODIFIED="1745567316586">
+<node TEXT="calm, one-pointed state of mind- bringing buried latencies/samskaaras into full view" ID="ID_937203053" CREATED="1745567316903" MODIFIED="1745567338303"/>
+</node>
+<node TEXT="equanimity/upekkha/upekshaa" ID="ID_1597586657" CREATED="1745567339948" MODIFIED="1745567351010">
+<node TEXT="accept reality as is/yathaabhuta without craving or aversion- in general indriyasamvara- guarding sense-doors" ID="ID_1322652293" CREATED="1745567351201" MODIFIED="1745567453898"/>
+</node>
+</node>
+</node>
+<node TEXT="samyak smriti/satipatthana/right mindfulness" ID="ID_23596979" CREATED="1745566725794" MODIFIED="1745567535481">
+<arrowlink DESTINATION="ID_384109050"/>
+<node TEXT="guards/watches over the mind, makes unwholesome weaker" ID="ID_468658698" CREATED="1745567512063" MODIFIED="1745567567775"/>
+</node>
+<node TEXT="samyak samaadhi" ID="ID_828329327" CREATED="1745566730672" MODIFIED="1745566735914"/>
+<node TEXT="extra- samyak jnyaana" ID="ID_1047557656" CREATED="1745566821436" MODIFIED="1745566830729"/>
+<node TEXT="extra- samyak vimukti" ID="ID_1036213483" CREATED="1745566831299" MODIFIED="1745566838856"/>
+</node>
+<node TEXT="Ofc do not be motivated by desire for favourable reincarnation, but note that following magga and getting better rebirth it does make following the magga easier next time" POSITION="bottom_or_right" ID="ID_609897672" CREATED="1745992486346" MODIFIED="1747747722298" HGAP_QUANTITY="23.6 pt" VSHIFT_QUANTITY="-150.6 pt">
+<arrowlink DESTINATION="ID_111106912"/>
+<node TEXT="Once you become arahat, you no longer need to follow the magga, you no longer need to even practice compassion/benevolence (cuz you&apos;ll naturally do them)" ID="ID_1780466898" CREATED="1745993757009" MODIFIED="1747747722296" HGAP_QUANTITY="-306.40001 pt" VSHIFT_QUANTITY="76.2 pt">
+<arrowlink DESTINATION="ID_1474628526"/>
+</node>
+</node>
+</node>
+<node TEXT="Nah, there&apos;s no point in trying to affect one&apos;s karma" POSITION="bottom_or_right" ID="ID_1483165833" CREATED="1744978732880" MODIFIED="1747821660960" VSHIFT_QUANTITY="-199.2 pt">
+<arrowlink DESTINATION="ID_1837304860" STARTINCLINATION="3938.40009 pt;0 pt;" ENDINCLINATION="4288.8001 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1275741505" STARTINCLINATION="844.20002 pt;0 pt;" ENDINCLINATION="891.00002 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_675557042"/>
+<arrowlink DESTINATION="ID_1404531584"/>
 <node TEXT="You just have to wait till reincarnation cycle ends" ID="ID_1062688376" CREATED="1744978750244" MODIFIED="1744978758212"/>
 <node TEXT="Withdraw from pretenses of action, live as a renunciate" ID="ID_755938751" CREATED="1744979811763" MODIFIED="1745641401700">
-<arrowlink DESTINATION="ID_1849714482" STARTINCLINATION="5270.40013 pt;-276.60001 pt;" ENDINCLINATION="5287.20013 pt;-276.60001 pt;"/>
+<arrowlink DESTINATION="ID_1849714482" STARTINCLINATION="5270.40013 pt;-178.8 pt;" ENDINCLINATION="5287.20013 pt;-178.8 pt;"/>
 <arrowlink DESTINATION="ID_248221002"/>
+</node>
+</node>
+</node>
+<node TEXT="Truth" POSITION="bottom_or_right" ID="ID_435830073" CREATED="1747760595300" MODIFIED="1747760654543" HGAP_QUANTITY="438.20001 pt">
+<arrowlink DESTINATION="ID_1284025749"/>
+<node TEXT="Thought experiment- A group runs to you begging you to lie to murderers chasing them about where they ran, and then the murderers ask you, do you lie?" POSITION="bottom_or_right" ID="ID_1844758574" CREATED="1747760507990" MODIFIED="1747760704023" HGAP_QUANTITY="69.2 pt" VSHIFT_QUANTITY="-7.2 pt">
+<arrowlink DESTINATION="ID_41259787"/>
+<node TEXT="You should lie; the priest who didn&apos;t got sent to hell for not lying here" ID="ID_774070906" CREATED="1747760558439" MODIFIED="1747760962582">
+<arrowlink DESTINATION="ID_1017330575"/>
+</node>
+<node TEXT="Maybe you say dharmasatya- technical but potentially misleading truth, naro wa punjaro wa. Technical truth can be like an armor to shield a lie inside it" ID="ID_581173122" CREATED="1747761669795" MODIFIED="1747806030713"/>
+<node TEXT="You still shouldn&apos;t lie" ID="ID_277879300" CREATED="1747760561305" MODIFIED="1747760789872"/>
 </node>
 </node>
 <node TEXT="There are no Moral reasons for action" POSITION="bottom_or_right" ID="ID_1200832532" CREATED="1745063232610" MODIFIED="1745063322966">
@@ -4531,16 +5210,124 @@
 <arrowlink DESTINATION="ID_1873571859" STARTINCLINATION="2100.60005 pt;0 pt;" ENDINCLINATION="2296.20005 pt;0 pt;"/>
 <node TEXT="There&apos;s no reason to act morally" ID="ID_803374166" CREATED="1745063250300" MODIFIED="1745063259628"/>
 </node>
+<node TEXT="Political virtue is gift from god to humans that everyone can share in equally (unlike other virtues/skills)" POSITION="bottom_or_right" ID="ID_1395475277" CREATED="1743926942840" MODIFIED="1747764213816" HGAP_QUANTITY="33.2 pt" VSHIFT_QUANTITY="9.6 pt">
+<arrowlink DESTINATION="ID_146286385"/>
+<arrowlink DESTINATION="ID_1953404439"/>
+<arrowlink DESTINATION="ID_1091274585"/>
+<arrowlink DESTINATION="ID_185229965"/>
+<node TEXT="Man is measure of all things, of things that are that they are, of things that aren&apos;t that they aren&apos;t.. (so the sense that though there&apos;s an objective thing as virtue, given by gods, it&apos;s a thing that&apos;s obvious to man)" ID="ID_1526939952" CREATED="1743927809598" MODIFIED="1743928078236">
+<arrowlink DESTINATION="ID_1073081331"/>
+<node TEXT="Ethical Relativism, what anyone thinks is correct, is correct (there&apos;s no such thing as objective virtue). Truth is always something&apos;s being true for &apos;someone&apos; which anything is.. so no one is in position to judge what&apos;s true for anyone else" ID="ID_1938721027" CREATED="1743927918151" MODIFIED="1743928296243">
+<arrowlink DESTINATION="ID_311446859"/>
+<arrowlink DESTINATION="ID_574160957"/>
+<node TEXT="It&apos;s &quot;Natural&quot; for Strong to Dominate the Weak" ID="ID_1065767967" CREATED="1743928373756" MODIFIED="1743928477312"/>
+<node TEXT="It&apos;s &quot;Custom&quot;ary for Weak to band together and form law and order to dominate the strong" ID="ID_1209077556" CREATED="1743928450703" MODIFIED="1743928479232"/>
 </node>
-<node TEXT="Why is good?" ID="ID_1142998238" CREATED="1744979077574" MODIFIED="1744979080443">
-<node TEXT="Moral quality of our actions affects our quality of life directly" ID="ID_1387814369" CREATED="1744979080894" MODIFIED="1744979110946">
+<node TEXT="There&apos;s no such thing as Wind in itself, there&apos;s only the way things seem to us (Ontological relativism)" ID="ID_1395501420" CREATED="1743928195439" MODIFIED="1744648419681">
+<arrowlink DESTINATION="ID_1915870848"/>
+<arrowlink DESTINATION="ID_311446859" STARTINCLINATION="4430.40011 pt;0 pt;" ENDINCLINATION="2889.60007 pt;0 pt;"/>
+<node TEXT="Everything is always changing" POSITION="top_or_left" ID="ID_1766423984" CREATED="1743360571830" MODIFIED="1743615809661" VSHIFT_QUANTITY="13.2 pt">
+<arrowlink DESTINATION="ID_1368955677"/>
+<node TEXT="You can&apos;t even step in the same river even once" ID="ID_1627253170" CREATED="1743360592278" MODIFIED="1743615173956">
+<arrowlink DESTINATION="ID_253274634"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="This is why Punishment for lack of virtue is justified" ID="ID_1544186836" CREATED="1743927659490" MODIFIED="1743927670614">
+<node TEXT="Anyone who knows what is Good will automatically choose it. No one chooses wrong willingly" ID="ID_1979358637" CREATED="1744026624759" MODIFIED="1744026741276">
+<arrowlink DESTINATION="ID_732366580"/>
+<arrowlink DESTINATION="ID_1905796840"/>
+<arrowlink DESTINATION="ID_50538005"/>
+<node TEXT="Vice/wrongdoing are result of Ignorance (one where you think you know something that you don&apos;t actually)" ID="ID_1774486215" CREATED="1744026749423" MODIFIED="1744142075615">
+<arrowlink DESTINATION="ID_1156606295"/>
+<arrowlink DESTINATION="ID_1915870848"/>
+<arrowlink DESTINATION="ID_1195090906"/>
+</node>
+</node>
+</node>
+<node TEXT="To do anything virtuously is to act well" ID="ID_37581353" CREATED="1744012190936" MODIFIED="1745078062620">
+<arrowlink DESTINATION="ID_1905796840"/>
+<arrowlink DESTINATION="ID_1831927965"/>
+<node TEXT="What is Virtue in first place though, there are examples like courage but what does Virtue mean (a question that Gods missed to impart knowledge of presumably)" ID="ID_1783454061" CREATED="1744025517385" MODIFIED="1744025582048">
+<arrowlink DESTINATION="ID_1905796840"/>
+</node>
+<node TEXT="To act well is to act with Knowledge. Knowledge is Virtue itself" ID="ID_1156606295" CREATED="1744012221620" MODIFIED="1745078196668">
+<arrowlink DESTINATION="ID_1873571859"/>
+<arrowlink DESTINATION="ID_1668624742"/>
+<arrowlink DESTINATION="ID_294339019"/>
+<arrowlink DESTINATION="ID_1123215265"/>
+<arrowlink DESTINATION="ID_1596895414" STARTINCLINATION="3541.80008 pt;0 pt;" ENDINCLINATION="3556.80008 pt;0 pt;"/>
+<node TEXT="We don&apos;t let people without Knowledge experiment on our bodies (act as doctors), we shouldn&apos;t allow such people to experiment with political bodies either" ID="ID_777379551" CREATED="1744012430647" MODIFIED="1744012551861"/>
+</node>
+<node TEXT="To act well is to act true to one&apos;s svadharma/natural or proper character" ID="ID_1558709561" CREATED="1745078503884" MODIFIED="1745078592622">
+<arrowlink DESTINATION="ID_1929747173"/>
+<arrowlink DESTINATION="ID_520405027"/>
+<arrowlink DESTINATION="ID_1809636728"/>
+<arrowlink DESTINATION="ID_898321604"/>
+<node TEXT="Be detached from self-interest in the result of actions" ID="ID_795506125" CREATED="1745078537680" MODIFIED="1745078552044"/>
+<node TEXT="The consequences of this might be good as per karma rule, but that shouldn&apos;t be your motivation to act" ID="ID_1300993451" CREATED="1745078564902" MODIFIED="1745078581146"/>
+</node>
+</node>
+<node TEXT="Not everyone (presumably &apos;acts&apos; though they have divine &apos;capacity&apos;?) equally virtuously, but you can train it" ID="ID_50538005" CREATED="1743927698199" MODIFIED="1744727652302">
+<arrowlink DESTINATION="ID_403479155"/>
+<node TEXT="Virtue isn&apos;t something that&apos;s best absolutely, it&apos;s something that&apos;s best, i.e. Advantageous for you specifically" ID="ID_574160957" CREATED="1743928271801" MODIFIED="1744142045557">
+<arrowlink DESTINATION="ID_1767846079" STARTINCLINATION="2373.60006 pt;0 pt;" ENDINCLINATION="2101.80005 pt;0 pt;"/>
+<node TEXT="Political success and Honor are valuable" ID="ID_413162598" CREATED="1744012391564" MODIFIED="1744012556921">
+<arrowlink DESTINATION="ID_777379551"/>
+</node>
+</node>
+<node TEXT="You can argue on both sides of a matter, so there&apos;s no use arguing about anything. You won&apos;t understand reality even if you try" ID="ID_1915870848" CREATED="1743928568126" MODIFIED="1743928919098">
+<arrowlink DESTINATION="ID_906669245"/>
+</node>
+<node TEXT="The trick is to make your position &quot;seem&quot; advantageous, it doesn&apos;t matter what actually is the case" ID="ID_441498979" CREATED="1743928663700" MODIFIED="1744648395976">
+<arrowlink DESTINATION="ID_311446859" STARTINCLINATION="4687.80011 pt;0 pt;" ENDINCLINATION="3907.80009 pt;0 pt;"/>
+</node>
+</node>
+<node TEXT="Or Virtue simply can&apos;t be trained. You can only be trained in argumentation, rest is up to you. There&apos;s a moral neutrality to the art of rhetoric" ID="ID_906669245" CREATED="1743928890233" MODIFIED="1747764219013" HGAP_QUANTITY="357.20001 pt">
+<arrowlink DESTINATION="ID_388135401"/>
+<arrowlink DESTINATION="ID_311446859"/>
+<arrowlink DESTINATION="ID_1548655650"/>
+<node TEXT="Persuasion is irresistible, like a drug" ID="ID_627039646" CREATED="1743928986631" MODIFIED="1743929022706">
+<arrowlink DESTINATION="ID_1831453139"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Why is good?" ID="ID_1142998238" CREATED="1744979077574" MODIFIED="1745905996456" VSHIFT_QUANTITY="-74.4 pt">
+<node TEXT="Moral quality of our actions affects our quality of life directly" ID="ID_1387814369" CREATED="1744979080894" MODIFIED="1745992384989" HGAP_QUANTITY="17.6 pt" VSHIFT_QUANTITY="-32.4 pt">
 <arrowlink DESTINATION="ID_814284821"/>
 </node>
+<node TEXT="4 noble truths/chatwaariaaryasatyaani/chattaariariyasacchaani" POSITION="bottom_or_right" ID="ID_1480210590" CREATED="1745566293150" MODIFIED="1745905937692">
+<arrowlink DESTINATION="ID_1977244962"/>
+<node TEXT="dukkha/suffering" ID="ID_1589350514" CREATED="1745566475717" MODIFIED="1745905937692" HGAP_QUANTITY="20 pt" VSHIFT_QUANTITY="-4.8 pt">
+<arrowlink DESTINATION="ID_474771528"/>
 </node>
-<node TEXT="Harm" ID="ID_974219836" CREATED="1743838879233" MODIFIED="1743838883234">
-<node TEXT="Sustenance" ID="ID_906431055" CREATED="1743838885021" MODIFIED="1743838890268">
+<node TEXT="samudaya/origin/cause" ID="ID_166691833" CREATED="1745566478949" MODIFIED="1745566529201"/>
+<node TEXT="nirodha/cessation" ID="ID_639791013" CREATED="1745566483599" MODIFIED="1745566535319">
+<arrowlink DESTINATION="ID_1546423673"/>
+</node>
+<node TEXT="magga" ID="ID_1262597647" CREATED="1745905954999" MODIFIED="1745930872932">
+<arrowlink DESTINATION="ID_170142208"/>
+<arrowlink DESTINATION="ID_1459038232"/>
+<node TEXT="Understanding 4 noble truths is easy, it&apos;s hard to live accordingly" ID="ID_1485761348" CREATED="1745930757955" MODIFIED="1745930872932" VSHIFT_QUANTITY="20.4 pt"/>
+</node>
+</node>
+<node TEXT="The golden rule- that which is unpleasant/disagreeable to me is disagreeable/unpleasant to the other too. So I shouldn&apos;t inflict upon the other that which I find disagreeable/unpleasant myself" POSITION="bottom_or_right" ID="ID_770092518" CREATED="1747927813439" MODIFIED="1747927932887">
+<arrowlink DESTINATION="ID_911686692"/>
+<arrowlink DESTINATION="ID_1215111026"/>
+<arrowlink DESTINATION="ID_647604173"/>
+<arrowlink DESTINATION="ID_1903081472"/>
+<arrowlink DESTINATION="ID_1913358991"/>
+</node>
+</node>
+<node TEXT="Harm" ID="ID_974219836" CREATED="1743838879233" MODIFIED="1747933421817">
+<arrowlink DESTINATION="ID_647604173"/>
+<arrowlink DESTINATION="ID_1215111026"/>
+<node TEXT="harming for survival/Sustenance" ID="ID_906431055" CREATED="1743838885021" MODIFIED="1745904987465">
 <node TEXT="Vegetarianism" POSITION="bottom_or_right" ID="ID_1331934263" CREATED="1743248178141" MODIFIED="1743615173976">
 <arrowlink DESTINATION="ID_914983411"/>
+<arrowlink DESTINATION="ID_529810374"/>
 <arrowlink DESTINATION="ID_1588961208"/>
 <node TEXT="Pythagorean - no meat, no beans" ID="ID_1708245794" CREATED="1743250587659" MODIFIED="1743615173976">
 <arrowlink DESTINATION="ID_1071417140"/>
@@ -4549,7 +5336,63 @@
 <arrowlink DESTINATION="ID_667050106"/>
 <arrowlink DESTINATION="ID_504819623"/>
 </node>
+<node TEXT="While sacrifices and well.. nourishment.. is necessary, it&apos;s best to avoid harming animals as much as possible, avoid Violence" ID="ID_1245718313" CREATED="1747891259470" MODIFIED="1747891291323">
+<node TEXT="Ahimsaa/Non-violence/Non-injury could be consistent with animal sacrifice?" ID="ID_883909378" CREATED="1747891518537" MODIFIED="1747940114300">
+<node TEXT="You do sacrifice to &apos;hold the world together&apos;" ID="ID_1811966769" CREATED="1747940110306" MODIFIED="1747940144914">
+<arrowlink DESTINATION="ID_1661950539"/>
 </node>
+<node TEXT="Killing animals in ritual context is ahimsaa actually, not real killing" ID="ID_1273503978" CREATED="1747940343526" MODIFIED="1747940406854"/>
+</node>
+<node TEXT="You can&apos;t eat meat without injuring living being, and doing so will hinder you from a better afterlife, so give up meat" ID="ID_1141689894" CREATED="1747927422501" MODIFIED="1747927456761">
+<arrowlink DESTINATION="ID_814284821"/>
+<arrowlink DESTINATION="ID_1187553433"/>
+</node>
+<node TEXT="No! At least a perfect kevalin like Mahaavira will no longer need food, so not even indirect contact with himsaa" ID="ID_1935206907" CREATED="1747941521482" MODIFIED="1747941594611">
+<arrowlink DESTINATION="ID_1082820629"/>
+<node TEXT="That&apos;s too extreme maybe" ID="ID_1971757591" CREATED="1747941595518" MODIFIED="1747941616198"/>
+<node TEXT="Unlike sex and material comfort, food is regrettable yet inevitable part of embodied life" ID="ID_1384747399" CREATED="1747941616504" MODIFIED="1747941646928">
+<arrowlink DESTINATION="ID_751733009"/>
+</node>
+</node>
+</node>
+<node TEXT="Just try to ameliorate the violence" ID="ID_1132740612" CREATED="1747892421791" MODIFIED="1747892442686">
+<node TEXT="Like put a blade of dried(so already dead) grass between blade of axe and tree being cut for sacrificial post" ID="ID_1127439313" CREATED="1747892443545" MODIFIED="1747892464144"/>
+<node TEXT="At least separate blame for violence away from sacrificer (as opposed to one who made material for sacrifice available I guess.. which was job of &quot;lower&quot; castes I guess..)" ID="ID_1869111357" CREATED="1747892464667" MODIFIED="1747892569582">
+<arrowlink DESTINATION="ID_1399509358"/>
+</node>
+<node TEXT="Maybe eat animals that have died of old age" ID="ID_1788184428" CREATED="1747941163239" MODIFIED="1747941169847">
+<node TEXT="No it&apos;s still not ok, underlying desire is still like a man willing to kill the animal to get meat" ID="ID_864004960" CREATED="1747941401677" MODIFIED="1747941432275">
+<arrowlink DESTINATION="ID_1069362885"/>
+</node>
+</node>
+</node>
+<node TEXT="Avoid even types of fruits and vegetables that might be &apos;aggregates&apos; of large number of life forms. Also strain water to remove small lifeforms, or boiled water that doesn&apos;t have microorganisms in it.. but you can&apos;t boil it cuz lighting fire will kill small creatures who get caught in it, avoid eating in dark (might ingest bug), don&apos;t walk in rainy season (vegetation on path)" ID="ID_265708051" CREATED="1747934627080" MODIFIED="1747935279520"/>
+</node>
+<node TEXT="Grand ahimsaa - harming involves harm to plants, lighting fire, taking water directly from a well" POSITION="bottom_or_right" ID="ID_1201155001" CREATED="1747892272573" MODIFIED="1747934799938">
+<arrowlink DESTINATION="ID_1701529865"/>
+<arrowlink DESTINATION="ID_265708051"/>
+<node TEXT="An elephant in a packed forest during a forest fire keeps its leg lifted to not crush a rabbit that accidentally came under when it had momentarily lifted it, until the elephant dies of exhaustion. But happy end- it gets reincarnated as an associate of Mahaavira" ID="ID_710594517" CREATED="1747934394803" MODIFIED="1747934552997">
+<arrowlink DESTINATION="ID_1993293025"/>
+</node>
+<node TEXT="The desire for food is root of all forms of himsaa/violence" ID="ID_1061742916" CREATED="1747934598098" MODIFIED="1747934614056">
+<arrowlink DESTINATION="ID_1110752267"/>
+</node>
+<node TEXT="It&apos;s ok to eat food, boiled water etc, if those prepared incidentally by someone else, for example by a Jain layperson not practicing asceticism, or anyone who donates alms to Jains or Buddhists" ID="ID_1875827216" CREATED="1747934823742" MODIFIED="1747934919197">
+<arrowlink DESTINATION="ID_1869111357"/>
+<arrowlink DESTINATION="ID_1701529865"/>
+<arrowlink DESTINATION="ID_774080258"/>
+<arrowlink DESTINATION="ID_265708051"/>
+<node TEXT="But the foods/alms/boiled water couldn&apos;t have been prepared with the Intention to give to the ascetic though. So basically they have to live on leftovers, that just happen to be on offer by a layperson, so that they didn&apos;t even do any violence &quot;on the ascetic&apos;s behalf&quot; (though they did do violence)" ID="ID_400674660" CREATED="1747934862067" MODIFIED="1747935183913">
+<node TEXT="Renouncer can have a clean conscious as long as they have taken enough precautions (the ones that I&apos;m calling grand ahimsaa)" ID="ID_1491329149" CREATED="1747940975075" MODIFIED="1747941015378">
+<arrowlink DESTINATION="ID_1201155001"/>
+<arrowlink DESTINATION="ID_1498163229"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Reducing overall harm is good, but mainly focus on reducing your individual/personal liability (it&apos;ll somehow ensure overall harm is reduced anyway)" ID="ID_1381699006" CREATED="1747939640894" MODIFIED="1747939902126">
+<arrowlink DESTINATION="ID_400674660"/>
 </node>
 <node TEXT="(Medical practitioner should) Help, at least don&apos;t harm" ID="ID_1514905324" CREATED="1743838928407" MODIFIED="1743839455619">
 <node TEXT="Kinda profession/identity linked ethics?" ID="ID_1183941128" CREATED="1743839459669" MODIFIED="1743839480834">
@@ -4562,8 +5405,20 @@
 </node>
 <node TEXT="Oath to avoid using a knife/invasive procedures (likely the oath was for generalists and specialists could do the procedures)" ID="ID_146033478" CREATED="1743885699376" MODIFIED="1743885749861"/>
 </node>
-<node TEXT="Harming and innocent is incorrect" ID="ID_161118482" CREATED="1744027313275" MODIFIED="1744027319707"/>
+<node TEXT="Harming an innocent is incorrect" ID="ID_161118482" CREATED="1744027313275" MODIFIED="1745992023181" VSHIFT_QUANTITY="-135 pt"/>
 <node TEXT="It&apos;s good to fight courageously" ID="ID_549013722" CREATED="1744027321073" MODIFIED="1744027335990"/>
+<node TEXT="Intention" ID="ID_784039617" CREATED="1747933414561" MODIFIED="1747933425374" VSHIFT_QUANTITY="93.6 pt">
+<arrowlink DESTINATION="ID_403140776"/>
+<arrowlink DESTINATION="ID_609897672"/>
+<arrowlink DESTINATION="ID_1131622924"/>
+<arrowlink DESTINATION="ID_400674660"/>
+<node TEXT="King Yashodhara when caused bloodshed in war, remained pure, because death was not his Intention in it. But then, when he decides to perform sacrifice, he tries to even avoid slaying a rooster and has one made from flour and cuts that, and yet is punished in afterlife! Why? Cuz the intention behind making the flour rooster was still that of Violence" ID="ID_1069362885" CREATED="1747935311116" MODIFIED="1747935495223">
+<arrowlink DESTINATION="ID_1993293025"/>
+<arrowlink DESTINATION="ID_1127439313"/>
+<arrowlink DESTINATION="ID_1201155001"/>
+<node TEXT="So Violence, at least (and perhaps only) for a Jain layperson is ok, as long as at least Intention is pure, but still it&apos;s not so good and avoid it" ID="ID_1615839370" CREATED="1747935539387" MODIFIED="1747935569191"/>
+</node>
+</node>
 </node>
 <node TEXT="Poverty" ID="ID_1917877357" CREATED="1743940831809" MODIFIED="1743940904077">
 <node TEXT="Poverty sucks" ID="ID_1665755264" CREATED="1744011580976" MODIFIED="1744011595537">
@@ -4584,26 +5439,114 @@
 <node TEXT="Differences between persons" ID="ID_1032085464" CREATED="1744291972959" MODIFIED="1744292055309">
 <node TEXT="Normal skill based difference" ID="ID_1346346012" CREATED="1744292216613" MODIFIED="1744292226179">
 <arrowlink DESTINATION="ID_146033478"/>
+<arrowlink DESTINATION="ID_1903973394"/>
 </node>
 <node TEXT="There&apos;s ontological difference between people" ID="ID_348473232" CREATED="1744292042041" MODIFIED="1744292891162">
 <arrowlink DESTINATION="ID_1033232835"/>
 <arrowlink DESTINATION="ID_1792262256"/>
+<arrowlink DESTINATION="ID_817529561"/>
 <node TEXT="Only some can have expertise into certain things due to their inherent nature, e.g. only brahmins understand ritual, which is why aristocrats need them for ritual" ID="ID_653378782" CREATED="1744292508133" MODIFIED="1744292578633">
 <node TEXT="For this they deserve remuneration, e.g. cows" ID="ID_856387675" CREATED="1744292689863" MODIFIED="1744292778847">
 <arrowlink DESTINATION="ID_1767846079"/>
 </node>
 <node TEXT="Ritual Prayer is a form of Speech" ID="ID_1802664821" CREATED="1744373276497" MODIFIED="1744744676051">
-<arrowlink DESTINATION="ID_687188073" STARTINCLINATION="6754.20016 pt;278.40001 pt;" ENDINCLINATION="6866.40016 pt;-424.80001 pt;"/>
+<arrowlink DESTINATION="ID_687188073" STARTINCLINATION="6754.20016 pt;278.40001 pt;" ENDINCLINATION="6866.40016 pt;-327.00001 pt;"/>
 <arrowlink DESTINATION="ID_935390389"/>
 <arrowlink DESTINATION="ID_469491538"/>
+</node>
+</node>
+<node TEXT="Wife enables man to achieve his sacrificial purposes" ID="ID_334023106" CREATED="1746978164604" MODIFIED="1746978283171">
+<node TEXT="Marriage has purpose above all to provide Man with Sons. Through the wife, the man produces himself, the Father is the same as the Son" POSITION="top_or_left" ID="ID_414507461" CREATED="1747745340786" MODIFIED="1747745395656">
+<arrowlink DESTINATION="ID_419363090"/>
+<node TEXT="Renouncing life of householder is radical cuz it involves renouncing sex and procreation, i.e. Chastity" ID="ID_751733009" CREATED="1747745617919" MODIFIED="1747745645815">
+<arrowlink DESTINATION="ID_755938751"/>
+<arrowlink DESTINATION="ID_520405027"/>
+</node>
+<node TEXT="Even more radical for women to renounce their role, but it did happen" ID="ID_1328088972" CREATED="1747746133860" MODIFIED="1747752318222">
+<arrowlink DESTINATION="ID_330076383"/>
+<arrowlink DESTINATION="ID_911686692" MIDDLE_LABEL="Sulabhaa"/>
+<arrowlink DESTINATION="ID_326601347"/>
+<arrowlink DESTINATION="ID_1508630302"/>
+<node TEXT="But even if they are admitted as nuns, they are to be subservient to monks and obey their authority" ID="ID_1953691558" CREATED="1747746202105" MODIFIED="1747746230574"/>
+<node TEXT="Admitting women will halve the lifespan of teachings/dhamma" ID="ID_230318761" CREATED="1747746311554" MODIFIED="1747747149265">
+<arrowlink DESTINATION="ID_168701324"/>
+<node TEXT="This is me- cuz maybe we&apos;ll reach the not needing dhamma stage earlier?" ID="ID_96738456" CREATED="1747746355546" MODIFIED="1747746373081">
+<arrowlink DESTINATION="ID_1929747173"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="And yet this ability needs to be proven. Though there are some inherent differences, they can&apos;t be taken at face value without being critical (e.g. King Ajatshatru challenging authority of Dripta Balaki)" ID="ID_1633056386" CREATED="1744293105322" MODIFIED="1744293210347">
 <arrowlink DESTINATION="ID_1115766085"/>
 </node>
+<node TEXT="Women are generally inferior to men" ID="ID_168701324" CREATED="1746595800791" MODIFIED="1747747367825">
+<arrowlink DESTINATION="ID_1728737145"/>
+<arrowlink DESTINATION="ID_911686692"/>
+<arrowlink DESTINATION="ID_150907563"/>
+<node TEXT="But exceptional ones can even as much as challenge men" ID="ID_1984556995" CREATED="1746595809062" MODIFIED="1746596345227">
+<arrowlink DESTINATION="ID_1728737145"/>
+<arrowlink DESTINATION="ID_911686692"/>
+<arrowlink DESTINATION="ID_1346346012"/>
+<node TEXT="But this is maybe more a sign of the man in question who ultimately wins the argument in the end, is open minded and smart" ID="ID_689836331" CREATED="1746595822659" MODIFIED="1746595853840"/>
+</node>
+<node TEXT="So likely women can&apos;t achieve liberation because the inferiority also their inability to do rigorous ascetic practices, cuz they&apos;ll be vulnerable without men protection" ID="ID_1388342491" CREATED="1747752318183" MODIFIED="1747757421700">
+<arrowlink DESTINATION="ID_1328088972"/>
+<node TEXT="That&apos;s bs, &quot;even&quot; women can achieve liberation, and can want to have it for themselves, not just for their husband or son" ID="ID_1508630302" CREATED="1747747063112" MODIFIED="1747847265556">
+<arrowlink DESTINATION="ID_1328088972"/>
+<arrowlink DESTINATION="ID_1665973950"/>
+<node TEXT="But this is if they abandon their striprajnya/womanly field of expertise or something (concerns for tending house etc)" ID="ID_389499978" CREATED="1747747110634" MODIFIED="1747747323679">
+<node TEXT="So there&apos;s some objection with femininity if not with particular females. Cuz Maitreyi is less feminine than Yajnyavalkya&apos;s other wife. Even Sulabhaa reprimands Janaka inside his mind, so it&apos;s like his own voice- women speech filtered through agency of men (this is probably Peter or his colleague)" ID="ID_577944706" CREATED="1747758424295" MODIFIED="1747758572632"/>
+</node>
+<node TEXT="Liberation can be attained by even women and shudras through devotion/bhakti to Krishna" ID="ID_1848446228" CREATED="1747751842310" MODIFIED="1747751881969"/>
+<node TEXT="Like Sulabhaa, women can wander freely, and have typical superpowers that ascetic men have" ID="ID_956191335" CREATED="1747757443662" MODIFIED="1747757466831">
+<arrowlink DESTINATION="ID_911686692"/>
+<node TEXT="The self has no gender or class, as the self underlies all features of a person" ID="ID_1602679741" CREATED="1747757497706" MODIFIED="1747757529205">
+<arrowlink DESTINATION="ID_911686692"/>
+</node>
+<node TEXT="The demands of one&apos;s dharma (e.g. kingly duties of Janaka, whom Sulabhaa is reprimanding (entering in his mind) for claiming to have secured liberation through Knowledge alone and has tamed his self) and the roles you have to fulfill towards others makes it impossible to attain liberation compared to one who solely devotes to spiritual concerns" ID="ID_899991211" CREATED="1747757553386" MODIFIED="1747758406413">
+<arrowlink DESTINATION="ID_27472182"/>
+<node TEXT="So idk, in this view the svadharma thing is just a means to get rebirth into such a life where you can devote spiritually?" ID="ID_1665815941" CREATED="1747757637628" MODIFIED="1747757664149">
+<arrowlink DESTINATION="ID_520405027"/>
+</node>
+<node TEXT="Is krishna&apos;s bhakti thing a shortcut where you can follow svadharma and also get liberation but through bhakti?" ID="ID_303316613" CREATED="1747757664601" MODIFIED="1747757707513">
+<arrowlink DESTINATION="ID_1848446228"/>
+</node>
+<node TEXT="Also just taming the self is not enough?" ID="ID_1164952626" CREATED="1747757902640" MODIFIED="1747757931772">
+<arrowlink DESTINATION="ID_83810402"/>
+<node TEXT="Maybe not, cuz Sulabhaa lectures Janaka on speech- pleasing speech, neither too short nor long, adapted to one&apos;s audience, and free of emotion.. also cuz speech is knower and that which is known thing as Janaka was boasting about knowledge?" ID="ID_1440646903" CREATED="1747758004207" MODIFIED="1747758045352">
+<arrowlink DESTINATION="ID_143760491"/>
+<arrowlink DESTINATION="ID_723580838"/>
+<arrowlink DESTINATION="ID_1143916510"/>
 </node>
 </node>
-<node TEXT="Banal ethics/Human wisdom" ID="ID_1274891256" CREATED="1744012688827" MODIFIED="1744027262983">
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Women are maybe more susceptible to bodily desires or are corrupting influence on men" ID="ID_1116328278" CREATED="1747747168181" MODIFIED="1747747191317">
+<arrowlink DESTINATION="ID_230318761"/>
+<arrowlink DESTINATION="ID_911686692"/>
+</node>
+</node>
+</node>
+<node TEXT="Sociopolitical differences affecting ethical actions" ID="ID_1533313549" CREATED="1746594748222" MODIFIED="1746594773920">
+<node TEXT="Dress norms" ID="ID_1684443372" CREATED="1746594793767" MODIFIED="1746594856518">
+<node TEXT="Shwetambara are white clad (simple clothes)" ID="ID_1709251792" CREATED="1746594856549" MODIFIED="1746594994888">
+<arrowlink DESTINATION="ID_62394898"/>
+<node TEXT="Possible for Women to practice, even as Tirthankaras, thus possible to achieve liberation as woman" ID="ID_326601347" CREATED="1746594888991" MODIFIED="1746594931760"/>
+</node>
+<node TEXT="Digambara are sky-clad (naked- cuz asceticism, withdrawal from society)" ID="ID_739393558" CREATED="1746594872063" MODIFIED="1746594987482">
+<arrowlink DESTINATION="ID_62394898"/>
+<node TEXT="Not possible for Women to practice because safety decency reasons maybe thus not possible to achieve liberation as woman" ID="ID_330076383" CREATED="1746594934919" MODIFIED="1746595367492"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Banal ethics/Human wisdom" ID="ID_1274891256" CREATED="1744012688827" MODIFIED="1746595549769" HGAP_QUANTITY="29.6 pt" VSHIFT_QUANTITY="-37.2 pt">
+<node TEXT="Be truthful" ID="ID_1658381014" CREATED="1746121646207" MODIFIED="1746121671698">
+<arrowlink DESTINATION="ID_1284025749"/>
+</node>
 <node TEXT="Be forgiving" ID="ID_55849259" CREATED="1744012691759" MODIFIED="1744142190463">
 <arrowlink DESTINATION="ID_232339131"/>
 <node TEXT="Forgive well-meaning people who might otherwise be aggravating" ID="ID_895622840" CREATED="1744012708811" MODIFIED="1744012829459">
@@ -4616,6 +5559,25 @@
 <node TEXT="Don&apos;t complain" ID="ID_1917607784" CREATED="1744012743648" MODIFIED="1744012770682">
 <node TEXT="Don&apos;t complain about things that you know other people do bear, especially if you consider them inferior to you in status" ID="ID_1778343038" CREATED="1744012770708" MODIFIED="1744012829459">
 <arrowlink DESTINATION="ID_512921473"/>
+</node>
+<node TEXT="Uphold socio-political order" ID="ID_150907563" CREATED="1746121554705" MODIFIED="1746121561944">
+<arrowlink DESTINATION="ID_737810856"/>
+<node TEXT="Respect parents" ID="ID_1462081080" CREATED="1746121562127" MODIFIED="1746121564877"/>
+<node TEXT="Even if husband is uncouth, prone to pleasure, has no good points whatsoever, wife must worship her lord as god" ID="ID_95409022" CREATED="1746124192110" MODIFIED="1747747371673">
+<arrowlink DESTINATION="ID_168701324"/>
+</node>
+</node>
+</node>
+<node TEXT="Benevolence/Compassion" ID="ID_490567674" CREATED="1745949705976" MODIFIED="1745991937654">
+<arrowlink DESTINATION="ID_621748514"/>
+<node TEXT="Compassion doesn&apos;t just mean simply avoiding misdeeds, it means actively pursuing welfare of others" ID="ID_242896116" CREATED="1745991937835" MODIFIED="1745991970058">
+<arrowlink DESTINATION="ID_170142208"/>
+</node>
+<node TEXT="Respect life" ID="ID_1215111026" CREATED="1746121620375" MODIFIED="1746121622996">
+<node TEXT="Show kindness towards animals" ID="ID_529810374" CREATED="1746121571859" MODIFIED="1746121576025"/>
+<node TEXT="Show kindness towards slaves" ID="ID_1695407000" CREATED="1746121627250" MODIFIED="1746121628993">
+<arrowlink DESTINATION="ID_207559926"/>
+</node>
 </node>
 </node>
 </node>
@@ -4751,7 +5713,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Construction" FOLDED="true" ID="ID_362734507" CREATED="1743075397728" MODIFIED="1743616629022" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="107.60001 pt" VSHIFT_QUANTITY="-336.00001 pt">
+<node TEXT="Construction" FOLDED="true" ID="ID_362734507" CREATED="1743075397728" MODIFIED="1747941336240" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="149.60001 pt" VSHIFT_QUANTITY="-148.20001 pt">
 <node TEXT="Bridges" ID="ID_1759036827" CREATED="1743075404257" MODIFIED="1743075406470">
 <node TEXT="Parts" ID="ID_1375825708" CREATED="1743075407621" MODIFIED="1743075409583">
 <node TEXT="Support" ID="ID_1781819498" CREATED="1743075410195" MODIFIED="1743075420226">
@@ -4765,8 +5727,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Game/Play/Simulation" ID="ID_496082071" CREATED="1743058632457" MODIFIED="1743616635788" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="117.20001 pt" VSHIFT_QUANTITY="-38.4 pt"/>
-<node TEXT="Martial arts" ID="ID_1108389675" CREATED="1743058768509" MODIFIED="1743616622290" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="118.40001 pt" VSHIFT_QUANTITY="-37.2 pt"/>
+<node TEXT="Game/Play/Simulation" ID="ID_496082071" CREATED="1743058632457" MODIFIED="1747941331727" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="153.20001 pt" VSHIFT_QUANTITY="172.80001 pt"/>
+<node TEXT="Martial arts" ID="ID_1108389675" CREATED="1743058768509" MODIFIED="1747941323592" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="127.40001 pt" VSHIFT_QUANTITY="97.8 pt"/>
 </node>
 <node TEXT="Craft/Media/Expression" ID="ID_1490739651" CREATED="1743058497681" MODIFIED="1744302076409" HGAP_QUANTITY="-188.20001 pt" VSHIFT_QUANTITY="3.6 pt">
 <node TEXT="Oral" ID="ID_1875445176" CREATED="1743075766608" MODIFIED="1743615173978">
@@ -4788,17 +5750,30 @@
 <node TEXT="Poetry" ID="ID_1358369093" CREATED="1743246699658" MODIFIED="1743615173978">
 <node TEXT="Lyric Poetry" ID="ID_1050525754" CREATED="1743246705143" MODIFIED="1743615173978"/>
 </node>
+<node TEXT="Didactic" ID="ID_965863609" CREATED="1745934477316" MODIFIED="1745934486565">
+<node TEXT="Institutional" ID="ID_910084137" CREATED="1745934487201" MODIFIED="1745934496293">
+<node TEXT="University" ID="ID_1365356101" CREATED="1745934496681" MODIFIED="1745934499889">
+<node TEXT="University of Cambridge" ID="ID_767836915" CREATED="1745934500129" MODIFIED="1745934504228">
+<arrowlink DESTINATION="ID_1379091158"/>
+</node>
+<node TEXT="University of Ceylon" ID="ID_1338654585" CREATED="1745934504609" MODIFIED="1745934510219">
+<arrowlink DESTINATION="ID_792582454"/>
+<arrowlink DESTINATION="ID_1910608798"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="Written" ID="ID_1540992053" CREATED="1743075769529" MODIFIED="1743615173978">
 <node TEXT="Plays" ID="ID_1094566790" CREATED="1743234948957" MODIFIED="1743615173978">
 <arrowlink DESTINATION="ID_1585686206"/>
 <node TEXT="Comedies" ID="ID_248037940" CREATED="1743939313312" MODIFIED="1743939315182">
-<node TEXT="Aristophanes&apos;" ID="ID_801373272" CREATED="1743939522391" MODIFIED="1743939591119">
+<node TEXT="Aristophanes&apos;" ID="ID_801373272" CREATED="1743939522391" MODIFIED="1745934472236">
 <arrowlink DESTINATION="ID_1352264011"/>
 <node TEXT="The Clouds" ID="ID_743215455" CREATED="1743939381389" MODIFIED="1743939541662">
 <arrowlink DESTINATION="ID_1905796840"/>
 </node>
-<node TEXT="The Frogs" POSITION="bottom_or_right" ID="ID_1653468795" CREATED="1743939391134" MODIFIED="1743939536713"/>
+<node TEXT="The Frogs" POSITION="bottom_or_right" ID="ID_1653468795" CREATED="1743939391134" MODIFIED="1745934472236" HGAP_QUANTITY="18.8 pt"/>
 </node>
 </node>
 </node>
@@ -4863,10 +5838,33 @@
 <node TEXT="Anabasis" ID="ID_303022318" CREATED="1743939888006" MODIFIED="1743939890000"/>
 <node TEXT="Cyropaedia" ID="ID_357421555" CREATED="1743939890204" MODIFIED="1743939892991"/>
 </node>
+<node TEXT="Ashoka&apos;s edicts" ID="ID_839559668" CREATED="1746119274071" MODIFIED="1746119279908">
+<arrowlink DESTINATION="ID_1259197519"/>
+<arrowlink DESTINATION="ID_82258683"/>
+<arrowlink DESTINATION="ID_1758506868"/>
+<arrowlink DESTINATION="ID_270935470"/>
+<arrowlink DESTINATION="ID_1462081080"/>
+<arrowlink DESTINATION="ID_1215111026"/>
+<arrowlink DESTINATION="ID_1658381014"/>
+<arrowlink DESTINATION="ID_140199957"/>
+<arrowlink DESTINATION="ID_826071697"/>
+<arrowlink DESTINATION="ID_1592278955"/>
+<arrowlink DESTINATION="ID_1444494351"/>
+<arrowlink DESTINATION="ID_1875095352"/>
+</node>
 </node>
 <node TEXT="Treatises" ID="ID_304718259" CREATED="1743940048943" MODIFIED="1743940052836">
-<node TEXT="Arthashastra" ID="ID_1421221661" CREATED="1743940052864" MODIFIED="1743940110957">
+<node TEXT="Arthashaastra" ID="ID_1421221661" CREATED="1743940052864" MODIFIED="1746121893843">
+<arrowlink DESTINATION="ID_1989322360"/>
+<arrowlink DESTINATION="ID_1931397011"/>
+<arrowlink DESTINATION="ID_1690462075"/>
 <arrowlink DESTINATION="ID_885285636"/>
+<arrowlink DESTINATION="ID_275293157"/>
+<arrowlink DESTINATION="ID_416113398"/>
+<arrowlink DESTINATION="ID_485192603"/>
+<arrowlink DESTINATION="ID_950648566"/>
+<arrowlink DESTINATION="ID_798015500"/>
+<arrowlink DESTINATION="ID_1447459269"/>
 </node>
 <node TEXT="Xenophon&apos;s" ID="ID_547435983" CREATED="1743940052864" MODIFIED="1743940110957">
 <arrowlink DESTINATION="ID_512921473"/>
@@ -4875,6 +5873,9 @@
 <arrowlink DESTINATION="ID_11067303"/>
 </node>
 </node>
+</node>
+<node TEXT="Academic literature" ID="ID_225163985" CREATED="1745934776625" MODIFIED="1745934782402">
+<node TEXT="Jayatilleke&apos;s Early Buddhist Philosophy" ID="ID_172781876" CREATED="1745934782845" MODIFIED="1745934795520"/>
 </node>
 </node>
 <node TEXT="Visual" ID="ID_1039071649" CREATED="1743075772504" MODIFIED="1743615173978">
@@ -4897,7 +5898,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Communication" ID="ID_1500304898" CREATED="1743058593968" MODIFIED="1745600483887" HGAP_QUANTITY="-835.00003 pt" VSHIFT_QUANTITY="-413.4 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
+<node TEXT="Communication" ID="ID_1500304898" CREATED="1743058593968" MODIFIED="1747816823123" HGAP_QUANTITY="-657.40003 pt" VSHIFT_QUANTITY="-819.00001 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_FIRST">
 <node TEXT="Linguistics" ID="ID_915343996" CREATED="1745483365401" MODIFIED="1745483368045">
 <node TEXT="Grammar/Vyaakarana/Shabdaanushaasana" ID="ID_1784345328" CREATED="1745483385218" MODIFIED="1745504841135" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_LAST">
 <node TEXT="Need/Use" ID="ID_1646899936" CREATED="1745483387649" MODIFIED="1745639618489" HGAP_QUANTITY="86 pt" VSHIFT_QUANTITY="494.40001 pt">
@@ -5085,7 +6086,7 @@
 <node TEXT="Empathy" ID="ID_662705701" CREATED="1743058813265" MODIFIED="1743615173978"/>
 </node>
 <node TEXT="Knowledge acquisition" ID="ID_1693076807" CREATED="1743058485202" MODIFIED="1744302105366" CHILD_NODES_LAYOUT="TOPTOBOTTOM_LEFT_CENTERED" HGAP_QUANTITY="-277.60001 pt" VSHIFT_QUANTITY="-946.20002 pt">
-<node TEXT="Historiography" ID="ID_841440534" CREATED="1743074814252" MODIFIED="1745600497468" HGAP_QUANTITY="-608.80001 pt" VSHIFT_QUANTITY="-33 pt" CHILD_NODES_LAYOUT="LEFTTORIGHT_BOTTOM_FIRST">
+<node TEXT="Historiography" ID="ID_841440534" CREATED="1743074814252" MODIFIED="1747816804719" HGAP_QUANTITY="-820.00002 pt" VSHIFT_QUANTITY="-383.40001 pt" CHILD_NODES_LAYOUT="LEFTTORIGHT_BOTTOM_FIRST">
 <node TEXT="Sources" ID="ID_506788594" CREATED="1743074849092" MODIFIED="1744302097757" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="-173.80001 pt" VSHIFT_QUANTITY="708.00002 pt">
 <node TEXT="Testimonies" ID="ID_1293048950" CREATED="1743074826851" MODIFIED="1743615173976">
 <node TEXT="Aristotle&apos;s" ID="ID_1389033719" CREATED="1743074940439" MODIFIED="1743709359429">
@@ -5155,9 +6156,12 @@
 <arrowlink DESTINATION="ID_1413277237"/>
 </node>
 <node TEXT="Language" POSITION="bottom_or_right" ID="ID_663050690" CREATED="1744109967978" MODIFIED="1744109973890">
+<node TEXT="Nighantu and Nirukta" ID="ID_1980071425" CREATED="1746123212066" MODIFIED="1746123260622">
+<arrowlink DESTINATION="ID_1958971105"/>
+</node>
 <node TEXT="Ashtaadhyayi" ID="ID_998640039" CREATED="1744109974116" MODIFIED="1745158822969">
 <arrowlink DESTINATION="ID_1120333560" STARTINCLINATION="99.6 pt;0 pt;" ENDINCLINATION="93 pt;15.6 pt;"/>
-<node TEXT="Varttikaakara" ID="ID_1917750314" CREATED="1744111036537" MODIFIED="1745504119686">
+<node TEXT="Vaarttikakaara" ID="ID_1917750314" CREATED="1744111036537" MODIFIED="1746123490937">
 <arrowlink DESTINATION="ID_990776459"/>
 </node>
 <node TEXT="Mahaabhaashya" ID="ID_606567609" CREATED="1744111045384" MODIFIED="1744111049229"/>
@@ -5179,10 +6183,21 @@
 <node TEXT="Holyish Texts" ID="ID_661043671" CREATED="1744109838104" MODIFIED="1745600114162" CHILD_NODES_LAYOUT="LEFTTORIGHT_BOTTOM_FLOW" HGAP_QUANTITY="-1673.20004 pt" VSHIFT_QUANTITY="33.6 pt">
 <node TEXT="Hindu" ID="ID_895274471" CREATED="1744109850693" MODIFIED="1745599990381" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST" HGAP_QUANTITY="6.8 pt" VSHIFT_QUANTITY="-36 pt">
 <node TEXT="Epics" ID="ID_1791045171" CREATED="1744139823436" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
-<node TEXT="Mahabharata" ID="ID_911686692" CREATED="1744139827147" MODIFIED="1744139832967">
+<node TEXT="Mahaabhaarata" ID="ID_911686692" CREATED="1744139827147" MODIFIED="1747752318214">
 <arrowlink DESTINATION="ID_513751767"/>
-<node TEXT="Bhagavadgita" ID="ID_898321604" CREATED="1744139847756" MODIFIED="1744295499500">
+<arrowlink DESTINATION="ID_1245718313"/>
+<arrowlink DESTINATION="ID_1152859798"/>
+<arrowlink DESTINATION="ID_85810067"/>
+<arrowlink DESTINATION="ID_1654698094"/>
+<arrowlink DESTINATION="ID_704750607"/>
+<arrowlink DESTINATION="ID_581173122"/>
+<arrowlink DESTINATION="ID_899991211"/>
+<arrowlink DESTINATION="ID_774070906"/>
+<arrowlink DESTINATION="ID_1848446228"/>
+<node TEXT="Bhagavadgitaa" ID="ID_898321604" CREATED="1744139847756" MODIFIED="1744295499500">
 <arrowlink DESTINATION="ID_504819623"/>
+<arrowlink DESTINATION="ID_363314981"/>
+<arrowlink DESTINATION="ID_816437646"/>
 <arrowlink DESTINATION="ID_6064362"/>
 </node>
 <node TEXT="Shaantiparva" ID="ID_1025152102" CREATED="1744139967832" MODIFIED="1744139974000"/>
@@ -5190,7 +6205,8 @@
 <node TEXT="Ramayana" ID="ID_1729053917" CREATED="1744139833227" MODIFIED="1744139844636"/>
 </node>
 <node TEXT="Vedas" ID="ID_297127057" CREATED="1744109857691" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
-<node TEXT="Rigveda" ID="ID_1792262256" CREATED="1744109869135" MODIFIED="1744293556111">
+<arrowlink DESTINATION="ID_883909378"/>
+<node TEXT="Rigveda" ID="ID_1792262256" CREATED="1744109869135" MODIFIED="1745781582101">
 <arrowlink DESTINATION="ID_409841316" STARTINCLINATION="6207.60015 pt;0 pt;" ENDINCLINATION="6157.20015 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_1708223744"/>
 <arrowlink DESTINATION="ID_89681880"/>
@@ -5346,6 +6362,7 @@
 </node>
 </node>
 <node TEXT="Dharmasutras" FOLDED="true" ID="ID_1096359220" CREATED="1744115444502" MODIFIED="1744115450284">
+<arrowlink DESTINATION="ID_145895341"/>
 <node TEXT="Vaisishthadharmasutra" ID="ID_865115056" CREATED="1744117978822" MODIFIED="1744118108192">
 <arrowlink DESTINATION="ID_1792262256"/>
 </node>
@@ -5441,16 +6458,17 @@
 <arrowlink DESTINATION="ID_1277790023"/>
 </node>
 <node TEXT="Brihadaranyaka" ID="ID_753028535" CREATED="1744124328314" MODIFIED="1745058981250">
-<arrowlink DESTINATION="ID_814284821" STARTINCLINATION="99.6 pt;0 pt;" ENDINCLINATION="-19.2 pt;62.4 pt;"/>
+<arrowlink DESTINATION="ID_814284821" STARTINCLINATION="99.6 pt;0 pt;" ENDINCLINATION="0 pt;62.4 pt;"/>
 <arrowlink DESTINATION="ID_1486832959"/>
 <arrowlink DESTINATION="ID_32603902"/>
 <arrowlink DESTINATION="ID_790158132"/>
-<arrowlink DESTINATION="ID_886921433" STARTINCLINATION="57.6 pt;-238.80001 pt;" ENDINCLINATION="396.00001 pt;-834.60002 pt;"/>
+<arrowlink DESTINATION="ID_886921433" STARTINCLINATION="57.6 pt;-141 pt;" ENDINCLINATION="396.00001 pt;-736.80002 pt;"/>
 <arrowlink DESTINATION="ID_429653433"/>
 </node>
 <node TEXT="Talavakaraaranyaka/Jaiminiyaupanishadbrahmana" ID="ID_725018650" CREATED="1744124385671" MODIFIED="1744124464432"/>
 </node>
 <node TEXT="Upanishad" ID="ID_1728737145" CREATED="1744119252810" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
+<arrowlink DESTINATION="ID_334023106"/>
 <node TEXT="Mukhya" ID="ID_671413255" CREATED="1744124712200" MODIFIED="1744124714263">
 <node TEXT="Aitareyaupanishad" ID="ID_1711210403" CREATED="1744119347251" MODIFIED="1744124640249">
 <arrowlink DESTINATION="ID_1792262256"/>
@@ -5478,21 +6496,24 @@
 </node>
 <node TEXT="Taittiriyaupanishad" POSITION="bottom_or_right" ID="ID_887898571" CREATED="1744124579718" MODIFIED="1745600685830">
 <arrowlink DESTINATION="ID_1277790023"/>
-<arrowlink DESTINATION="ID_1623206928" STARTINCLINATION="4076.4001 pt;-111 pt;" ENDINCLINATION="4134.0001 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1623206928" STARTINCLINATION="4076.4001 pt;-13.2 pt;" ENDINCLINATION="4134.0001 pt;0 pt;"/>
 </node>
 <node TEXT="Shvetaashvataraupanishad" POSITION="bottom_or_right" ID="ID_1392710222" CREATED="1744124798420" MODIFIED="1744124822945">
 <arrowlink DESTINATION="ID_1277790023"/>
+<arrowlink DESTINATION="ID_743363151"/>
+<arrowlink DESTINATION="ID_200453516"/>
 </node>
-<node TEXT="Maitraayaniupanishad" POSITION="bottom_or_right" ID="ID_660726991" CREATED="1744124812859" MODIFIED="1745595532579">
+<node TEXT="Maitraayaniupanishad" POSITION="bottom_or_right" ID="ID_660726991" CREATED="1744124812859" MODIFIED="1745761260843">
 <arrowlink DESTINATION="ID_1277790023"/>
-<arrowlink DESTINATION="ID_7074075"/>
+<arrowlink DESTINATION="ID_7074075" STARTINCLINATION="1949.40005 pt;-76.8 pt;" ENDINCLINATION="1988.40005 pt;-262.20001 pt;"/>
 <arrowlink DESTINATION="ID_1653117951"/>
 </node>
 <node TEXT="Ishaupanishad" POSITION="bottom_or_right" ID="ID_1333477230" CREATED="1744124592390" MODIFIED="1744124677739">
 <arrowlink DESTINATION="ID_1486832959"/>
 </node>
-<node TEXT="Brihadaranyakaupanishad" POSITION="bottom_or_right" ID="ID_1115766085" CREATED="1744124478694" MODIFIED="1744359459243">
+<node TEXT="Brihadaranyakaupanishad" POSITION="bottom_or_right" ID="ID_1115766085" CREATED="1744124478694" MODIFIED="1747752318222">
 <arrowlink DESTINATION="ID_753028535"/>
+<arrowlink DESTINATION="ID_1508630302"/>
 <arrowlink DESTINATION="ID_1894533106"/>
 <arrowlink DESTINATION="ID_1387814369"/>
 <arrowlink DESTINATION="ID_1486832959"/>
@@ -5545,7 +6566,9 @@
 <node TEXT="Shiva" ID="ID_1698946540" CREATED="1744125867332" MODIFIED="1744125868601"/>
 </node>
 <node TEXT="Bhaagavatapuran" ID="ID_1710970571" CREATED="1744125646638" MODIFIED="1744125651377">
-<node TEXT="Vishnu, Bhakti movement" ID="ID_157517715" CREATED="1744125888195" MODIFIED="1744125893823"/>
+<node TEXT="Vishnu, Bhakti movement" ID="ID_157517715" CREATED="1744125888195" MODIFIED="1747752318214">
+<arrowlink DESTINATION="ID_1848446228"/>
+</node>
 </node>
 <node TEXT="Naaradapuran" ID="ID_351037289" CREATED="1744125653095" MODIFIED="1744125658291">
 <node TEXT="Vishnu Shiva Devi Rama Krishna" ID="ID_130382119" CREATED="1744125897328" MODIFIED="1744125923263"/>
@@ -5706,8 +6729,31 @@
 <node TEXT="Hamsa" ID="ID_229141135" CREATED="1744126526172" MODIFIED="1744126526172"/>
 </node>
 </node>
+<node TEXT="Dharmashaastras" ID="ID_599970026" CREATED="1746123562889" MODIFIED="1746123566714">
+<node TEXT="Manusmriti" ID="ID_912278553" CREATED="1746123568402" MODIFIED="1746123572010">
+<arrowlink DESTINATION="ID_56079247"/>
+<arrowlink DESTINATION="ID_1273503978"/>
+<arrowlink DESTINATION="ID_1141689894"/>
+<arrowlink DESTINATION="ID_1245718313"/>
+<arrowlink DESTINATION="ID_1328088972"/>
+<arrowlink DESTINATION="ID_95409022"/>
+<arrowlink DESTINATION="ID_1139509349"/>
+<arrowlink DESTINATION="ID_380627587"/>
 </node>
-<node TEXT="Jain" ID="ID_1536611148" CREATED="1744293579756" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
+<node TEXT="Yaajnyavalkyasmriti" ID="ID_664448703" CREATED="1746123572414" MODIFIED="1746123582008">
+<arrowlink DESTINATION="ID_302728221"/>
+<arrowlink DESTINATION="ID_177421620"/>
+</node>
+<node TEXT="Naaradasmriti" ID="ID_1033591667" CREATED="1746123582329" MODIFIED="1746123594788">
+<arrowlink DESTINATION="ID_177421620"/>
+<arrowlink DESTINATION="ID_633151559"/>
+</node>
+<node TEXT="Vishnusmriti" ID="ID_110535015" CREATED="1746123597377" MODIFIED="1746123600619">
+<arrowlink DESTINATION="ID_1327560243"/>
+</node>
+</node>
+</node>
+<node TEXT="Jain" ID="ID_1536611148" CREATED="1744293579756" MODIFIED="1745781582100" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
 <arrowlink DESTINATION="ID_1633056386"/>
 <arrowlink DESTINATION="ID_1195423542"/>
 <node TEXT="12 Angas" ID="ID_679475546" CREATED="1744980358628" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
@@ -5727,77 +6773,18 @@
 <node TEXT="Drishtivaada" ID="ID_224161578" CREATED="1744980800764" MODIFIED="1744980806709"/>
 </node>
 </node>
-<node TEXT="Buddhist" ID="ID_625770793" CREATED="1744293583294" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
+<node TEXT="Buddhist" ID="ID_625770793" CREATED="1744293583294" MODIFIED="1745781582100" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
 <arrowlink DESTINATION="ID_1633056386"/>
-<arrowlink DESTINATION="ID_1195423542"/>
+<arrowlink DESTINATION="ID_1195423542" STARTINCLINATION="5049.60012 pt;0 pt;" ENDINCLINATION="4831.20012 pt;0 pt;"/>
 <arrowlink DESTINATION="ID_774080258"/>
 <node TEXT="Early texts" ID="ID_1765401476" CREATED="1744301561103" MODIFIED="1745599957163" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FIRST">
 <node TEXT="Early Buddhist Texts" ID="ID_229245546" CREATED="1744301566642" MODIFIED="1744301575293">
 <node TEXT="Buddhavachana/Sutras/Suttas" ID="ID_1336039931" CREATED="1745566034729" MODIFIED="1745566127584">
 <node TEXT="Dhammachakkappavattanasutta/dharmachakrapravartanasutra" ID="ID_1977244962" CREATED="1745566241368" MODIFIED="1745566292895">
-<node TEXT="4 noble truths/chatwaariaaryasatyaani/chattaariariyasacchaani" ID="ID_1480210590" CREATED="1745566293150" MODIFIED="1745592668312">
-<node TEXT="dukkha/suffering" ID="ID_1589350514" CREATED="1745566475717" MODIFIED="1745592668312" VSHIFT_QUANTITY="-145.2 pt">
-<arrowlink DESTINATION="ID_474771528"/>
+<node TEXT="Middle way/majjhimaapatipada/madhyamaapratipada" ID="ID_1796283203" CREATED="1745566296532" MODIFIED="1747746069473">
+<arrowlink DESTINATION="ID_248221002" STARTINCLINATION="4337.4001 pt;0 pt;" ENDINCLINATION="4334.4001 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1971757591"/>
 </node>
-<node TEXT="samudaya/origin/cause" ID="ID_166691833" CREATED="1745566478949" MODIFIED="1745566529201"/>
-<node TEXT="nirodha/cessation" ID="ID_639791013" CREATED="1745566483599" MODIFIED="1745566535319"/>
-<node TEXT="maarga/(8fold)path(ariya atthangika magga/aaryaashtaangamaarga/ashtasamyangmaarga)" ID="ID_170142208" CREATED="1745566487917" MODIFIED="1745592663654">
-<node TEXT="samyak drishti/right view" ID="ID_901216166" CREATED="1745566598126" MODIFIED="1745592663654" HGAP_QUANTITY="4.4 pt" VSHIFT_QUANTITY="-213.60001 pt">
-<node TEXT="(accepts karmic reincarnation cycle)" ID="ID_1436620337" CREATED="1745566916758" MODIFIED="1745566927645"/>
-</node>
-<node TEXT="samyak sankalp/right resolve" ID="ID_1753076781" CREATED="1745566694829" MODIFIED="1745566947512">
-<node TEXT="ahimsa/nonviolence" ID="ID_1241966056" CREATED="1745566947722" MODIFIED="1745566955215"/>
-</node>
-<node TEXT="samyak vaachaa/right speech" ID="ID_1143916510" CREATED="1745566702410" MODIFIED="1745566961908">
-<node TEXT="no lying" ID="ID_1284025749" CREATED="1745566980599" MODIFIED="1745567003144"/>
-<node TEXT="no abusive speech" ID="ID_727371247" CREATED="1745567003547" MODIFIED="1745567009301"/>
-<node TEXT="no divisive speech" ID="ID_1147551844" CREATED="1745567009716" MODIFIED="1745567013959"/>
-<node TEXT="no idle chatter" ID="ID_687476774" CREATED="1745567014315" MODIFIED="1745567016349"/>
-</node>
-<node TEXT="samyak karmaanta/right conduct/action" ID="ID_369180710" CREATED="1745566708214" MODIFIED="1745567035897">
-<node TEXT="no killing/injuring" ID="ID_647604173" CREATED="1745567039865" MODIFIED="1745567043774"/>
-<node TEXT="no material desires" ID="ID_796541005" CREATED="1745567072758" MODIFIED="1745567075821">
-<node TEXT="no taking what&apos;s not given" POSITION="bottom_or_right" ID="ID_235584799" CREATED="1745567044194" MODIFIED="1745567048079"/>
-<node TEXT="no sexual misconduct" POSITION="bottom_or_right" ID="ID_780179111" CREATED="1745567050444" MODIFIED="1745567058250"/>
-</node>
-</node>
-<node TEXT="samyak aajivikaa/right livelihood" ID="ID_1950928095" CREATED="1745566713669" MODIFIED="1745567094222">
-<node TEXT="no trade in weapons, living beings, meat, liquor, poisons" ID="ID_1211853206" CREATED="1745567094548" MODIFIED="1745567115775"/>
-</node>
-<node TEXT="samyak vyaayaama/right effort" ID="ID_363767342" CREATED="1745566718757" MODIFIED="1745567419572">
-<node TEXT="prevent arising of unwholesome states, welcome wholesome states" ID="ID_1418295533" CREATED="1745567121352" MODIFIED="1745567145060"/>
-<node TEXT="sattabojjhangaa/saptabodhyanga/seven factors of awakening" ID="ID_1048034215" CREATED="1745567146447" MODIFIED="1745567419572" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_LAST" HGAP_QUANTITY="29 pt" VSHIFT_QUANTITY="-112.8 pt">
-<node TEXT="mindfulness/smriti/sati" ID="ID_384109050" CREATED="1745567174168" MODIFIED="1745567207941">
-<node TEXT="maintain awareness of reality" ID="ID_1635106056" CREATED="1745567208846" MODIFIED="1745567218478"/>
-</node>
-<node TEXT="investigation/dhammavichaya/dharmapravichaya" ID="ID_1106564764" CREATED="1745567219396" MODIFIED="1745567239898">
-<node TEXT="of nature of reality" ID="ID_376149462" CREATED="1745567240301" MODIFIED="1745567248939"/>
-</node>
-<node TEXT="energy/viriya/virya" ID="ID_1883243012" CREATED="1745567250324" MODIFIED="1745567264033">
-<node TEXT="and determination, effort" ID="ID_919796598" CREATED="1745567264290" MODIFIED="1745567268853"/>
-</node>
-<node TEXT="joy/rapture/piti/priti" ID="ID_267918533" CREATED="1745567269591" MODIFIED="1745567280332"/>
-<node TEXT="relaxation/tranquility/oasaddi/prashrabdhi" ID="ID_1823017535" CREATED="1745567281820" MODIFIED="1745567298644">
-<node TEXT="of both both body and mind" ID="ID_593639012" CREATED="1745567301568" MODIFIED="1745567307938"/>
-</node>
-<node TEXT="concentration/samaadhi" ID="ID_1318417548" CREATED="1745567310308" MODIFIED="1745567316586">
-<node TEXT="calm, one-pointed state of mind- bringing buried latencies/samskaaras into full view" ID="ID_937203053" CREATED="1745567316903" MODIFIED="1745567338303"/>
-</node>
-<node TEXT="equanimity/upekkha/upekshaa" ID="ID_1597586657" CREATED="1745567339948" MODIFIED="1745567351010">
-<node TEXT="accept reality as is/yathaabhuta without craving or aversion- in general indriyasamvara- guarding sense-doors" ID="ID_1322652293" CREATED="1745567351201" MODIFIED="1745567453898"/>
-</node>
-</node>
-</node>
-<node TEXT="samyak smriti/satipatthana/right mindfulness" ID="ID_23596979" CREATED="1745566725794" MODIFIED="1745567535481">
-<arrowlink DESTINATION="ID_384109050"/>
-<node TEXT="guards/watches over the mind, makes unwholesome weaker" ID="ID_468658698" CREATED="1745567512063" MODIFIED="1745567567775"/>
-</node>
-<node TEXT="samyak samaadhi" ID="ID_828329327" CREATED="1745566730672" MODIFIED="1745566735914"/>
-<node TEXT="extra- samyak jnyaana" ID="ID_1047557656" CREATED="1745566821436" MODIFIED="1745566830729"/>
-<node TEXT="extra- samyak vimukti" ID="ID_1036213483" CREATED="1745566831299" MODIFIED="1745566838856"/>
-</node>
-</node>
-<node TEXT="Middle way/majjhimaapatipada/madhyamaapratipada" ID="ID_1796283203" CREATED="1745566296532" MODIFIED="1745566340517"/>
 <node TEXT="impermanence/aniccha/anitya" ID="ID_76231537" CREATED="1745566303790" MODIFIED="1745566382671"/>
 <node TEXT="dependent origination/pratityasmutpaada/paticchasamuppada" ID="ID_602932383" CREATED="1745566307218" MODIFIED="1745566418013"/>
 </node>
@@ -5838,6 +6825,7 @@
 <node TEXT="Anguttara Nikaya" ID="ID_747426021" CREATED="1744300761035" MODIFIED="1744300766549"/>
 <node TEXT="Khuddaka Nikaya" ID="ID_226287525" CREATED="1744300766865" MODIFIED="1744300771294">
 <node TEXT="Milindapanha" ID="ID_859384127" CREATED="1744300771553" MODIFIED="1744300858074">
+<arrowlink DESTINATION="ID_914067701"/>
 <arrowlink DESTINATION="ID_1262896034"/>
 <arrowlink DESTINATION="ID_233242680"/>
 </node>
@@ -5856,13 +6844,20 @@
 <node TEXT="Atthakathaa" ID="ID_1122913415" CREATED="1744301023239" MODIFIED="1744301026624"/>
 <node TEXT="Tika" ID="ID_1469917663" CREATED="1744301026831" MODIFIED="1744301027765"/>
 </node>
-<node TEXT="Pali literature" ID="ID_1342948435" CREATED="1744301049409" MODIFIED="1744301053378"/>
+<node TEXT="Pali literature" ID="ID_1342948435" CREATED="1744301049409" MODIFIED="1744301053378">
+<node TEXT="Therigaathaas" ID="ID_1303947312" CREATED="1746124779552" MODIFIED="1746124786122">
+<arrowlink DESTINATION="ID_1328088972"/>
+<arrowlink DESTINATION="ID_1116328278"/>
+</node>
+</node>
 <node TEXT="Paritta" ID="ID_366742222" CREATED="1744301053793" MODIFIED="1744301060466"/>
 </node>
 <node TEXT="Mahayanic" ID="ID_1135902769" CREATED="1744300656109" MODIFIED="1744300677541">
 <node TEXT="Sutras" ID="ID_1950725042" CREATED="1744301171366" MODIFIED="1744301173219">
 <node TEXT="Prajnyaparamitasutra" ID="ID_1430182961" CREATED="1744301157410" MODIFIED="1744301163576"/>
-<node TEXT="Lotus sutra" ID="ID_33207824" CREATED="1744301175300" MODIFIED="1744301177977"/>
+<node TEXT="Lotus sutra" ID="ID_33207824" CREATED="1744301175300" MODIFIED="1744301177977">
+<arrowlink DESTINATION="ID_1542125000"/>
+</node>
 <node TEXT="Buddhaavatamsakasutra" ID="ID_499822480" CREATED="1744301178297" MODIFIED="1744301188756"/>
 <node TEXT="Mahaaratnakutasutra" ID="ID_1755653231" CREATED="1744301189457" MODIFIED="1744301200332"/>
 <node TEXT="Mahaasannipaatasutra" ID="ID_282660025" CREATED="1744301200595" MODIFIED="1744301269713"/>
